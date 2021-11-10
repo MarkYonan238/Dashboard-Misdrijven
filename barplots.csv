@@ -1,0 +1,2003 @@
+SoortMisdrijf,RegioS,Perioden,Unnamed: 0,ID,TotaalGeregistreerdeMisdrijven_1,GeregistreerdeMisdrijvenRelatief_2,GeregistreerdeMisdrijvenPer1000Inw_3,TotaalOpgehelderdeMisdrijven_4,OpgehelderdeMisdrijvenRelatief_5,RegistratiesVanVerdachten_6
+Bedrog,Drenthe (PV),2010,140536,140536,1730.0,6.0,3.5,760.0,157.7,980.0
+Bedrog,Drenthe (PV),2011,140540,140540,1485.0,6.0,3.0,585.0,195.89999999999998,710.0
+Bedrog,Drenthe (PV),2012,140544,140544,1775.0,7.0,3.5,660.0,174.6,825.0
+Bedrog,Drenthe (PV),2013,140548,140548,1290.0,6.0,2.6,440.0,189.6,520.0
+Bedrog,Drenthe (PV),2014,140552,140552,1185.0,6.0,2.4,330.0,116.6,450.0
+Bedrog,Drenthe (PV),2015,140556,140556,2175.0,10.0,4.300000000000001,300.0,135.7,470.0
+Bedrog,Drenthe (PV),2016,140560,140560,2500.0,14.0,5.1000000000000005,160.0,59.6,590.0
+Bedrog,Drenthe (PV),2017,140564,140564,2160.0,13.0,4.300000000000001,125.0,32.2,155.0
+Bedrog,Drenthe (PV),2018,140568,140568,2280.0,14.0,4.5,90.0,14.3,140.0
+Bedrog,Drenthe (PV),2019,140572,140572,2890.0,16.0,5.699999999999999,80.0,18.8,120.0
+Bedrog,Drenthe (PV),2020,140576,140576,3300.0,18.0,6.5,50.0,14.4,110.0
+Bedrog,Flevoland (PV),2010,140624,140624,1180.0,4.0,3.0,390.0,65.9,550.0
+Bedrog,Flevoland (PV),2011,140628,140628,955.0,4.0,2.4,230.0,48.599999999999994,305.0
+Bedrog,Flevoland (PV),2012,140632,140632,1075.0,4.0,2.7,340.0,137.4,380.0
+Bedrog,Flevoland (PV),2013,140636,140636,1015.0,4.0,2.6,330.0,65.30000000000001,475.0
+Bedrog,Flevoland (PV),2014,140640,140640,845.0,4.0,2.1,205.0,123.3,280.0
+Bedrog,Flevoland (PV),2015,140644,140644,1990.0,9.0,4.9,125.0,40.3,145.0
+Bedrog,Flevoland (PV),2016,140648,140648,2370.0,11.0,5.699999999999999,75.0,37.0,110.0
+Bedrog,Flevoland (PV),2017,140652,140652,1950.0,10.0,4.699999999999999,80.0,38.5,90.0
+Bedrog,Flevoland (PV),2018,140656,140656,2215.0,12.0,5.300000000000001,90.0,42.5,110.0
+Bedrog,Flevoland (PV),2019,140660,140660,2690.0,14.0,6.300000000000001,65.0,29.9,90.0
+Bedrog,Flevoland (PV),2020,140664,140664,3520.0,18.0,8.3,65.0,20.6,150.0
+Bedrog,Fryslân (PV),2010,140492,140492,2260.0,7.0,3.5,1035.0,176.8,1130.0
+Bedrog,Fryslân (PV),2011,140496,140496,1670.0,6.0,2.6,600.0,135.8,620.0
+Bedrog,Fryslân (PV),2012,140500,140500,1895.0,6.0,2.9,650.0,132.6,730.0
+Bedrog,Fryslân (PV),2013,140504,140504,1370.0,4.0,2.1,520.0,152.6,580.0
+Bedrog,Fryslân (PV),2014,140508,140508,1310.0,4.0,2.0,400.0,159.8,480.0
+Bedrog,Fryslân (PV),2015,140512,140512,2875.0,10.0,4.300000000000001,290.0,138.7,375.0
+Bedrog,Fryslân (PV),2016,140516,140516,3500.0,14.0,5.300000000000001,85.0,32.300000000000004,120.0
+Bedrog,Fryslân (PV),2017,140520,140520,3090.0,14.0,4.699999999999999,190.0,52.4,260.0
+Bedrog,Fryslân (PV),2018,140524,140524,3380.0,15.0,5.1,165.0,29.0,215.0
+Bedrog,Fryslân (PV),2019,140528,140528,4010.0,18.0,6.1,150.0,29.700000000000003,260.0
+Bedrog,Fryslân (PV),2020,140532,140532,4470.0,20.0,6.8,90.0,12.7,160.0
+Bedrog,Gelderland (PV),2010,140668,140668,5870.0,4.0,2.9,2230.0,171.29999999999998,2520.0
+Bedrog,Gelderland (PV),2011,140672,140672,5370.0,4.0,2.6,1380.0,155.8,1595.0
+Bedrog,Gelderland (PV),2012,140676,140676,5620.0,4.0,2.8,1370.0,132.29999999999998,1630.0
+Bedrog,Gelderland (PV),2013,140680,140680,4500.0,4.0,2.2,1370.0,142.0,1585.0
+Bedrog,Gelderland (PV),2014,140684,140684,3990.0,4.0,1.9,1100.0,173.6,1380.0
+Bedrog,Gelderland (PV),2015,140688,140688,8195.0,8.0,4.0,680.0,106.69999999999999,940.0
+Bedrog,Gelderland (PV),2016,140692,140692,10610.0,11.0,5.199999999999999,530.0,43.7,800.0
+Bedrog,Gelderland (PV),2017,140696,140696,9495.0,11.0,4.6,650.0,44.2,890.0
+Bedrog,Gelderland (PV),2018,140700,140700,10295.0,13.0,5.0,700.0,47.1,880.0
+Bedrog,Gelderland (PV),2019,140704,140704,12690.0,15.0,6.199999999999999,475.0,43.199999999999996,635.0
+Bedrog,Gelderland (PV),2020,140708,140708,14500.0,17.0,7.0,400.0,23.099999999999998,815.0
+Bedrog,Groningen (PV),2010,140448,140448,2350.0,6.0,4.0,900.0,146.9,1105.0
+Bedrog,Groningen (PV),2011,140452,140452,2025.0,6.0,3.4,830.0,160.0,920.0
+Bedrog,Groningen (PV),2012,140456,140456,2050.0,6.0,3.5,690.0,148.2,780.0
+Bedrog,Groningen (PV),2013,140460,140460,1545.0,4.0,2.6,505.0,176.5,585.0
+Bedrog,Groningen (PV),2014,140464,140464,1335.0,4.0,2.2,375.0,163.5,440.0
+Bedrog,Groningen (PV),2015,140468,140468,2680.0,8.0,4.5,215.0,103.8,260.0
+Bedrog,Groningen (PV),2016,140472,140472,3300.0,11.0,5.6000000000000005,140.0,38.0,190.0
+Bedrog,Groningen (PV),2017,140476,140476,2770.0,11.0,4.6,170.0,44.8,190.0
+Bedrog,Groningen (PV),2018,140480,140480,2820.0,12.0,4.699999999999999,105.0,21.3,170.0
+Bedrog,Groningen (PV),2019,140484,140484,3710.0,14.0,6.300000000000001,175.0,37.1,260.0
+Bedrog,Groningen (PV),2020,140488,140488,4215.0,18.0,7.1,70.0,9.6,175.0
+Bedrog,Limburg (PV),2010,140932,140932,3915.0,4.0,3.4,1395.0,173.9,1680.0
+Bedrog,Limburg (PV),2011,140936,140936,3330.0,4.0,2.9,905.0,155.89999999999998,1010.0
+Bedrog,Limburg (PV),2012,140940,140940,3480.0,4.0,3.0,850.0,146.5,990.0
+Bedrog,Limburg (PV),2013,140944,140944,2765.0,4.0,2.4,780.0,164.3,900.0
+Bedrog,Limburg (PV),2014,140948,140948,2375.0,4.0,2.1,690.0,164.0,830.0
+Bedrog,Limburg (PV),2015,140952,140952,4450.0,6.0,4.0,330.0,94.6,400.0
+Bedrog,Limburg (PV),2016,140956,140956,5550.0,8.0,4.8999999999999995,215.0,36.0,295.0
+Bedrog,Limburg (PV),2017,140960,140960,4600.0,8.0,4.1,220.0,34.8,280.0
+Bedrog,Limburg (PV),2018,140964,140964,4990.0,10.0,4.4,180.0,31.4,255.0
+Bedrog,Limburg (PV),2019,140968,140968,6590.0,12.0,6.0,200.0,34.300000000000004,245.0
+Bedrog,Limburg (PV),2020,140972,140972,7755.0,15.0,7.0,165.0,19.1,350.0
+Bedrog,Niet in te delen (PV),2010,140976,140976,760.0,32.0,0.0,220.0,155.9,270.0
+Bedrog,Niet in te delen (PV),2011,140980,140980,535.0,26.0,0.0,110.0,41.3,110.0
+Bedrog,Niet in te delen (PV),2012,140984,140984,410.0,24.0,0.0,85.0,42.9,100.0
+Bedrog,Niet in te delen (PV),2013,140988,140988,290.0,21.0,0.0,100.0,71.6,120.0
+Bedrog,Niet in te delen (PV),2014,140992,140992,290.0,20.0,0.0,90.0,63.9,110.0
+Bedrog,Niet in te delen (PV),2015,140996,140996,220.0,14.0,0.0,40.0,93.6,50.0
+Bedrog,Niet in te delen (PV),2016,141000,141000,100.0,8.0,0.0,30.0,86.4,40.0
+Bedrog,Niet in te delen (PV),2017,141004,141004,130.0,8.0,0.0,55.0,141.6,70.0
+Bedrog,Niet in te delen (PV),2018,141008,141008,70.0,4.0,0.0,10.0,44.400000000000006,30.0
+Bedrog,Niet in te delen (PV),2019,141012,141012,50.0,2.0,0.0,30.0,110.7,30.0
+Bedrog,Niet in te delen (PV),2020,141016,141016,20.0,2.0,0.0,0.0,0.0,10.0
+Bedrog,Noord-Brabant (PV),2010,140888,140888,6980.0,4.0,2.8,2225.0,148.1,2575.0
+Bedrog,Noord-Brabant (PV),2011,140892,140892,6340.0,4.0,2.6,1510.0,147.8,1890.0
+Bedrog,Noord-Brabant (PV),2012,140896,140896,7040.0,4.0,2.8,1435.0,142.3,1670.0
+Bedrog,Noord-Brabant (PV),2013,140900,140900,5790.0,4.0,2.3,1400.0,141.10000000000002,1720.0
+Bedrog,Noord-Brabant (PV),2014,140904,140904,5180.0,4.0,2.0,1320.0,138.5,1740.0
+Bedrog,Noord-Brabant (PV),2015,140908,140908,10270.0,7.0,4.199999999999999,680.0,87.4,895.0
+Bedrog,Noord-Brabant (PV),2016,140912,140912,12810.0,9.0,5.2,475.0,31.5,610.0
+Bedrog,Noord-Brabant (PV),2017,140916,140916,10705.0,9.0,4.199999999999999,455.0,34.3,570.0
+Bedrog,Noord-Brabant (PV),2018,140920,140920,11360.0,10.0,4.4,410.0,38.6,505.0
+Bedrog,Noord-Brabant (PV),2019,140924,140924,15050.0,12.0,6.0,550.0,30.3,730.0
+Bedrog,Noord-Brabant (PV),2020,140928,140928,17555.0,14.0,6.799999999999999,420.0,24.8,760.0
+Bedrog,Noord-Holland (PV),2010,140756,140756,10420.0,4.0,3.9,3140.0,162.1,4080.0
+Bedrog,Noord-Holland (PV),2011,140760,140760,10300.0,4.0,3.8,2615.0,151.5,3760.0
+Bedrog,Noord-Holland (PV),2012,140764,140764,11010.0,4.0,4.0,2635.0,146.79999999999998,3405.0
+Bedrog,Noord-Holland (PV),2013,140768,140768,8770.0,4.0,3.2,2705.0,174.8,3480.0
+Bedrog,Noord-Holland (PV),2014,140772,140772,8070.0,4.0,2.9,2235.0,178.09999999999997,2820.0
+Bedrog,Noord-Holland (PV),2015,140776,140776,13930.0,6.0,5.0,1155.0,117.39999999999999,1580.0
+Bedrog,Noord-Holland (PV),2016,140780,140780,16140.0,8.0,5.8,530.0,29.2,760.0
+Bedrog,Noord-Holland (PV),2017,140784,140784,14315.0,8.0,5.1000000000000005,640.0,31.1,850.0
+Bedrog,Noord-Holland (PV),2018,140788,140788,14740.0,9.0,5.199999999999999,440.0,25.9,645.0
+Bedrog,Noord-Holland (PV),2019,140792,140792,18440.0,11.0,6.4,500.0,21.3,810.0
+Bedrog,Noord-Holland (PV),2020,140796,140796,20945.0,13.0,7.199999999999999,350.0,12.2,770.0
+Bedrog,Overijssel (PV),2010,140580,140580,3840.0,6.0,3.3,1540.0,190.20000000000002,1720.0
+Bedrog,Overijssel (PV),2011,140584,140584,3840.0,6.0,3.3,1675.0,204.9,1850.0
+Bedrog,Overijssel (PV),2012,140588,140588,4030.0,6.0,3.5,1590.0,201.0,1855.0
+Bedrog,Overijssel (PV),2013,140592,140592,3075.0,5.0,2.7,1220.0,172.1,1570.0
+Bedrog,Overijssel (PV),2014,140596,140596,2540.0,4.0,2.1,840.0,176.8,1060.0
+Bedrog,Overijssel (PV),2015,140600,140600,4930.0,10.0,4.3,565.0,126.19999999999999,800.0
+Bedrog,Overijssel (PV),2016,140604,140604,6020.0,12.0,5.199999999999999,250.0,46.0,290.0
+Bedrog,Overijssel (PV),2017,140608,140608,5130.0,12.0,4.4,280.0,40.9,430.0
+Bedrog,Overijssel (PV),2018,140612,140612,5675.0,13.0,5.0,365.0,49.4,430.0
+Bedrog,Overijssel (PV),2019,140616,140616,6930.0,16.0,6.0,260.0,34.7,335.0
+Bedrog,Overijssel (PV),2020,140620,140620,8055.0,18.0,7.0,170.0,25.2,290.0
+Bedrog,Utrecht (PV),2010,140712,140712,3530.0,4.0,2.8,1480.0,183.8,1680.0
+Bedrog,Utrecht (PV),2011,140716,140716,3280.0,4.0,2.6,1030.0,153.4,1200.0
+Bedrog,Utrecht (PV),2012,140720,140720,3670.0,4.0,3.0,1370.0,183.5,1780.0
+Bedrog,Utrecht (PV),2013,140724,140724,2970.0,4.0,2.4,1090.0,188.60000000000002,1320.0
+Bedrog,Utrecht (PV),2014,140728,140728,2815.0,4.0,2.2,870.0,181.0,1100.0
+Bedrog,Utrecht (PV),2015,140732,140732,5360.0,7.0,4.199999999999999,470.0,109.2,605.0
+Bedrog,Utrecht (PV),2016,140736,140736,6800.0,9.0,5.4,340.0,34.8,415.0
+Bedrog,Utrecht (PV),2017,140740,140740,6040.0,9.0,4.699999999999999,250.0,36.5,300.0
+Bedrog,Utrecht (PV),2018,140744,140744,6210.0,10.0,4.799999999999999,210.0,37.8,270.0
+Bedrog,Utrecht (PV),2019,140748,140748,8325.0,12.0,6.199999999999999,160.0,24.6,260.0
+Bedrog,Utrecht (PV),2020,140752,140752,9315.0,14.0,6.799999999999999,180.0,17.7,395.0
+Bedrog,Zeeland (PV),2010,140844,140844,1225.0,6.0,3.2,415.0,127.4,495.0
+Bedrog,Zeeland (PV),2011,140848,140848,1040.0,4.0,2.7,325.0,196.8,405.0
+Bedrog,Zeeland (PV),2012,140852,140852,1140.0,6.0,3.0,335.0,146.5,385.0
+Bedrog,Zeeland (PV),2013,140856,140856,850.0,4.0,2.2,360.0,162.7,420.0
+Bedrog,Zeeland (PV),2014,140860,140860,655.0,4.0,1.7000000000000002,210.0,134.0,320.0
+Bedrog,Zeeland (PV),2015,140864,140864,1630.0,10.0,4.2,110.0,33.0,140.0
+Bedrog,Zeeland (PV),2016,140868,140868,1990.0,12.0,5.1,90.0,53.7,140.0
+Bedrog,Zeeland (PV),2017,140872,140872,1640.0,12.0,4.1,100.0,54.300000000000004,120.0
+Bedrog,Zeeland (PV),2018,140876,140876,1600.0,12.0,4.1,70.0,59.199999999999996,90.0
+Bedrog,Zeeland (PV),2019,140880,140880,2115.0,16.0,5.5,80.0,34.2,120.0
+Bedrog,Zeeland (PV),2020,140884,140884,2445.0,17.0,6.300000000000001,70.0,28.9,130.0
+Bedrog,Zuid-Holland (PV),2010,140800,140800,11610.0,4.0,3.3,3800.0,191.8,5040.0
+Bedrog,Zuid-Holland (PV),2011,140804,140804,11000.0,4.0,3.1,3280.0,179.1,4310.0
+Bedrog,Zuid-Holland (PV),2012,140808,140808,12070.0,4.0,3.4,3500.0,176.0,4460.0
+Bedrog,Zuid-Holland (PV),2013,140812,140812,9690.0,4.0,2.7,3100.0,177.7,4055.0
+Bedrog,Zuid-Holland (PV),2014,140816,140816,8880.0,4.0,2.4,2560.0,166.70000000000002,3430.0
+Bedrog,Zuid-Holland (PV),2015,140820,140820,16105.0,7.0,4.4,1335.0,128.0,1805.0
+Bedrog,Zuid-Holland (PV),2016,140824,140824,18630.0,8.0,5.2,720.0,35.3,980.0
+Bedrog,Zuid-Holland (PV),2017,140828,140828,16790.0,8.0,4.6000000000000005,1030.0,36.5,1275.0
+Bedrog,Zuid-Holland (PV),2018,140832,140832,17210.0,9.0,4.6,715.0,30.200000000000003,885.0
+Bedrog,Zuid-Holland (PV),2019,140836,140836,22490.0,12.0,6.1,830.0,26.799999999999997,1130.0
+Bedrog,Zuid-Holland (PV),2020,140840,140840,26000.0,13.0,7.0,505.0,13.4,1025.0
+Brandstichting / ontploffing,Drenthe (PV),2010,177969,177969,215.0,1.0,0.4,45.0,21.5,75.0
+Brandstichting / ontploffing,Drenthe (PV),2011,177970,177970,230.0,1.0,0.5,50.0,22.5,85.0
+Brandstichting / ontploffing,Drenthe (PV),2012,177971,177971,250.0,1.0,0.5,55.0,21.2,90.0
+Brandstichting / ontploffing,Drenthe (PV),2013,177972,177972,235.0,1.0,0.5,60.0,25.5,80.0
+Brandstichting / ontploffing,Drenthe (PV),2014,177973,177973,220.0,1.0,0.4,55.0,24.1,80.0
+Brandstichting / ontploffing,Drenthe (PV),2015,177974,177974,190.0,1.0,0.4,50.0,26.8,60.0
+Brandstichting / ontploffing,Drenthe (PV),2016,177975,177975,135.0,1.0,0.3,30.0,23.5,50.0
+Brandstichting / ontploffing,Drenthe (PV),2017,177976,177976,125.0,1.0,0.3,25.0,20.3,25.0
+Brandstichting / ontploffing,Drenthe (PV),2018,177977,177977,125.0,1.0,0.2,35.0,30.1,40.0
+Brandstichting / ontploffing,Drenthe (PV),2019,177978,177978,105.0,1.0,0.2,20.0,21.4,30.0
+Brandstichting / ontploffing,Drenthe (PV),2020,177979,177979,165.0,1.0,0.3,35.0,19.8,55.0
+Brandstichting / ontploffing,Flevoland (PV),2010,177991,177991,185.0,1.0,0.5,25.0,14.7,50.0
+Brandstichting / ontploffing,Flevoland (PV),2011,177992,177992,170.0,1.0,0.4,35.0,19.3,45.0
+Brandstichting / ontploffing,Flevoland (PV),2012,177993,177993,165.0,1.0,0.4,30.0,17.8,40.0
+Brandstichting / ontploffing,Flevoland (PV),2013,177994,177994,165.0,1.0,0.4,35.0,20.5,65.0
+Brandstichting / ontploffing,Flevoland (PV),2014,177995,177995,130.0,1.0,0.3,25.0,17.4,30.0
+Brandstichting / ontploffing,Flevoland (PV),2015,177996,177996,140.0,1.0,0.3,25.0,17.4,30.0
+Brandstichting / ontploffing,Flevoland (PV),2016,177997,177997,130.0,1.0,0.3,40.0,29.7,55.0
+Brandstichting / ontploffing,Flevoland (PV),2017,177998,177998,120.0,1.0,0.3,25.0,21.8,35.0
+Brandstichting / ontploffing,Flevoland (PV),2018,177999,177999,115.0,1.0,0.3,20.0,16.2,25.0
+Brandstichting / ontploffing,Flevoland (PV),2019,178000,178000,100.0,1.0,0.2,20.0,18.4,25.0
+Brandstichting / ontploffing,Flevoland (PV),2020,178001,178001,85.0,0.0,0.0,25.0,30.1,35.0
+Brandstichting / ontploffing,Fryslân (PV),2010,177958,177958,255.0,1.0,0.4,80.0,30.4,100.0
+Brandstichting / ontploffing,Fryslân (PV),2011,177959,177959,335.0,1.0,0.5,105.0,31.3,145.0
+Brandstichting / ontploffing,Fryslân (PV),2012,177960,177960,200.0,1.0,0.3,55.0,28.2,85.0
+Brandstichting / ontploffing,Fryslân (PV),2013,177961,177961,175.0,1.0,0.3,45.0,24.4,70.0
+Brandstichting / ontploffing,Fryslân (PV),2014,177962,177962,205.0,1.0,0.3,50.0,23.7,60.0
+Brandstichting / ontploffing,Fryslân (PV),2015,177963,177963,160.0,1.0,0.2,60.0,37.3,75.0
+Brandstichting / ontploffing,Fryslân (PV),2016,177964,177964,135.0,1.0,0.2,45.0,35.3,75.0
+Brandstichting / ontploffing,Fryslân (PV),2017,177965,177965,120.0,1.0,0.2,35.0,28.6,50.0
+Brandstichting / ontploffing,Fryslân (PV),2018,177966,177966,120.0,1.0,0.2,40.0,35.0,60.0
+Brandstichting / ontploffing,Fryslân (PV),2019,177967,177967,160.0,1.0,0.2,65.0,41.6,90.0
+Brandstichting / ontploffing,Fryslân (PV),2020,177968,177968,155.0,1.0,0.2,40.0,25.5,80.0
+Brandstichting / ontploffing,Gelderland (PV),2010,178002,178002,820.0,1.0,0.4,170.0,20.7,255.0
+Brandstichting / ontploffing,Gelderland (PV),2011,178003,178003,805.0,1.0,0.4,200.0,24.7,330.0
+Brandstichting / ontploffing,Gelderland (PV),2012,178004,178004,675.0,1.0,0.3,140.0,20.9,215.0
+Brandstichting / ontploffing,Gelderland (PV),2013,178005,178005,560.0,0.0,0.3,110.0,20.0,175.0
+Brandstichting / ontploffing,Gelderland (PV),2014,178006,178006,595.0,1.0,0.3,140.0,23.5,180.0
+Brandstichting / ontploffing,Gelderland (PV),2015,178007,178007,515.0,1.0,0.3,105.0,20.1,135.0
+Brandstichting / ontploffing,Gelderland (PV),2016,178008,178008,640.0,1.0,0.3,140.0,21.8,195.0
+Brandstichting / ontploffing,Gelderland (PV),2017,178009,178009,545.0,1.0,0.3,115.0,20.7,155.0
+Brandstichting / ontploffing,Gelderland (PV),2018,178010,178010,470.0,1.0,0.2,140.0,29.2,175.0
+Brandstichting / ontploffing,Gelderland (PV),2019,178011,178011,525.0,1.0,0.3,150.0,28.3,205.0
+Brandstichting / ontploffing,Gelderland (PV),2020,178012,178012,625.0,1.0,0.3,145.0,23.0,230.0
+Brandstichting / ontploffing,Groningen (PV),2010,177947,177947,335.0,1.0,0.6,65.0,19.2,105.0
+Brandstichting / ontploffing,Groningen (PV),2011,177948,177948,350.0,1.0,0.6,105.0,29.3,150.0
+Brandstichting / ontploffing,Groningen (PV),2012,177949,177949,290.0,1.0,0.5,90.0,30.3,150.0
+Brandstichting / ontploffing,Groningen (PV),2013,177950,177950,160.0,0.0,0.3,60.0,37.3,80.0
+Brandstichting / ontploffing,Groningen (PV),2014,177951,177951,185.0,1.0,0.3,40.0,22.5,60.0
+Brandstichting / ontploffing,Groningen (PV),2015,177952,177952,170.0,1.0,0.3,30.0,18.9,35.0
+Brandstichting / ontploffing,Groningen (PV),2016,177953,177953,130.0,0.0,0.2,25.0,18.0,35.0
+Brandstichting / ontploffing,Groningen (PV),2017,177954,177954,150.0,1.0,0.3,55.0,36.2,75.0
+Brandstichting / ontploffing,Groningen (PV),2018,177955,177955,175.0,1.0,0.3,35.0,20.0,55.0
+Brandstichting / ontploffing,Groningen (PV),2019,177956,177956,155.0,1.0,0.3,30.0,20.5,50.0
+Brandstichting / ontploffing,Groningen (PV),2020,177957,177957,145.0,1.0,0.3,35.0,24.5,45.0
+Brandstichting / ontploffing,Limburg (PV),2010,178068,178068,660.0,1.0,0.6,120.0,17.8,175.0
+Brandstichting / ontploffing,Limburg (PV),2011,178069,178069,680.0,1.0,0.6,80.0,12.0,120.0
+Brandstichting / ontploffing,Limburg (PV),2012,178070,178070,610.0,1.0,0.5,100.0,16.0,155.0
+Brandstichting / ontploffing,Limburg (PV),2013,178071,178071,475.0,1.0,0.4,75.0,15.5,95.0
+Brandstichting / ontploffing,Limburg (PV),2014,178072,178072,430.0,1.0,0.4,65.0,15.6,105.0
+Brandstichting / ontploffing,Limburg (PV),2015,178073,178073,560.0,1.0,0.5,90.0,15.9,145.0
+Brandstichting / ontploffing,Limburg (PV),2016,178074,178074,445.0,1.0,0.4,60.0,13.7,90.0
+Brandstichting / ontploffing,Limburg (PV),2017,178075,178075,425.0,1.0,0.4,80.0,18.9,95.0
+Brandstichting / ontploffing,Limburg (PV),2018,178076,178076,370.0,1.0,0.3,65.0,16.9,80.0
+Brandstichting / ontploffing,Limburg (PV),2019,178077,178077,365.0,1.0,0.3,80.0,22.1,110.0
+Brandstichting / ontploffing,Limburg (PV),2020,178078,178078,350.0,1.0,0.3,40.0,10.8,70.0
+Brandstichting / ontploffing,Niet in te delen (PV),2010,178079,178079,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2011,178080,178080,5.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2012,178081,178081,5.0,0.0,0.0,0.0,0.0,5.0
+Brandstichting / ontploffing,Niet in te delen (PV),2013,178082,178082,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2014,178083,178083,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2015,178084,178084,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2016,178085,178085,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2017,178086,178086,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2018,178087,178087,5.0,0.0,0.0,5.0,60.0,5.0
+Brandstichting / ontploffing,Niet in te delen (PV),2019,178088,178088,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Niet in te delen (PV),2020,178089,178089,0.0,0.0,0.0,0.0,0.0,0.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2010,178057,178057,1065.0,1.0,0.4,220.0,20.5,390.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2011,178058,178058,935.0,1.0,0.4,165.0,17.7,250.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2012,178059,178059,890.0,1.0,0.4,190.0,21.2,285.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2013,178060,178060,765.0,0.0,0.3,135.0,17.8,205.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2014,178061,178061,710.0,0.0,0.3,125.0,17.5,180.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2015,178062,178062,730.0,1.0,0.3,140.0,19.0,185.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2016,178063,178063,655.0,0.0,0.3,115.0,17.7,155.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2017,178064,178064,780.0,1.0,0.3,140.0,17.6,195.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2018,178065,178065,770.0,1.0,0.3,195.0,25.4,275.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2019,178066,178066,810.0,1.0,0.3,145.0,18.1,200.0
+Brandstichting / ontploffing,Noord-Brabant (PV),2020,178067,178067,790.0,1.0,0.3,125.0,15.5,170.0
+Brandstichting / ontploffing,Noord-Holland (PV),2010,178024,178024,995.0,0.0,0.4,230.0,22.9,375.0
+Brandstichting / ontploffing,Noord-Holland (PV),2011,178025,178025,1005.0,0.0,0.4,260.0,25.8,395.0
+Brandstichting / ontploffing,Noord-Holland (PV),2012,178026,178026,890.0,0.0,0.3,220.0,24.5,360.0
+Brandstichting / ontploffing,Noord-Holland (PV),2013,178027,178027,755.0,0.0,0.3,155.0,20.8,235.0
+Brandstichting / ontploffing,Noord-Holland (PV),2014,178028,178028,705.0,0.0,0.3,145.0,20.8,195.0
+Brandstichting / ontploffing,Noord-Holland (PV),2015,178029,178029,735.0,0.0,0.3,160.0,21.4,210.0
+Brandstichting / ontploffing,Noord-Holland (PV),2016,178030,178030,730.0,0.0,0.3,155.0,21.1,225.0
+Brandstichting / ontploffing,Noord-Holland (PV),2017,178031,178031,715.0,0.0,0.3,140.0,19.6,170.0
+Brandstichting / ontploffing,Noord-Holland (PV),2018,178032,178032,710.0,0.0,0.3,120.0,16.6,160.0
+Brandstichting / ontploffing,Noord-Holland (PV),2019,178033,178033,745.0,0.0,0.3,140.0,19.0,205.0
+Brandstichting / ontploffing,Noord-Holland (PV),2020,178034,178034,800.0,1.0,0.3,120.0,14.9,180.0
+Brandstichting / ontploffing,Overijssel (PV),2010,177980,177980,430.0,1.0,0.4,95.0,22.7,160.0
+Brandstichting / ontploffing,Overijssel (PV),2011,177981,177981,340.0,1.0,0.3,80.0,23.3,115.0
+Brandstichting / ontploffing,Overijssel (PV),2012,177982,177982,380.0,1.0,0.3,105.0,27.2,165.0
+Brandstichting / ontploffing,Overijssel (PV),2013,177983,177983,350.0,1.0,0.3,75.0,21.0,100.0
+Brandstichting / ontploffing,Overijssel (PV),2014,177984,177984,295.0,1.0,0.3,60.0,20.3,75.0
+Brandstichting / ontploffing,Overijssel (PV),2015,177985,177985,270.0,1.0,0.2,70.0,25.7,90.0
+Brandstichting / ontploffing,Overijssel (PV),2016,177986,177986,320.0,1.0,0.3,75.0,23.4,105.0
+Brandstichting / ontploffing,Overijssel (PV),2017,177987,177987,275.0,1.0,0.2,90.0,31.9,120.0
+Brandstichting / ontploffing,Overijssel (PV),2018,177988,177988,285.0,1.0,0.2,85.0,29.6,115.0
+Brandstichting / ontploffing,Overijssel (PV),2019,177989,177989,250.0,1.0,0.2,70.0,27.2,85.0
+Brandstichting / ontploffing,Overijssel (PV),2020,177990,177990,270.0,1.0,0.2,55.0,20.0,75.0
+Brandstichting / ontploffing,Utrecht (PV),2010,178013,178013,510.0,1.0,0.4,85.0,16.7,135.0
+Brandstichting / ontploffing,Utrecht (PV),2011,178014,178014,460.0,1.0,0.4,90.0,19.4,130.0
+Brandstichting / ontploffing,Utrecht (PV),2012,178015,178015,380.0,0.0,0.3,65.0,17.7,95.0
+Brandstichting / ontploffing,Utrecht (PV),2013,178016,178016,410.0,1.0,0.3,95.0,23.5,145.0
+Brandstichting / ontploffing,Utrecht (PV),2014,178017,178017,385.0,1.0,0.3,100.0,26.4,140.0
+Brandstichting / ontploffing,Utrecht (PV),2015,178018,178018,380.0,1.0,0.3,75.0,19.2,100.0
+Brandstichting / ontploffing,Utrecht (PV),2016,178019,178019,405.0,1.0,0.3,65.0,15.5,75.0
+Brandstichting / ontploffing,Utrecht (PV),2017,178020,178020,360.0,1.0,0.3,70.0,19.6,75.0
+Brandstichting / ontploffing,Utrecht (PV),2018,178021,178021,430.0,1.0,0.3,95.0,21.9,110.0
+Brandstichting / ontploffing,Utrecht (PV),2019,178022,178022,370.0,1.0,0.3,75.0,20.5,105.0
+Brandstichting / ontploffing,Utrecht (PV),2020,178023,178023,350.0,1.0,0.3,55.0,15.6,80.0
+Brandstichting / ontploffing,Zeeland (PV),2010,178046,178046,145.0,1.0,0.4,30.0,22.1,55.0
+Brandstichting / ontploffing,Zeeland (PV),2011,178047,178047,170.0,1.0,0.4,50.0,29.2,115.0
+Brandstichting / ontploffing,Zeeland (PV),2012,178048,178048,135.0,1.0,0.4,40.0,28.7,60.0
+Brandstichting / ontploffing,Zeeland (PV),2013,178049,178049,205.0,1.0,0.5,45.0,22.0,80.0
+Brandstichting / ontploffing,Zeeland (PV),2014,178050,178050,170.0,1.0,0.4,40.0,24.3,65.0
+Brandstichting / ontploffing,Zeeland (PV),2015,178051,178051,120.0,1.0,0.3,20.0,18.5,40.0
+Brandstichting / ontploffing,Zeeland (PV),2016,178052,178052,105.0,1.0,0.3,20.0,19.0,30.0
+Brandstichting / ontploffing,Zeeland (PV),2017,178053,178053,100.0,1.0,0.3,25.0,26.5,35.0
+Brandstichting / ontploffing,Zeeland (PV),2018,178054,178054,130.0,1.0,0.3,60.0,45.3,100.0
+Brandstichting / ontploffing,Zeeland (PV),2019,178055,178055,80.0,1.0,0.0,25.0,29.5,35.0
+Brandstichting / ontploffing,Zeeland (PV),2020,178056,178056,55.0,0.0,0.0,20.0,35.1,35.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2010,178035,178035,1505.0,1.0,0.4,335.0,22.1,520.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2011,178036,178036,1510.0,1.0,0.4,345.0,23.0,585.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2012,178037,178037,1255.0,0.0,0.4,295.0,23.7,480.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2013,178038,178038,1070.0,0.0,0.3,265.0,24.6,410.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2014,178039,178039,1005.0,0.0,0.3,270.0,26.7,405.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2015,178040,178040,935.0,0.0,0.3,230.0,24.7,315.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2016,178041,178041,975.0,0.0,0.3,185.0,19.2,260.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2017,178042,178042,985.0,0.0,0.3,210.0,21.5,300.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2018,178043,178043,930.0,1.0,0.3,240.0,25.8,325.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2019,178044,178044,1105.0,1.0,0.3,200.0,18.3,305.0
+Brandstichting / ontploffing,Zuid-Holland (PV),2020,178045,178045,1235.0,1.0,0.3,215.0,17.3,340.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2010,48807,48807,26310.0,101.0,53.599999999999994,3600.0,56.6,4810.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2011,48810,48810,27320.0,104.0,55.6,4050.0,62.8,5420.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2012,48813,48813,25960.0,104.0,52.9,3740.0,65.2,5080.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2013,48816,48816,24910.0,108.0,50.8,3450.0,63.7,4760.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2014,48819,48819,22160.0,104.0,45.3,3440.0,72.9,5150.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2015,48822,48822,19990.0,99.0,40.8,3150.0,86.1,4440.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2016,48825,48825,18040.0,97.0,37.0,2975.0,74.1,4060.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2017,48828,48828,14870.0,91.0,30.2,2645.0,78.6,3540.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2018,48831,48831,12800.0,81.0,25.9,2265.0,92.2,3185.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2019,48834,48834,13720.0,80.0,27.700000000000003,2310.0,77.80000000000001,3065.0
+Diefstal/verduistering en inbraak,Drenthe (PV),2020,48837,48837,12500.0,70.0,25.2,1810.0,64.8,2620.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2010,48873,48873,26245.0,102.0,67.69999999999999,3985.0,62.00000000000001,5645.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2011,48876,48876,27640.0,106.0,70.5,4250.0,63.7,5835.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2012,48879,48879,28190.0,110.0,71.30000000000001,4125.0,62.1,5785.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2013,48882,48882,30230.0,116.0,75.8,4400.0,64.5,6060.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2014,48885,48885,24540.0,105.0,61.4,4310.0,76.9,5680.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2015,48888,48888,21920.0,101.0,54.5,3850.0,72.2,5010.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2016,48891,48891,19730.0,94.0,48.8,3560.0,73.6,4570.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2017,48894,48894,17230.0,92.0,42.2,3890.0,87.0,5005.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2018,48897,48897,16060.0,88.0,39.0,3340.0,82.5,4315.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2019,48900,48900,16400.0,85.0,39.3,3590.0,89.5,4820.0
+Diefstal/verduistering en inbraak,Flevoland (PV),2020,48903,48903,13900.0,74.0,32.8,2870.0,81.7,3870.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2010,48774,48774,28770.0,91.0,44.5,5270.0,73.7,6700.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2011,48777,48777,29275.0,92.0,45.2,5080.0,74.1,6530.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2012,48780,48780,28275.0,95.0,43.7,4860.0,81.5,6140.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2013,48783,48783,29180.0,102.0,45.1,4755.0,66.6,6205.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2014,48786,48786,28600.0,104.0,44.2,4965.0,82.4,6345.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2015,48789,48789,26050.0,98.0,40.4,4895.0,84.8,6600.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2016,48792,48792,22470.0,91.0,34.8,4135.0,91.1,5300.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2017,48795,48795,17060.0,80.0,26.299999999999997,3850.0,91.0,4910.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2018,48798,48798,17060.0,77.0,26.2,3930.0,106.3,5090.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2019,48801,48801,15910.0,71.0,24.5,3860.0,112.0,4980.0
+Diefstal/verduistering en inbraak,Fryslân (PV),2020,48804,48804,13350.0,60.0,20.4,2910.0,87.3,4010.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2010,48906,48906,145160.0,114.0,72.6,16160.0,57.599999999999994,22050.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2011,48909,48909,145135.0,116.0,72.4,15945.0,56.300000000000004,21180.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2012,48912,48912,140070.0,117.0,69.6,15500.0,57.2,20735.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2013,48915,48915,136135.0,120.0,67.6,16120.0,57.7,21950.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2014,48918,48918,118465.0,116.0,58.6,16015.0,65.7,20730.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2015,48921,48921,104030.0,110.0,51.3,14630.0,65.0,19200.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2016,48924,48924,96820.0,105.0,47.6,14125.0,71.2,17840.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2017,48927,48927,80620.0,99.0,39.4,12410.0,77.3,15710.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2018,48930,48930,70840.0,92.0,34.4,11845.0,86.8,14875.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2019,48933,48933,72470.0,88.0,35.0,12560.0,78.9,15930.0
+Diefstal/verduistering en inbraak,Gelderland (PV),2020,48936,48936,64920.0,78.0,31.2,10285.0,66.1,13560.0
+Diefstal/verduistering en inbraak,Groningen (PV),2010,48741,48741,39280.0,102.0,68.2,7050.0,69.0,9630.0
+Diefstal/verduistering en inbraak,Groningen (PV),2011,48744,48744,38830.0,104.0,67.0,7045.0,75.0,9400.0
+Diefstal/verduistering en inbraak,Groningen (PV),2012,48747,48747,38285.0,106.0,65.9,6530.0,76.0,8460.0
+Diefstal/verduistering en inbraak,Groningen (PV),2013,48750,48750,39675.0,116.0,68.2,6780.0,86.5,8800.0
+Diefstal/verduistering en inbraak,Groningen (PV),2014,48753,48753,34230.0,112.0,58.8,5800.0,78.69999999999999,7430.0
+Diefstal/verduistering en inbraak,Groningen (PV),2015,48756,48756,33090.0,110.0,56.7,5580.0,84.5,7235.0
+Diefstal/verduistering en inbraak,Groningen (PV),2016,48759,48759,31755.0,108.0,54.4,4900.0,80.10000000000001,6280.0
+Diefstal/verduistering en inbraak,Groningen (PV),2017,48762,48762,23210.0,93.0,39.8,4490.0,87.30000000000001,5855.0
+Diefstal/verduistering en inbraak,Groningen (PV),2018,48765,48765,21740.0,91.0,37.4,4720.0,95.89999999999999,5970.0
+Diefstal/verduistering en inbraak,Groningen (PV),2019,48768,48768,21235.0,85.0,36.4,4550.0,88.0,5830.0
+Diefstal/verduistering en inbraak,Groningen (PV),2020,48771,48771,17005.0,72.0,29.0,3110.0,68.9,4325.0
+Diefstal/verduistering en inbraak,Limburg (PV),2010,49104,49104,93975.0,110.0,83.8,10590.0,52.800000000000004,14610.0
+Diefstal/verduistering en inbraak,Limburg (PV),2011,49107,49107,102145.0,118.0,91.0,10930.0,51.89999999999999,14500.0
+Diefstal/verduistering en inbraak,Limburg (PV),2012,49110,49110,96990.0,118.0,86.4,10300.0,53.400000000000006,13660.0
+Diefstal/verduistering en inbraak,Limburg (PV),2013,49113,49113,91390.0,118.0,81.4,9830.0,55.99999999999999,12720.0
+Diefstal/verduistering en inbraak,Limburg (PV),2014,49116,49116,89155.0,120.0,79.6,9090.0,52.99999999999999,11605.0
+Diefstal/verduistering en inbraak,Limburg (PV),2015,49119,49119,80875.0,118.0,72.4,8960.0,60.7,11320.0
+Diefstal/verduistering en inbraak,Limburg (PV),2016,49122,49122,70120.0,112.0,62.8,8590.0,64.10000000000001,10930.0
+Diefstal/verduistering en inbraak,Limburg (PV),2017,49125,49125,60880.0,108.0,54.4,7655.0,65.4,9730.0
+Diefstal/verduistering en inbraak,Limburg (PV),2018,49128,49128,52700.0,101.0,47.2,7650.0,78.9,9700.0
+Diefstal/verduistering en inbraak,Limburg (PV),2019,49131,49131,50100.0,92.0,44.8,7430.0,82.6,9545.0
+Diefstal/verduistering en inbraak,Limburg (PV),2020,49134,49134,40990.0,81.0,36.6,6325.0,73.9,8495.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2010,49137,49137,2030.0,84.0,0.0,200.0,20.0,240.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2011,49140,49140,1590.0,75.0,0.0,115.0,33.9,165.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2012,49143,49143,1250.0,73.0,0.0,90.0,47.3,125.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2013,49146,49146,1170.0,86.0,0.0,100.0,41.3,140.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2014,49149,49149,1320.0,94.0,0.0,110.0,71.0,155.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2015,49152,49152,890.0,53.0,0.0,50.0,12.0,90.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2016,49155,49155,830.0,73.0,0.0,40.0,9.399999999999999,50.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2017,49158,49158,1405.0,86.0,0.0,40.0,5.300000000000001,60.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2018,49161,49161,1500.0,88.0,0.0,40.0,4.9,55.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2019,49164,49164,1890.0,98.0,0.0,40.0,4.2,50.0
+Diefstal/verduistering en inbraak,Niet in te delen (PV),2020,49167,49167,550.0,60.0,0.0,15.0,103.3,25.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2010,49071,49071,198170.0,112.0,81.1,21395.0,50.300000000000004,28880.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2011,49074,49074,200170.0,114.0,81.6,20830.0,51.6,27640.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2012,49077,49077,199895.0,116.0,81.2,20730.0,50.9,27220.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2013,49080,49080,198020.0,120.0,80.2,21700.0,54.4,28670.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2014,49083,49083,180540.0,119.0,72.8,19660.0,54.2,25140.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2015,49086,49086,164730.0,114.0,66.2,18165.0,55.0,23250.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2016,49089,49089,142470.0,106.0,57.0,16730.0,61.89999999999999,20960.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2017,49092,49092,119770.0,101.0,47.7,15305.0,61.9,19410.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2018,49095,49095,107600.0,96.0,42.599999999999994,15620.0,70.0,19540.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2019,49098,49098,104445.0,88.0,41.0,15155.0,71.9,19280.0
+Diefstal/verduistering en inbraak,Noord-Brabant (PV),2020,49101,49101,96010.0,80.0,37.4,12535.0,63.0,16260.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2010,48972,48972,280080.0,119.0,105.0,33910.0,53.300000000000004,46480.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2011,48975,48975,281115.0,119.0,104.4,35700.0,57.300000000000004,47660.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2012,48978,48978,273625.0,122.0,101.0,33900.0,53.699999999999996,44370.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2013,48981,48981,282850.0,128.0,103.8,33640.0,50.9,44955.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2014,48984,48984,256500.0,124.0,93.6,32545.0,55.400000000000006,42160.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2015,48987,48987,245610.0,121.0,89.0,29850.0,55.099999999999994,38515.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2016,48990,48990,218505.0,115.0,78.4,27800.0,55.8,35060.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2017,48993,48993,193035.0,112.0,68.8,25265.0,54.099999999999994,31760.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2018,48996,48996,176390.0,109.0,62.400000000000006,24780.0,59.9,31485.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2019,48999,48999,173190.0,104.0,60.599999999999994,25530.0,60.0,32620.0
+Diefstal/verduistering en inbraak,Noord-Holland (PV),2020,49002,49002,141750.0,91.0,49.3,19055.0,55.8,25030.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2010,48840,48840,67880.0,106.0,60.0,9030.0,63.4,12165.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2011,48843,48843,68800.0,107.0,60.599999999999994,9380.0,74.5,12240.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2012,48846,48846,68650.0,108.0,60.4,9890.0,65.3,13100.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2013,48849,48849,70950.0,116.0,62.3,9885.0,73.89999999999999,12660.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2014,48852,48852,60940.0,113.0,53.4,8300.0,72.7,10770.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2015,48855,48855,54400.0,108.0,47.6,7930.0,63.400000000000006,9930.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2016,48858,48858,49865.0,103.0,43.6,7450.0,76.3,9335.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2017,48861,48861,41420.0,95.0,36.099999999999994,7055.0,81.89999999999999,8900.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2018,48864,48864,37470.0,88.0,32.6,6820.0,98.2,8440.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2019,48867,48867,35485.0,83.0,30.6,7165.0,101.4,9090.0
+Diefstal/verduistering en inbraak,Overijssel (PV),2020,48870,48870,32070.0,72.0,27.6,5855.0,73.0,7660.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2010,48939,48939,111730.0,124.0,91.6,12280.0,49.599999999999994,16060.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2011,48942,48942,105550.0,122.0,85.9,11995.0,51.1,15410.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2012,48945,48945,101090.0,123.0,81.7,11935.0,60.39999999999999,15550.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2013,48948,48948,99630.0,126.0,80.0,11845.0,58.199999999999996,15420.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2014,48951,48951,93215.0,123.0,74.4,10890.0,61.599999999999994,14085.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2015,48954,48954,89300.0,120.0,70.6,9810.0,55.900000000000006,12930.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2016,48957,48957,85050.0,118.0,66.8,9365.0,58.400000000000006,11960.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2017,48960,48960,77695.0,117.0,60.4,8725.0,61.99999999999999,11130.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2018,48963,48963,69760.0,110.0,53.8,8345.0,70.5,10900.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2019,48966,48966,67265.0,103.0,50.1,8030.0,64.19999999999999,10360.0
+Diefstal/verduistering en inbraak,Utrecht (PV),2020,48969,48969,61060.0,96.0,45.0,7100.0,60.3,9230.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2010,49038,49038,21240.0,96.0,55.6,2820.0,47.9,3925.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2011,49041,49041,21280.0,94.0,55.8,3030.0,67.1,4070.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2012,49044,49044,19615.0,94.0,51.4,2890.0,61.9,3775.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2013,49047,49047,18400.0,96.0,48.3,2740.0,58.2,3660.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2014,49050,49050,16050.0,94.0,42.1,2305.0,72.5,3050.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2015,49053,49053,14720.0,88.0,38.7,2430.0,68.5,3350.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2016,49056,49056,13335.0,86.0,35.0,2330.0,72.4,2990.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2017,49059,49059,10350.0,76.0,27.200000000000003,2250.0,88.3,3030.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2018,49062,49062,8805.0,70.0,22.8,2270.0,112.2,3255.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2019,49065,49065,9060.0,68.0,23.6,2205.0,103.9,2930.0
+Diefstal/verduistering en inbraak,Zeeland (PV),2020,49068,49068,8565.0,60.0,22.4,1780.0,87.5,2550.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2010,49005,49005,300080.0,109.0,85.6,42640.0,59.4,58260.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2011,49008,49008,307090.0,108.0,87.0,44350.0,62.5,60940.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2012,49011,49011,291000.0,108.0,81.9,42930.0,65.6,58450.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2013,49014,49014,278750.0,109.0,78.2,42165.0,67.30000000000001,56970.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2014,49017,49017,259470.0,109.0,72.6,38290.0,66.4,50610.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2015,49020,49020,242590.0,108.0,67.4,36265.0,66.8,47070.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2016,49023,49023,227590.0,104.0,62.8,32970.0,64.5,41900.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2017,49026,49026,198735.0,100.0,54.4,30370.0,67.4,38290.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2018,49029,49029,167920.0,92.0,45.6,27200.0,69.8,34610.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2019,49032,49032,167205.0,88.0,45.5,27080.0,68.3,34575.0
+Diefstal/verduistering en inbraak,Zuid-Holland (PV),2020,49035,49035,156290.0,81.0,42.2,20815.0,60.0,27175.0
+Drugsmisdrijven,Drenthe (PV),2010,1477256,1477256,530.0,2.0,0.8,520.0,383.6,740.0
+Drugsmisdrijven,Drenthe (PV),2011,1477260,1477260,495.0,2.0,0.8,490.0,377.4,710.0
+Drugsmisdrijven,Drenthe (PV),2012,1477264,1477264,485.0,2.0,0.8,470.0,355.2,665.0
+Drugsmisdrijven,Drenthe (PV),2013,1477268,1477268,565.0,2.0,1.0,545.0,363.90000000000003,720.0
+Drugsmisdrijven,Drenthe (PV),2014,1477272,1477272,520.0,2.0,0.8,510.0,351.40000000000003,850.0
+Drugsmisdrijven,Drenthe (PV),2015,1477276,1477276,385.0,2.0,0.7,380.0,395.20000000000005,605.0
+Drugsmisdrijven,Drenthe (PV),2016,1477280,1477280,420.0,2.0,0.6000000000000001,410.0,296.0,565.0
+Drugsmisdrijven,Drenthe (PV),2017,1477284,1477284,420.0,3.0,0.6000000000000001,390.0,348.59999999999997,590.0
+Drugsmisdrijven,Drenthe (PV),2018,1477288,1477288,350.0,2.0,0.6000000000000001,340.0,290.8,510.0
+Drugsmisdrijven,Drenthe (PV),2019,1477292,1477292,465.0,3.0,0.8999999999999999,420.0,276.9,655.0
+Drugsmisdrijven,Drenthe (PV),2020,1477296,1477296,380.0,3.0,0.6000000000000001,245.0,192.39999999999998,555.0
+Drugsmisdrijven,Flevoland (PV),2010,1477344,1477344,1120.0,4.0,2.9,1040.0,270.6,1410.0
+Drugsmisdrijven,Flevoland (PV),2011,1477348,1477348,1095.0,4.0,2.8000000000000003,1040.0,285.3,1365.0
+Drugsmisdrijven,Flevoland (PV),2012,1477352,1477352,1290.0,5.0,3.2,1245.0,367.90000000000003,1510.0
+Drugsmisdrijven,Flevoland (PV),2013,1477356,1477356,1210.0,4.0,3.0,1180.0,357.5,1420.0
+Drugsmisdrijven,Flevoland (PV),2014,1477360,1477360,1310.0,6.0,3.2,1270.0,292.4,1560.0
+Drugsmisdrijven,Flevoland (PV),2015,1477364,1477364,1050.0,4.0,2.6,1035.0,395.1,1310.0
+Drugsmisdrijven,Flevoland (PV),2016,1477368,1477368,1205.0,6.0,3.0,1180.0,294.2,1650.0
+Drugsmisdrijven,Flevoland (PV),2017,1477372,1477372,1155.0,6.0,2.8000000000000003,1140.0,295.7,1510.0
+Drugsmisdrijven,Flevoland (PV),2018,1477376,1477376,790.0,4.0,2.0,775.0,295.6,1060.0
+Drugsmisdrijven,Flevoland (PV),2019,1477380,1477380,740.0,4.0,1.7999999999999998,725.0,393.8,950.0
+Drugsmisdrijven,Flevoland (PV),2020,1477384,1477384,560.0,3.0,1.2999999999999998,430.0,226.4,730.0
+Drugsmisdrijven,Fryslân (PV),2010,1477212,1477212,1070.0,4.0,1.6,1050.0,383.0,1340.0
+Drugsmisdrijven,Fryslân (PV),2011,1477216,1477216,1105.0,4.0,1.8,1075.0,356.2,1490.0
+Drugsmisdrijven,Fryslân (PV),2012,1477220,1477220,770.0,3.0,1.2,750.0,374.40000000000003,980.0
+Drugsmisdrijven,Fryslân (PV),2013,1477224,1477224,955.0,4.0,1.4,930.0,293.3,1220.0
+Drugsmisdrijven,Fryslân (PV),2014,1477228,1477228,910.0,4.0,1.4,900.0,297.8,1210.0
+Drugsmisdrijven,Fryslân (PV),2015,1477232,1477232,880.0,4.0,1.4000000000000001,875.0,370.0,1150.0
+Drugsmisdrijven,Fryslân (PV),2016,1477236,1477236,670.0,3.0,1.0,650.0,293.7,835.0
+Drugsmisdrijven,Fryslân (PV),2017,1477240,1477240,685.0,4.0,1.0,665.0,289.5,910.0
+Drugsmisdrijven,Fryslân (PV),2018,1477244,1477244,730.0,4.0,1.0999999999999999,725.0,295.7,990.0
+Drugsmisdrijven,Fryslân (PV),2019,1477248,1477248,780.0,4.0,1.2,725.0,281.3,1120.0
+Drugsmisdrijven,Fryslân (PV),2020,1477252,1477252,825.0,4.0,1.3,545.0,201.3,1205.0
+Drugsmisdrijven,Gelderland (PV),2010,1477388,1477388,2900.0,3.0,1.4000000000000001,2810.0,371.4,3760.0
+Drugsmisdrijven,Gelderland (PV),2011,1477392,1477392,2590.0,2.0,1.3,2545.0,372.8,3565.0
+Drugsmisdrijven,Gelderland (PV),2012,1477396,1477396,2425.0,2.0,1.2,2360.0,385.79999999999995,3150.0
+Drugsmisdrijven,Gelderland (PV),2013,1477400,1477400,2315.0,2.0,1.2,2230.0,370.8,3220.0
+Drugsmisdrijven,Gelderland (PV),2014,1477404,1477404,2560.0,3.0,1.2,2490.0,368.79999999999995,3410.0
+Drugsmisdrijven,Gelderland (PV),2015,1477408,1477408,2285.0,3.0,1.2,2215.0,372.9,3190.0
+Drugsmisdrijven,Gelderland (PV),2016,1477412,1477412,2085.0,3.0,1.0,2035.0,386.70000000000005,3000.0
+Drugsmisdrijven,Gelderland (PV),2017,1477416,1477416,2195.0,3.0,1.1,2110.0,350.79999999999995,3000.0
+Drugsmisdrijven,Gelderland (PV),2018,1477420,1477420,2220.0,3.0,1.1,2155.0,362.5,3210.0
+Drugsmisdrijven,Gelderland (PV),2019,1477424,1477424,2880.0,4.0,1.4000000000000001,2715.0,340.50000000000006,3930.0
+Drugsmisdrijven,Gelderland (PV),2020,1477428,1477428,2575.0,4.0,1.2,1980.0,287.8,3560.0
+Drugsmisdrijven,Groningen (PV),2010,1477168,1477168,1460.0,4.0,2.4000000000000004,1420.0,385.4,1940.0
+Drugsmisdrijven,Groningen (PV),2011,1477172,1477172,1255.0,3.0,2.0,1230.0,389.70000000000005,1595.0
+Drugsmisdrijven,Groningen (PV),2012,1477176,1477176,1300.0,3.0,2.2,1260.0,387.0,1595.0
+Drugsmisdrijven,Groningen (PV),2013,1477180,1477180,1265.0,4.0,2.1,1250.0,389.6,1750.0
+Drugsmisdrijven,Groningen (PV),2014,1477184,1477184,960.0,3.0,1.5,950.0,386.2,1270.0
+Drugsmisdrijven,Groningen (PV),2015,1477188,1477188,845.0,3.0,1.4,835.0,370.9,1380.0
+Drugsmisdrijven,Groningen (PV),2016,1477192,1477192,730.0,2.0,1.2000000000000002,720.0,360.5,1000.0
+Drugsmisdrijven,Groningen (PV),2017,1477196,1477196,730.0,3.0,1.2000000000000002,690.0,341.40000000000003,1000.0
+Drugsmisdrijven,Groningen (PV),2018,1477200,1477200,820.0,4.0,1.4,790.0,340.1,1170.0
+Drugsmisdrijven,Groningen (PV),2019,1477204,1477204,810.0,4.0,1.4,735.0,275.0,1100.0
+Drugsmisdrijven,Groningen (PV),2020,1477208,1477208,615.0,3.0,1.1,380.0,261.1,830.0
+Drugsmisdrijven,Limburg (PV),2010,1477652,1477652,4870.0,6.0,4.4,4805.0,394.5,6430.0
+Drugsmisdrijven,Limburg (PV),2011,1477656,1477656,3700.0,4.0,3.2,3615.0,390.7,4970.0
+Drugsmisdrijven,Limburg (PV),2012,1477660,1477660,4245.0,6.0,3.8000000000000003,4180.0,394.29999999999995,5800.0
+Drugsmisdrijven,Limburg (PV),2013,1477664,1477664,3260.0,4.0,2.9,3200.0,391.2,4720.0
+Drugsmisdrijven,Limburg (PV),2014,1477668,1477668,2520.0,4.0,2.2,2440.0,384.6,3585.0
+Drugsmisdrijven,Limburg (PV),2015,1477672,1477672,2365.0,4.0,2.2,2290.0,354.8,3285.0
+Drugsmisdrijven,Limburg (PV),2016,1477676,1477676,2175.0,4.0,2.0,2085.0,357.2,3205.0
+Drugsmisdrijven,Limburg (PV),2017,1477680,1477680,1785.0,4.0,1.6,1710.0,349.7,2420.0
+Drugsmisdrijven,Limburg (PV),2018,1477684,1477684,2150.0,4.0,1.9,2070.0,389.4,2910.0
+Drugsmisdrijven,Limburg (PV),2019,1477688,1477688,2775.0,6.0,2.5,2650.0,355.0,3875.0
+Drugsmisdrijven,Limburg (PV),2020,1477692,1477692,2870.0,6.0,2.6,2330.0,294.1,3790.0
+Drugsmisdrijven,Niet in te delen (PV),2010,1477696,1477696,95.0,5.0,0.0,80.0,373.4,200.0
+Drugsmisdrijven,Niet in te delen (PV),2011,1477700,1477700,220.0,10.0,0.0,210.0,376.0,250.0
+Drugsmisdrijven,Niet in te delen (PV),2012,1477704,1477704,70.0,4.0,0.0,65.0,375.7,115.0
+Drugsmisdrijven,Niet in te delen (PV),2013,1477708,1477708,10.0,1.0,0.0,10.0,200.0,20.0
+Drugsmisdrijven,Niet in te delen (PV),2014,1477712,1477712,20.0,1.0,0.0,20.0,260.0,45.0
+Drugsmisdrijven,Niet in te delen (PV),2015,1477716,1477716,40.0,2.0,0.0,40.0,288.0,100.0
+Drugsmisdrijven,Niet in te delen (PV),2016,1477720,1477720,40.0,3.0,0.0,30.0,261.1,115.0
+Drugsmisdrijven,Niet in te delen (PV),2017,1477724,1477724,50.0,2.0,0.0,40.0,259.5,100.0
+Drugsmisdrijven,Niet in te delen (PV),2018,1477728,1477728,50.0,3.0,0.0,45.0,281.5,135.0
+Drugsmisdrijven,Niet in te delen (PV),2019,1477732,1477732,30.0,2.0,0.0,20.0,214.2,130.0
+Drugsmisdrijven,Niet in te delen (PV),2020,1477736,1477736,35.0,4.0,0.0,15.0,100.0,90.0
+Drugsmisdrijven,Noord-Brabant (PV),2010,1477608,1477608,6130.0,4.0,2.6,5940.0,384.3,8720.0
+Drugsmisdrijven,Noord-Brabant (PV),2011,1477612,1477612,5400.0,3.0,2.2,5180.0,381.20000000000005,7580.0
+Drugsmisdrijven,Noord-Brabant (PV),2012,1477616,1477616,6205.0,4.0,2.5000000000000004,6065.0,389.40000000000003,8465.0
+Drugsmisdrijven,Noord-Brabant (PV),2013,1477620,1477620,5590.0,4.0,2.2,5420.0,380.50000000000006,7980.0
+Drugsmisdrijven,Noord-Brabant (PV),2014,1477624,1477624,5510.0,4.0,2.2,5410.0,392.0,7500.0
+Drugsmisdrijven,Noord-Brabant (PV),2015,1477628,1477628,5040.0,4.0,2.0,4940.0,387.9,6885.0
+Drugsmisdrijven,Noord-Brabant (PV),2016,1477632,1477632,4390.0,4.0,1.7000000000000002,4270.0,380.9,5880.0
+Drugsmisdrijven,Noord-Brabant (PV),2017,1477636,1477636,4290.0,4.0,1.7000000000000002,4160.0,371.4,5780.0
+Drugsmisdrijven,Noord-Brabant (PV),2018,1477640,1477640,4750.0,4.0,1.7999999999999998,4550.0,362.20000000000005,6160.0
+Drugsmisdrijven,Noord-Brabant (PV),2019,1477644,1477644,6000.0,5.0,2.3,5785.0,370.79999999999995,7790.0
+Drugsmisdrijven,Noord-Brabant (PV),2020,1477648,1477648,5180.0,4.0,2.0,4055.0,296.1,6755.0
+Drugsmisdrijven,Noord-Holland (PV),2010,1477476,1477476,7080.0,3.0,2.6,6875.0,370.6,9785.0
+Drugsmisdrijven,Noord-Holland (PV),2011,1477480,1477480,7310.0,4.0,2.8,7115.0,382.70000000000005,9750.0
+Drugsmisdrijven,Noord-Holland (PV),2012,1477484,1477484,7480.0,4.0,2.8,7300.0,379.1,9645.0
+Drugsmisdrijven,Noord-Holland (PV),2013,1477488,1477488,6940.0,4.0,2.5,6720.0,354.5,8900.0
+Drugsmisdrijven,Noord-Holland (PV),2014,1477492,1477492,7480.0,4.0,2.8,7325.0,353.7,10055.0
+Drugsmisdrijven,Noord-Holland (PV),2015,1477496,1477496,7010.0,3.0,2.5,6810.0,344.2,9235.0
+Drugsmisdrijven,Noord-Holland (PV),2016,1477500,1477500,5630.0,2.0,2.0,5385.0,319.29999999999995,7500.0
+Drugsmisdrijven,Noord-Holland (PV),2017,1477504,1477504,5260.0,3.0,1.8,5100.0,344.5,6910.0
+Drugsmisdrijven,Noord-Holland (PV),2018,1477508,1477508,5905.0,3.0,2.1,5690.0,330.6,7385.0
+Drugsmisdrijven,Noord-Holland (PV),2019,1477512,1477512,5695.0,3.0,2.0,5400.0,331.50000000000006,7445.0
+Drugsmisdrijven,Noord-Holland (PV),2020,1477516,1477516,4230.0,2.0,1.4,3465.0,274.8,5585.0
+Drugsmisdrijven,Overijssel (PV),2010,1477300,1477300,1780.0,3.0,1.5,1705.0,373.69999999999993,2510.0
+Drugsmisdrijven,Overijssel (PV),2011,1477304,1477304,1560.0,2.0,1.2999999999999998,1495.0,373.29999999999995,2540.0
+Drugsmisdrijven,Overijssel (PV),2012,1477308,1477308,1630.0,2.0,1.2999999999999998,1580.0,384.5,2370.0
+Drugsmisdrijven,Overijssel (PV),2013,1477312,1477312,1535.0,2.0,1.2999999999999998,1470.0,377.7,2130.0
+Drugsmisdrijven,Overijssel (PV),2014,1477316,1477316,1360.0,3.0,1.1,1325.0,386.0,1880.0
+Drugsmisdrijven,Overijssel (PV),2015,1477320,1477320,1170.0,3.0,1.0,1145.0,394.3,1715.0
+Drugsmisdrijven,Overijssel (PV),2016,1477324,1477324,1240.0,3.0,1.0,1190.0,352.40000000000003,1840.0
+Drugsmisdrijven,Overijssel (PV),2017,1477328,1477328,1100.0,3.0,0.8999999999999999,1055.0,372.9,1665.0
+Drugsmisdrijven,Overijssel (PV),2018,1477332,1477332,1325.0,4.0,1.1,1255.0,355.79999999999995,2040.0
+Drugsmisdrijven,Overijssel (PV),2019,1477336,1477336,1480.0,4.0,1.2,1415.0,359.70000000000005,2340.0
+Drugsmisdrijven,Overijssel (PV),2020,1477340,1477340,1715.0,4.0,1.5,1330.0,270.0,2290.0
+Drugsmisdrijven,Utrecht (PV),2010,1477432,1477432,1800.0,1.0,1.4,1710.0,378.0,2215.0
+Drugsmisdrijven,Utrecht (PV),2011,1477436,1477436,1490.0,1.0,1.1,1430.0,360.0,1990.0
+Drugsmisdrijven,Utrecht (PV),2012,1477440,1477440,1610.0,2.0,1.2999999999999998,1535.0,362.79999999999995,2180.0
+Drugsmisdrijven,Utrecht (PV),2013,1477444,1477444,1870.0,2.0,1.5,1820.0,387.79999999999995,2510.0
+Drugsmisdrijven,Utrecht (PV),2014,1477448,1477448,1880.0,2.0,1.4,1840.0,379.8,2695.0
+Drugsmisdrijven,Utrecht (PV),2015,1477452,1477452,1390.0,1.0,1.2,1330.0,365.9,1895.0
+Drugsmisdrijven,Utrecht (PV),2016,1477456,1477456,1310.0,2.0,1.0,1270.0,336.9,1770.0
+Drugsmisdrijven,Utrecht (PV),2017,1477460,1477460,1260.0,2.0,1.0,1210.0,358.4,1830.0
+Drugsmisdrijven,Utrecht (PV),2018,1477464,1477464,1380.0,2.0,1.0,1335.0,347.6,1870.0
+Drugsmisdrijven,Utrecht (PV),2019,1477468,1477468,1275.0,1.0,0.8999999999999999,1200.0,381.7,1785.0
+Drugsmisdrijven,Utrecht (PV),2020,1477472,1477472,1160.0,2.0,0.8999999999999999,785.0,204.7,1700.0
+Drugsmisdrijven,Zeeland (PV),2010,1477564,1477564,1010.0,4.0,2.4000000000000004,960.0,381.0,1645.0
+Drugsmisdrijven,Zeeland (PV),2011,1477568,1477568,990.0,4.0,2.3,950.0,383.0,1490.0
+Drugsmisdrijven,Zeeland (PV),2012,1477572,1477572,720.0,4.0,1.7999999999999998,675.0,361.9,1090.0
+Drugsmisdrijven,Zeeland (PV),2013,1477576,1477576,670.0,4.0,1.7999999999999998,640.0,361.0,1010.0
+Drugsmisdrijven,Zeeland (PV),2014,1477580,1477580,630.0,4.0,1.6,595.0,372.9,845.0
+Drugsmisdrijven,Zeeland (PV),2015,1477584,1477584,755.0,5.0,2.0,725.0,368.1,1140.0
+Drugsmisdrijven,Zeeland (PV),2016,1477588,1477588,595.0,4.0,1.6,560.0,373.5,890.0
+Drugsmisdrijven,Zeeland (PV),2017,1477592,1477592,660.0,4.0,1.7,640.0,370.5,930.0
+Drugsmisdrijven,Zeeland (PV),2018,1477596,1477596,700.0,6.0,1.7999999999999998,660.0,334.5,980.0
+Drugsmisdrijven,Zeeland (PV),2019,1477600,1477600,725.0,6.0,1.7999999999999998,680.0,358.3,945.0
+Drugsmisdrijven,Zeeland (PV),2020,1477604,1477604,765.0,5.0,2.0,635.0,321.9,1070.0
+Drugsmisdrijven,Zuid-Holland (PV),2010,1477520,1477520,6215.0,3.0,1.7000000000000002,5740.0,355.2,9335.0
+Drugsmisdrijven,Zuid-Holland (PV),2011,1477524,1477524,7070.0,3.0,2.0,6530.0,358.0,10880.0
+Drugsmisdrijven,Zuid-Holland (PV),2012,1477528,1477528,6930.0,3.0,1.9,6585.0,370.4,10840.0
+Drugsmisdrijven,Zuid-Holland (PV),2013,1477532,1477532,7880.0,4.0,2.1,7670.0,372.2,12215.0
+Drugsmisdrijven,Zuid-Holland (PV),2014,1477536,1477536,6960.0,3.0,2.0,6740.0,383.2,10250.0
+Drugsmisdrijven,Zuid-Holland (PV),2015,1477540,1477540,6315.0,3.0,1.8,6140.0,380.7,9420.0
+Drugsmisdrijven,Zuid-Holland (PV),2016,1477544,1477544,6070.0,3.0,1.6,5890.0,361.59999999999997,8690.0
+Drugsmisdrijven,Zuid-Holland (PV),2017,1477548,1477548,5445.0,3.0,1.5,5225.0,355.79999999999995,7825.0
+Drugsmisdrijven,Zuid-Holland (PV),2018,1477552,1477552,5550.0,4.0,1.5000000000000002,5280.0,363.0,7660.0
+Drugsmisdrijven,Zuid-Holland (PV),2019,1477556,1477556,5750.0,4.0,1.6,5390.0,359.6,7960.0
+Drugsmisdrijven,Zuid-Holland (PV),2020,1477560,1477560,5455.0,3.0,1.4000000000000001,4310.0,274.6,7560.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2010,4399923,4399923,8085.0,28.0,15.500000000000002,5920.0,1123.1,6715.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2011,4399940,4399940,7930.0,29.0,15.3,5985.0,1125.8000000000002,6705.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2012,4399957,4399957,7465.0,27.0,14.500000000000002,5650.0,1056.6999999999998,6480.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2013,4399974,4399974,7115.0,30.0,13.9,4900.0,913.6,5525.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2014,4399991,4399991,6830.0,30.0,13.299999999999999,4525.0,979.8,5140.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2015,4400008,4400008,5920.0,27.0,11.2,3920.0,1065.0,4380.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2016,4400025,4400025,5230.0,25.0,9.8,3090.0,901.8,3500.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2017,4400042,4400042,5250.0,31.0,9.6,2940.0,748.5999999999999,3260.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2018,4400059,4400059,5020.0,30.0,9.1,2740.0,805.3999999999997,3065.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2019,4400076,4400076,4985.0,27.0,9.2,2645.0,792.5999999999999,3095.0
+Gewelds- en seksuele misdrijven,Drenthe (PV),2020,4400093,4400093,4400.0,23.0,8.2,1760.0,456.5,2490.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2010,4400297,4400297,5875.0,22.0,14.200000000000001,4330.0,1137.9,5000.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2011,4400314,4400314,5900.0,21.0,14.3,4290.0,1065.7,5080.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2012,4400331,4400331,6415.0,24.0,15.600000000000001,4720.0,1099.8999999999999,5390.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2013,4400348,4400348,6450.0,23.0,15.100000000000001,4525.0,916.9999999999999,5120.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2014,4400365,4400365,6015.0,24.0,14.4,3905.0,856.3,4290.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2015,4400382,4400382,5330.0,23.0,12.3,3325.0,854.5,3630.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2016,4400399,4400399,5720.0,26.0,13.299999999999999,3610.0,826.2,3960.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2017,4400416,4400416,5290.0,27.0,12.2,3455.0,854.6000000000001,3810.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2018,4400433,4400433,5050.0,25.0,11.4,3250.0,855.7,3575.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2019,4400450,4400450,5405.0,26.0,12.100000000000001,3115.0,793.0,3465.0
+Gewelds- en seksuele misdrijven,Flevoland (PV),2020,4400467,4400467,5200.0,26.0,11.500000000000002,2600.0,551.2,3215.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2010,4399736,4399736,8805.0,26.0,13.099999999999998,6860.0,1204.7999999999997,6600.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2011,4399753,4399753,9045.0,27.0,13.399999999999999,7050.0,1182.1,7210.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2012,4399770,4399770,8380.0,26.0,12.299999999999999,6355.0,1079.3000000000002,6440.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2013,4399787,4399787,8320.0,27.0,12.199999999999998,6105.0,1060.9,6330.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2014,4399804,4399804,7935.0,26.0,11.7,5705.0,1023.6,6075.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2015,4399821,4399821,7125.0,24.0,10.2,5115.0,1051.3,5430.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2016,4399838,4399838,6835.0,25.0,9.799999999999999,4575.0,971.3,5005.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2017,4399855,4399855,6375.0,28.0,8.899999999999999,4060.0,820.2,4465.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2018,4399872,4399872,6595.0,27.0,9.1,4005.0,839.0999999999999,4420.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2019,4399889,4399889,6545.0,28.0,9.600000000000001,4085.0,848.2,4485.0
+Gewelds- en seksuele misdrijven,Fryslân (PV),2020,4399906,4399906,5805.0,25.0,8.2,2820.0,561.5,3800.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2010,4400484,4400484,27600.0,21.0,13.599999999999998,19065.0,1042.8,21140.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2011,4400501,4400501,27685.0,21.0,13.899999999999997,18620.0,1043.3000000000002,20625.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2012,4400518,4400518,26630.0,21.0,13.299999999999995,17555.0,1008.7,19385.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2013,4400535,4400535,25125.0,21.0,12.699999999999996,16735.0,946.9999999999999,18495.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2014,4400552,4400552,24245.0,22.0,11.999999999999996,15760.0,920.3,17455.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2015,4400569,4400569,23130.0,22.0,11.499999999999996,15515.0,932.0999999999999,17160.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2016,4400586,4400586,21540.0,22.0,10.499999999999996,14625.0,907.3000000000002,15810.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2017,4400603,4400603,20570.0,22.0,9.999999999999996,13575.0,929.5,14780.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2018,4400620,4400620,20270.0,25.0,9.799999999999997,12925.0,856.6000000000001,14080.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2019,4400637,4400637,19130.0,21.0,9.199999999999998,11885.0,813.8000000000001,13220.0
+Gewelds- en seksuele misdrijven,Gelderland (PV),2020,4400654,4400654,18965.0,20.0,9.099999999999998,9635.0,604.6000000000001,12470.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2010,4399549,4399549,12040.0,30.0,20.1,9045.0,1161.8999999999999,10165.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2011,4399566,4399566,11205.0,28.0,18.5,8285.0,1094.8,9455.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2012,4399583,4399583,10750.0,28.0,17.8,7960.0,1062.3,8810.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2013,4399600,4399600,10230.0,27.0,17.000000000000004,7095.0,986.0,7765.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2014,4399617,4399617,9220.0,28.0,15.1,5935.0,938.9,6660.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2015,4399634,4399634,8715.0,26.0,14.299999999999997,5545.0,969.0,6205.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2016,4399651,4399651,8620.0,26.0,14.199999999999998,4765.0,784.3999999999999,5470.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2017,4399668,4399668,8155.0,30.0,13.099999999999998,4660.0,748.5999999999999,5150.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2018,4399685,4399685,7690.0,30.0,12.499999999999998,4260.0,784.4,4810.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2019,4399702,4399702,7415.0,27.0,11.9,3940.0,769.4000000000001,4750.0
+Gewelds- en seksuele misdrijven,Groningen (PV),2020,4399719,4399719,6655.0,25.0,10.700000000000001,2945.0,529.6999999999999,4320.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2010,4401606,4401606,19470.0,21.0,17.100000000000005,13245.0,1038.8,14750.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2011,4401623,4401623,18435.0,20.0,15.999999999999998,12180.0,997.5999999999999,13650.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2012,4401640,4401640,18640.0,21.0,16.2,12335.0,1015.4,13370.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2013,4401657,4401657,17550.0,21.0,15.1,10975.0,948.5,11760.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2014,4401674,4401674,16150.0,20.0,13.899999999999999,9735.0,893.7999999999998,10525.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2015,4401691,4401691,14490.0,20.0,12.499999999999998,8880.0,884.0000000000001,9710.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2016,4401708,4401708,13545.0,21.0,11.699999999999998,8410.0,889.9,9160.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2017,4401725,4401725,12780.0,21.0,10.999999999999998,7380.0,828.4000000000001,8025.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2018,4401742,4401742,12435.0,22.0,10.899999999999999,7275.0,801.6999999999999,7940.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2019,4401759,4401759,12550.0,21.0,10.899999999999999,7505.0,871.9000000000001,8410.0
+Gewelds- en seksuele misdrijven,Limburg (PV),2020,4401776,4401776,11040.0,20.0,9.5,5870.0,694.0999999999999,7325.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2010,4401793,4401793,850.0,34.0,0.0,335.0,560.6,380.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2011,4401810,4401810,850.0,39.0,0.0,300.0,608.8,360.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2012,4401827,4401827,730.0,42.0,0.0,260.0,497.59999999999997,300.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2013,4401844,4401844,635.0,46.0,0.0,235.0,596.5999999999999,265.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2014,4401861,4401861,595.0,41.0,0.0,165.0,316.40000000000003,220.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2015,4401878,4401878,535.0,32.0,0.0,190.0,541.0,250.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2016,4401895,4401895,565.0,48.0,0.0,155.0,381.09999999999997,170.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2017,4401912,4401912,580.0,35.0,0.0,140.0,325.00000000000006,190.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2018,4401929,4401929,860.0,49.0,0.0,140.0,304.0,195.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2019,4401946,4401946,860.0,47.0,0.0,135.0,250.09999999999997,205.0
+Gewelds- en seksuele misdrijven,Niet in te delen (PV),2020,4401963,4401963,495.0,55.0,0.0,105.0,215.4,170.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2010,4401419,4401419,39055.0,21.0,15.899999999999995,26310.0,983.6,29520.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2011,4401436,4401436,37660.0,21.0,15.199999999999998,24375.0,917.2999999999997,26990.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2012,4401453,4401453,37590.0,21.0,15.099999999999996,23900.0,899.2999999999998,26075.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2013,4401470,4401470,34360.0,21.0,13.799999999999995,21755.0,911.6999999999999,23620.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2014,4401487,4401487,33305.0,21.0,13.299999999999997,21100.0,895.4,22885.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2015,4401504,4401504,33405.0,21.0,13.499999999999996,21155.0,864.0000000000001,23000.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2016,4401521,4401521,32760.0,22.0,12.999999999999998,19620.0,821.6,20935.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2017,4401538,4401538,30720.0,23.0,12.099999999999996,17460.0,783.7,18830.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2018,4401555,4401555,29230.0,24.0,11.599999999999998,16870.0,780.9,18475.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2019,4401572,4401572,29940.0,22.0,11.899999999999997,17815.0,780.9,19745.0
+Gewelds- en seksuele misdrijven,Noord-Brabant (PV),2020,4401589,4401589,28715.0,24.0,11.2,14415.0,573.8,17595.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2010,4400858,4400858,51740.0,21.0,19.400000000000013,36180.0,1050.4,41980.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2011,4400875,4400875,51355.0,21.0,19.100000000000012,36145.0,1071.5000000000002,41355.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2012,4400892,4400892,48735.0,21.0,18.000000000000007,33980.0,1023.4000000000001,39035.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2013,4400909,4400909,46355.0,21.0,16.800000000000004,31620.0,1033.5,35885.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2014,4400926,4400926,45930.0,21.0,16.600000000000005,30930.0,969.1,34775.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2015,4400943,4400943,43490.0,21.0,15.499999999999998,28330.0,969.5000000000002,31995.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2016,4400960,4400960,42670.0,21.0,15.299999999999997,25235.0,853.1999999999999,28460.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2017,4400977,4400977,38690.0,21.0,13.499999999999998,21425.0,811.5000000000001,24005.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2018,4400994,4400994,37570.0,22.0,13.199999999999998,19955.0,738.1999999999999,22595.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2019,4401011,4401011,38135.0,21.0,13.399999999999999,19425.0,734.8,22815.0
+Gewelds- en seksuele misdrijven,Noord-Holland (PV),2020,4401028,4401028,36820.0,22.0,12.7,16260.0,546.6999999999999,21095.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2010,4400110,4400110,16060.0,23.0,13.899999999999999,11430.0,1024.3,12740.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2011,4400127,4400127,15940.0,23.0,13.799999999999997,11715.0,1068.3,12990.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2012,4400144,4400144,15200.0,22.0,13.099999999999998,11015.0,1036.8000000000002,12290.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2013,4400161,4400161,14015.0,22.0,11.999999999999998,9890.0,987.1999999999999,10745.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2014,4400178,4400178,12975.0,22.0,10.899999999999999,9030.0,941.5,9940.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2015,4400195,4400195,11910.0,22.0,10.1,8595.0,1048.5,9160.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2016,4400212,4400212,11600.0,22.0,9.799999999999999,7990.0,942.6,8495.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2017,4400229,4400229,11315.0,24.0,9.399999999999999,7415.0,863.0999999999999,8025.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2018,4400246,4400246,11185.0,25.0,9.299999999999997,6895.0,805.0,7625.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2019,4400263,4400263,10635.0,22.0,8.799999999999999,6410.0,786.5000000000001,7275.0
+Gewelds- en seksuele misdrijven,Overijssel (PV),2020,4400280,4400280,9750.0,20.0,8.1,4975.0,569.5,6435.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2010,4400671,4400671,17505.0,18.0,14.099999999999996,11755.0,949.2,12890.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2011,4400688,4400688,16715.0,18.0,13.299999999999997,11400.0,1004.1000000000001,12550.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2012,4400705,4400705,15940.0,18.0,12.499999999999998,10700.0,1024.7,11360.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2013,4400722,4400722,14290.0,17.0,11.199999999999998,10030.0,1042.4999999999998,10780.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2014,4400739,4400739,13630.0,17.0,10.3,8820.0,971.3999999999999,9310.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2015,4400756,4400756,12540.0,16.0,9.399999999999999,7835.0,935.7,8385.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2016,4400773,4400773,12625.0,16.0,9.499999999999998,7495.0,884.1999999999998,7985.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2017,4400790,4400790,11905.0,16.0,8.9,7000.0,864.5,7520.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2018,4400807,4400807,11990.0,17.0,8.799999999999999,6560.0,827.9999999999998,7130.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2019,4400824,4400824,12260.0,18.0,8.799999999999999,6455.0,716.5000000000001,6960.0
+Gewelds- en seksuele misdrijven,Utrecht (PV),2020,4400841,4400841,11730.0,18.0,8.599999999999998,5200.0,573.0,6185.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2010,4401232,4401232,5685.0,24.0,13.6,4190.0,1118.8999999999999,4595.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2011,4401249,4401249,6280.0,26.0,15.5,4750.0,1022.2,5095.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2012,4401266,4401266,6300.0,28.0,15.6,4670.0,1014.8999999999997,5165.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2013,4401283,4401283,5685.0,27.0,13.799999999999999,4090.0,1002.5,4430.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2014,4401300,4401300,5180.0,28.0,12.499999999999998,3565.0,954.5,3905.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2015,4401317,4401317,4715.0,27.0,11.6,3350.0,1033.5,3745.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2016,4401334,4401334,4515.0,27.0,10.7,2965.0,928.7,3345.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2017,4401351,4401351,4140.0,29.0,9.8,2575.0,846.9,2835.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2018,4401368,4401368,4340.0,34.0,10.4,2755.0,880.2,3050.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2019,4401385,4401385,4350.0,30.0,10.5,2770.0,835.8,3185.0
+Gewelds- en seksuele misdrijven,Zeeland (PV),2020,4401402,4401402,4080.0,27.0,10.0,2395.0,624.1,2945.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2010,4401045,4401045,66650.0,22.0,19.000000000000007,46105.0,1093.1,53135.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2011,4401062,4401062,65960.0,22.0,18.50000000000001,47430.0,1117.4999999999998,55115.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2012,4401079,4401079,64570.0,22.0,18.300000000000015,46385.0,1082.6,52590.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2013,4401096,4401096,61220.0,23.0,17.00000000000001,43680.0,1047.0,48545.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2014,4401113,4401113,57170.0,22.0,15.899999999999997,38830.0,1010.5,42600.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2015,4401130,4401130,52475.0,22.0,14.599999999999996,34695.0,982.5000000000001,38090.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2016,4401147,4401147,52085.0,22.0,14.299999999999997,32540.0,910.4,35705.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2017,4401164,4401164,50380.0,23.0,13.799999999999995,29600.0,824.3000000000001,32440.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2018,4401181,4401181,49575.0,25.0,13.399999999999997,27795.0,788.4,30790.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2019,4401198,4401198,51040.0,26.0,13.799999999999997,28775.0,782.6,32275.0
+Gewelds- en seksuele misdrijven,Zuid-Holland (PV),2020,4401215,4401215,51585.0,25.0,13.7,24415.0,572.1999999999999,30010.0
+Misdrijven WvSr,Drenthe (PV),2010,307329,307329,260.0,1.0,0.5,205.0,77.5,215.0
+Misdrijven WvSr,Drenthe (PV),2011,307330,307330,300.0,1.0,0.6,240.0,79.7,245.0
+Misdrijven WvSr,Drenthe (PV),2012,307331,307331,275.0,1.0,0.6,205.0,73.9,270.0
+Misdrijven WvSr,Drenthe (PV),2013,307332,307332,265.0,1.0,0.5,190.0,71.1,200.0
+Misdrijven WvSr,Drenthe (PV),2014,307333,307333,270.0,1.0,0.6,175.0,64.3,205.0
+Misdrijven WvSr,Drenthe (PV),2015,307334,307334,255.0,1.0,0.5,150.0,59.8,160.0
+Misdrijven WvSr,Drenthe (PV),2016,307335,307335,215.0,1.0,0.4,120.0,55.8,120.0
+Misdrijven WvSr,Drenthe (PV),2017,307336,307336,185.0,1.0,0.4,90.0,49.5,95.0
+Misdrijven WvSr,Drenthe (PV),2018,307337,307337,215.0,1.0,0.4,100.0,46.9,105.0
+Misdrijven WvSr,Drenthe (PV),2019,307338,307338,185.0,1.0,0.4,65.0,36.0,75.0
+Misdrijven WvSr,Drenthe (PV),2020,307339,307339,215.0,1.0,0.4,90.0,41.5,115.0
+Misdrijven WvSr,Flevoland (PV),2010,307351,307351,205.0,1.0,0.5,170.0,83.9,185.0
+Misdrijven WvSr,Flevoland (PV),2011,307352,307352,190.0,1.0,0.5,140.0,73.0,150.0
+Misdrijven WvSr,Flevoland (PV),2012,307353,307353,230.0,1.0,0.6,160.0,69.7,170.0
+Misdrijven WvSr,Flevoland (PV),2013,307354,307354,240.0,1.0,0.6,160.0,65.6,170.0
+Misdrijven WvSr,Flevoland (PV),2014,307355,307355,280.0,1.0,0.7,175.0,62.1,170.0
+Misdrijven WvSr,Flevoland (PV),2015,307356,307356,245.0,1.0,0.6,145.0,59.5,145.0
+Misdrijven WvSr,Flevoland (PV),2016,307357,307357,275.0,1.0,0.7,180.0,65.3,195.0
+Misdrijven WvSr,Flevoland (PV),2017,307358,307358,300.0,2.0,0.7,205.0,67.4,210.0
+Misdrijven WvSr,Flevoland (PV),2018,307359,307359,320.0,2.0,0.8,220.0,69.2,225.0
+Misdrijven WvSr,Flevoland (PV),2019,307360,307360,265.0,1.0,0.6,180.0,68.6,190.0
+Misdrijven WvSr,Flevoland (PV),2020,307361,307361,350.0,2.0,0.8,215.0,61.2,230.0
+Misdrijven WvSr,Fryslân (PV),2010,307318,307318,380.0,1.0,0.6,320.0,84.3,310.0
+Misdrijven WvSr,Fryslân (PV),2011,307319,307319,365.0,1.0,0.6,290.0,80.2,300.0
+Misdrijven WvSr,Fryslân (PV),2012,307320,307320,410.0,1.0,0.6,305.0,75.1,315.0
+Misdrijven WvSr,Fryslân (PV),2013,307321,307321,375.0,1.0,0.6,275.0,74.1,280.0
+Misdrijven WvSr,Fryslân (PV),2014,307322,307322,330.0,1.0,0.5,235.0,71.4,240.0
+Misdrijven WvSr,Fryslân (PV),2015,307323,307323,305.0,1.0,0.5,185.0,61.3,190.0
+Misdrijven WvSr,Fryslân (PV),2016,307324,307324,320.0,1.0,0.5,200.0,62.8,210.0
+Misdrijven WvSr,Fryslân (PV),2017,307325,307325,325.0,2.0,0.5,190.0,59.0,195.0
+Misdrijven WvSr,Fryslân (PV),2018,307326,307326,365.0,2.0,0.6,240.0,66.0,250.0
+Misdrijven WvSr,Fryslân (PV),2019,307327,307327,360.0,2.0,0.6,245.0,67.7,255.0
+Misdrijven WvSr,Fryslân (PV),2020,307328,307328,325.0,1.0,0.5,155.0,48.0,200.0
+Misdrijven WvSr,Gelderland (PV),2010,307362,307362,1135.0,1.0,0.6,900.0,79.3,925.0
+Misdrijven WvSr,Gelderland (PV),2011,307363,307363,1245.0,1.0,0.6,955.0,76.7,980.0
+Misdrijven WvSr,Gelderland (PV),2012,307364,307364,1195.0,1.0,0.6,900.0,75.3,945.0
+Misdrijven WvSr,Gelderland (PV),2013,307365,307365,1165.0,1.0,0.6,890.0,76.4,940.0
+Misdrijven WvSr,Gelderland (PV),2014,307366,307366,1425.0,1.0,0.7,1035.0,72.5,1065.0
+Misdrijven WvSr,Gelderland (PV),2015,307367,307367,1260.0,1.0,0.6,945.0,75.0,995.0
+Misdrijven WvSr,Gelderland (PV),2016,307368,307368,1330.0,1.0,0.7,1005.0,75.6,1045.0
+Misdrijven WvSr,Gelderland (PV),2017,307369,307369,1275.0,2.0,0.6,905.0,70.8,935.0
+Misdrijven WvSr,Gelderland (PV),2018,307370,307370,1260.0,2.0,0.6,940.0,74.4,965.0
+Misdrijven WvSr,Gelderland (PV),2019,307371,307371,1290.0,2.0,0.6,1005.0,78.1,1055.0
+Misdrijven WvSr,Gelderland (PV),2020,307372,307372,1375.0,2.0,0.7,960.0,69.8,1085.0
+Misdrijven WvSr,Groningen (PV),2010,307307,307307,365.0,1.0,0.6,285.0,77.9,320.0
+Misdrijven WvSr,Groningen (PV),2011,307308,307308,350.0,1.0,0.6,275.0,77.8,280.0
+Misdrijven WvSr,Groningen (PV),2012,307309,307309,310.0,1.0,0.5,230.0,74.0,245.0
+Misdrijven WvSr,Groningen (PV),2013,307310,307310,370.0,1.0,0.6,265.0,71.5,280.0
+Misdrijven WvSr,Groningen (PV),2014,307311,307311,375.0,1.0,0.6,255.0,67.9,280.0
+Misdrijven WvSr,Groningen (PV),2015,307312,307312,300.0,1.0,0.5,175.0,57.9,180.0
+Misdrijven WvSr,Groningen (PV),2016,307313,307313,315.0,1.0,0.5,155.0,49.5,170.0
+Misdrijven WvSr,Groningen (PV),2017,307314,307314,295.0,1.0,0.5,155.0,52.7,155.0
+Misdrijven WvSr,Groningen (PV),2018,307315,307315,315.0,1.0,0.5,160.0,51.4,170.0
+Misdrijven WvSr,Groningen (PV),2019,307316,307316,335.0,1.0,0.6,190.0,57.3,210.0
+Misdrijven WvSr,Groningen (PV),2020,307317,307317,280.0,1.0,0.5,120.0,42.7,150.0
+Misdrijven WvSr,Limburg (PV),2010,307428,307428,595.0,1.0,0.5,440.0,74.0,455.0
+Misdrijven WvSr,Limburg (PV),2011,307429,307429,605.0,1.0,0.5,410.0,68.2,435.0
+Misdrijven WvSr,Limburg (PV),2012,307430,307430,645.0,1.0,0.6,425.0,66.1,445.0
+Misdrijven WvSr,Limburg (PV),2013,307431,307431,630.0,1.0,0.6,400.0,63.3,415.0
+Misdrijven WvSr,Limburg (PV),2014,307432,307432,620.0,1.0,0.6,370.0,60.1,385.0
+Misdrijven WvSr,Limburg (PV),2015,307433,307433,565.0,1.0,0.5,365.0,64.6,390.0
+Misdrijven WvSr,Limburg (PV),2016,307434,307434,520.0,1.0,0.5,325.0,62.7,345.0
+Misdrijven WvSr,Limburg (PV),2017,307435,307435,530.0,1.0,0.5,345.0,65.0,365.0
+Misdrijven WvSr,Limburg (PV),2018,307436,307436,555.0,1.0,0.5,360.0,64.5,375.0
+Misdrijven WvSr,Limburg (PV),2019,307437,307437,580.0,1.0,0.5,390.0,67.6,410.0
+Misdrijven WvSr,Limburg (PV),2020,307438,307438,675.0,1.0,0.6,400.0,59.5,455.0
+Misdrijven WvSr,Niet in te delen (PV),2010,307439,307439,25.0,1.0,0.0,10.0,32.0,5.0
+Misdrijven WvSr,Niet in te delen (PV),2011,307440,307440,30.0,1.0,0.0,10.0,28.6,10.0
+Misdrijven WvSr,Niet in te delen (PV),2012,307441,307441,25.0,2.0,0.0,10.0,30.8,10.0
+Misdrijven WvSr,Niet in te delen (PV),2013,307442,307442,25.0,2.0,0.0,10.0,44.0,15.0
+Misdrijven WvSr,Niet in te delen (PV),2014,307443,307443,15.0,1.0,0.0,5.0,35.3,5.0
+Misdrijven WvSr,Niet in te delen (PV),2015,307444,307444,30.0,2.0,0.0,15.0,60.7,20.0
+Misdrijven WvSr,Niet in te delen (PV),2016,307445,307445,20.0,2.0,0.0,5.0,31.6,10.0
+Misdrijven WvSr,Niet in te delen (PV),2017,307446,307446,30.0,2.0,0.0,10.0,42.9,10.0
+Misdrijven WvSr,Niet in te delen (PV),2018,307447,307447,10.0,1.0,0.0,5.0,40.0,15.0
+Misdrijven WvSr,Niet in te delen (PV),2019,307448,307448,15.0,1.0,0.0,10.0,69.2,10.0
+Misdrijven WvSr,Niet in te delen (PV),2020,307449,307449,20.0,2.0,0.0,10.0,52.6,15.0
+Misdrijven WvSr,Noord-Brabant (PV),2010,307417,307417,1460.0,1.0,0.6,1150.0,78.9,1225.0
+Misdrijven WvSr,Noord-Brabant (PV),2011,307418,307418,1640.0,1.0,0.7,1275.0,77.9,1355.0
+Misdrijven WvSr,Noord-Brabant (PV),2012,307419,307419,1660.0,1.0,0.7,1280.0,77.2,1315.0
+Misdrijven WvSr,Noord-Brabant (PV),2013,307420,307420,1560.0,1.0,0.6,1185.0,75.9,1240.0
+Misdrijven WvSr,Noord-Brabant (PV),2014,307421,307421,1760.0,1.0,0.7,1275.0,72.5,1335.0
+Misdrijven WvSr,Noord-Brabant (PV),2015,307422,307422,1650.0,1.0,0.7,1125.0,68.3,1165.0
+Misdrijven WvSr,Noord-Brabant (PV),2016,307423,307423,1680.0,1.0,0.7,1175.0,69.9,1225.0
+Misdrijven WvSr,Noord-Brabant (PV),2017,307424,307424,1525.0,1.0,0.6,1030.0,67.7,1055.0
+Misdrijven WvSr,Noord-Brabant (PV),2018,307425,307425,1640.0,1.0,0.6,1125.0,68.8,1170.0
+Misdrijven WvSr,Noord-Brabant (PV),2019,307426,307426,1810.0,2.0,0.7,1325.0,73.2,1385.0
+Misdrijven WvSr,Noord-Brabant (PV),2020,307427,307427,1865.0,2.0,0.7,1195.0,64.0,1295.0
+Misdrijven WvSr,Noord-Holland (PV),2010,307384,307384,2085.0,1.0,0.8,1625.0,78.0,1755.0
+Misdrijven WvSr,Noord-Holland (PV),2011,307385,307385,2195.0,1.0,0.8,1710.0,77.9,1820.0
+Misdrijven WvSr,Noord-Holland (PV),2012,307386,307386,2040.0,1.0,0.8,1460.0,71.6,1550.0
+Misdrijven WvSr,Noord-Holland (PV),2013,307387,307387,1900.0,1.0,0.7,1350.0,71.0,1450.0
+Misdrijven WvSr,Noord-Holland (PV),2014,307388,307388,2050.0,1.0,0.7,1410.0,68.6,1485.0
+Misdrijven WvSr,Noord-Holland (PV),2015,307389,307389,1865.0,1.0,0.7,1205.0,64.5,1270.0
+Misdrijven WvSr,Noord-Holland (PV),2016,307390,307390,2000.0,1.0,0.7,1245.0,62.3,1310.0
+Misdrijven WvSr,Noord-Holland (PV),2017,307391,307391,1765.0,1.0,0.6,1065.0,60.2,1140.0
+Misdrijven WvSr,Noord-Holland (PV),2018,307392,307392,1825.0,1.0,0.6,1105.0,60.5,1220.0
+Misdrijven WvSr,Noord-Holland (PV),2019,307393,307393,2045.0,1.0,0.7,1315.0,64.5,1420.0
+Misdrijven WvSr,Noord-Holland (PV),2020,307394,307394,2195.0,1.0,0.8,1265.0,57.5,1420.0
+Misdrijven WvSr,Overijssel (PV),2010,307340,307340,600.0,1.0,0.5,530.0,87.7,555.0
+Misdrijven WvSr,Overijssel (PV),2011,307341,307341,705.0,1.0,0.6,565.0,80.3,590.0
+Misdrijven WvSr,Overijssel (PV),2012,307342,307342,775.0,1.0,0.7,620.0,79.9,640.0
+Misdrijven WvSr,Overijssel (PV),2013,307343,307343,675.0,1.0,0.6,535.0,79.2,565.0
+Misdrijven WvSr,Overijssel (PV),2014,307344,307344,660.0,1.0,0.6,485.0,73.7,495.0
+Misdrijven WvSr,Overijssel (PV),2015,307345,307345,690.0,1.0,0.6,535.0,77.8,555.0
+Misdrijven WvSr,Overijssel (PV),2016,307346,307346,665.0,1.0,0.6,520.0,78.0,525.0
+Misdrijven WvSr,Overijssel (PV),2017,307347,307347,620.0,1.0,0.5,445.0,71.5,450.0
+Misdrijven WvSr,Overijssel (PV),2018,307348,307348,635.0,1.0,0.6,475.0,75.2,490.0
+Misdrijven WvSr,Overijssel (PV),2019,307349,307349,765.0,2.0,0.7,570.0,74.4,595.0
+Misdrijven WvSr,Overijssel (PV),2020,307350,307350,770.0,2.0,0.7,545.0,70.9,595.0
+Misdrijven WvSr,Utrecht (PV),2010,307373,307373,725.0,1.0,0.6,590.0,81.3,590.0
+Misdrijven WvSr,Utrecht (PV),2011,307374,307374,870.0,1.0,0.7,695.0,79.9,725.0
+Misdrijven WvSr,Utrecht (PV),2012,307375,307375,1025.0,1.0,0.8,805.0,78.3,835.0
+Misdrijven WvSr,Utrecht (PV),2013,307376,307376,920.0,1.0,0.7,720.0,78.5,730.0
+Misdrijven WvSr,Utrecht (PV),2014,307377,307377,945.0,1.0,0.8,740.0,78.0,745.0
+Misdrijven WvSr,Utrecht (PV),2015,307378,307378,850.0,1.0,0.7,620.0,72.7,630.0
+Misdrijven WvSr,Utrecht (PV),2016,307379,307379,950.0,1.0,0.7,695.0,72.9,705.0
+Misdrijven WvSr,Utrecht (PV),2017,307380,307380,825.0,1.0,0.6,575.0,69.9,595.0
+Misdrijven WvSr,Utrecht (PV),2018,307381,307381,920.0,1.0,0.7,635.0,69.2,650.0
+Misdrijven WvSr,Utrecht (PV),2019,307382,307382,815.0,1.0,0.6,585.0,71.6,605.0
+Misdrijven WvSr,Utrecht (PV),2020,307383,307383,890.0,1.0,0.7,575.0,64.8,615.0
+Misdrijven WvSr,Zeeland (PV),2010,307406,307406,170.0,1.0,0.5,135.0,79.7,150.0
+Misdrijven WvSr,Zeeland (PV),2011,307407,307407,205.0,1.0,0.5,160.0,77.2,160.0
+Misdrijven WvSr,Zeeland (PV),2012,307408,307408,220.0,1.0,0.6,175.0,80.0,175.0
+Misdrijven WvSr,Zeeland (PV),2013,307409,307409,180.0,1.0,0.5,130.0,73.0,130.0
+Misdrijven WvSr,Zeeland (PV),2014,307410,307410,190.0,1.0,0.5,135.0,71.4,145.0
+Misdrijven WvSr,Zeeland (PV),2015,307411,307411,150.0,1.0,0.4,110.0,75.0,120.0
+Misdrijven WvSr,Zeeland (PV),2016,307412,307412,200.0,1.0,0.5,140.0,70.7,145.0
+Misdrijven WvSr,Zeeland (PV),2017,307413,307413,225.0,2.0,0.6,155.0,69.0,175.0
+Misdrijven WvSr,Zeeland (PV),2018,307414,307414,165.0,1.0,0.4,100.0,61.8,110.0
+Misdrijven WvSr,Zeeland (PV),2019,307415,307415,190.0,1.0,0.5,120.0,62.5,130.0
+Misdrijven WvSr,Zeeland (PV),2020,307416,307416,190.0,1.0,0.5,120.0,61.5,140.0
+Misdrijven WvSr,Zuid-Holland (PV),2010,307395,307395,2840.0,1.0,0.8,2405.0,84.6,2490.0
+Misdrijven WvSr,Zuid-Holland (PV),2011,307396,307396,2990.0,1.0,0.8,2545.0,85.2,2700.0
+Misdrijven WvSr,Zuid-Holland (PV),2012,307397,307397,2975.0,1.0,0.8,2480.0,83.2,2640.0
+Misdrijven WvSr,Zuid-Holland (PV),2013,307398,307398,2985.0,1.0,0.8,2360.0,79.1,2440.0
+Misdrijven WvSr,Zuid-Holland (PV),2014,307399,307399,3090.0,1.0,0.9,2450.0,79.4,2520.0
+Misdrijven WvSr,Zuid-Holland (PV),2015,307400,307400,2835.0,1.0,0.8,2135.0,75.3,2195.0
+Misdrijven WvSr,Zuid-Holland (PV),2016,307401,307401,2725.0,1.0,0.8,1985.0,72.9,2030.0
+Misdrijven WvSr,Zuid-Holland (PV),2017,307402,307402,2625.0,1.0,0.7,1800.0,68.6,1845.0
+Misdrijven WvSr,Zuid-Holland (PV),2018,307403,307403,2670.0,1.0,0.7,1780.0,66.6,1840.0
+Misdrijven WvSr,Zuid-Holland (PV),2019,307404,307404,2800.0,1.0,0.8,1895.0,67.8,1970.0
+Misdrijven WvSr,Zuid-Holland (PV),2020,307405,307405,3090.0,2.0,0.8,1940.0,62.7,2095.0
+Misdrijven overige wetten,Drenthe (PV),2010,1180707,1180707,265.0,1.0,0.6,145.0,206.5,150.0
+Misdrijven overige wetten,Drenthe (PV),2011,1180710,1180710,200.0,0.0,0.4,145.0,147.2,170.0
+Misdrijven overige wetten,Drenthe (PV),2012,1180713,1180713,220.0,0.0,0.4,150.0,142.6,200.0
+Misdrijven overige wetten,Drenthe (PV),2013,1180716,1180716,200.0,0.0,0.4,130.0,130.0,160.0
+Misdrijven overige wetten,Drenthe (PV),2014,1180719,1180719,140.0,0.0,0.0,90.0,127.6,100.0
+Misdrijven overige wetten,Drenthe (PV),2015,1180722,1180722,200.0,0.0,0.4,120.0,120.4,140.0
+Misdrijven overige wetten,Drenthe (PV),2016,1180725,1180725,200.0,2.0,0.4,120.0,121.6,140.0
+Misdrijven overige wetten,Drenthe (PV),2017,1180728,1180728,170.0,2.0,0.0,120.0,145.8,150.0
+Misdrijven overige wetten,Drenthe (PV),2018,1180731,1180731,220.0,2.0,0.4,170.0,148.2,190.0
+Misdrijven overige wetten,Drenthe (PV),2019,1180734,1180734,160.0,0.0,0.0,120.0,154.4,130.0
+Misdrijven overige wetten,Drenthe (PV),2020,1180737,1180737,120.0,0.0,0.0,70.0,118.0,90.0
+Misdrijven overige wetten,Flevoland (PV),2010,1180773,1180773,170.0,0.0,0.0,140.0,162.8,180.0
+Misdrijven overige wetten,Flevoland (PV),2011,1180776,1180776,210.0,0.0,0.6,180.0,167.6,230.0
+Misdrijven overige wetten,Flevoland (PV),2012,1180779,1180779,170.0,0.0,0.0,150.0,167.8,160.0
+Misdrijven overige wetten,Flevoland (PV),2013,1180782,1180782,120.0,0.0,0.0,90.0,146.6,120.0
+Misdrijven overige wetten,Flevoland (PV),2014,1180785,1180785,230.0,0.0,0.6,90.0,79.6,100.0
+Misdrijven overige wetten,Flevoland (PV),2015,1180788,1180788,150.0,0.0,0.0,80.0,115.0,110.0
+Misdrijven overige wetten,Flevoland (PV),2016,1180791,1180791,150.0,0.0,0.0,100.0,129.8,130.0
+Misdrijven overige wetten,Flevoland (PV),2017,1180794,1180794,170.0,0.0,0.0,120.0,141.2,150.0
+Misdrijven overige wetten,Flevoland (PV),2018,1180797,1180797,240.0,2.0,0.6,190.0,155.0,210.0
+Misdrijven overige wetten,Flevoland (PV),2019,1180800,1180800,190.0,2.0,0.4,150.0,150.6,190.0
+Misdrijven overige wetten,Flevoland (PV),2020,1180803,1180803,140.0,0.0,0.0,80.0,121.8,90.0
+Misdrijven overige wetten,Fryslân (PV),2010,1180674,1180674,360.0,2.0,0.6,320.0,177.6,350.0
+Misdrijven overige wetten,Fryslân (PV),2011,1180677,1180677,335.0,2.0,0.6,280.0,166.5,310.0
+Misdrijven overige wetten,Fryslân (PV),2012,1180680,1180680,300.0,2.0,0.4,240.0,158.6,270.0
+Misdrijven overige wetten,Fryslân (PV),2013,1180683,1180683,300.0,2.0,0.4,240.0,156.2,270.0
+Misdrijven overige wetten,Fryslân (PV),2014,1180686,1180686,270.0,0.0,0.4,220.0,166.0,260.0
+Misdrijven overige wetten,Fryslân (PV),2015,1180689,1180689,255.0,0.0,0.4,210.0,162.39999999999998,220.0
+Misdrijven overige wetten,Fryslân (PV),2016,1180692,1180692,330.0,2.0,0.6,260.0,162.0,330.0
+Misdrijven overige wetten,Fryslân (PV),2017,1180695,1180695,210.0,2.0,0.4,160.0,154.8,200.0
+Misdrijven overige wetten,Fryslân (PV),2018,1180698,1180698,390.0,2.0,0.6,310.0,162.6,350.0
+Misdrijven overige wetten,Fryslân (PV),2019,1180701,1180701,260.0,2.0,0.4,230.0,175.4,250.0
+Misdrijven overige wetten,Fryslân (PV),2020,1180704,1180704,180.0,0.0,0.0,110.0,129.6,130.0
+Misdrijven overige wetten,Gelderland (PV),2010,1180806,1180806,1190.0,0.0,0.6,965.0,215.60000000000002,1250.0
+Misdrijven overige wetten,Gelderland (PV),2011,1180809,1180809,1180.0,0.0,0.6,960.0,205.6,1170.0
+Misdrijven overige wetten,Gelderland (PV),2012,1180812,1180812,1155.0,0.0,0.6,970.0,238.0,1250.0
+Misdrijven overige wetten,Gelderland (PV),2013,1180815,1180815,1020.0,0.0,0.5,840.0,249.70000000000002,1080.0
+Misdrijven overige wetten,Gelderland (PV),2014,1180818,1180818,960.0,0.0,0.4,750.0,232.5,910.0
+Misdrijven overige wetten,Gelderland (PV),2015,1180821,1180821,855.0,0.0,0.4,600.0,208.2,730.0
+Misdrijven overige wetten,Gelderland (PV),2016,1180824,1180824,820.0,0.0,0.4,595.0,214.10000000000002,710.0
+Misdrijven overige wetten,Gelderland (PV),2017,1180827,1180827,845.0,2.0,0.4,680.0,260.9,795.0
+Misdrijven overige wetten,Gelderland (PV),2018,1180830,1180830,840.0,2.0,0.4,680.0,230.3,835.0
+Misdrijven overige wetten,Gelderland (PV),2019,1180833,1180833,770.0,0.0,0.4,630.0,263.9,780.0
+Misdrijven overige wetten,Gelderland (PV),2020,1180836,1180836,640.0,0.0,0.4,450.0,141.0,630.0
+Misdrijven overige wetten,Groningen (PV),2010,1180641,1180641,410.0,2.0,0.8,290.0,140.2,350.0
+Misdrijven overige wetten,Groningen (PV),2011,1180644,1180644,320.0,0.0,0.6,240.0,151.0,300.0
+Misdrijven overige wetten,Groningen (PV),2012,1180647,1180647,360.0,2.0,0.6,280.0,155.8,350.0
+Misdrijven overige wetten,Groningen (PV),2013,1180650,1180650,350.0,2.0,0.6,250.0,145.6,310.0
+Misdrijven overige wetten,Groningen (PV),2014,1180653,1180653,270.0,0.0,0.4,190.0,143.8,210.0
+Misdrijven overige wetten,Groningen (PV),2015,1180656,1180656,280.0,0.0,0.4,210.0,149.0,230.0
+Misdrijven overige wetten,Groningen (PV),2016,1180659,1180659,200.0,0.0,0.4,140.0,134.6,150.0
+Misdrijven overige wetten,Groningen (PV),2017,1180662,1180662,180.0,0.0,0.0,130.0,150.6,150.0
+Misdrijven overige wetten,Groningen (PV),2018,1180665,1180665,300.0,2.0,0.6,230.0,151.6,270.0
+Misdrijven overige wetten,Groningen (PV),2019,1180668,1180668,260.0,2.0,0.4,210.0,167.2,250.0
+Misdrijven overige wetten,Groningen (PV),2020,1180671,1180671,180.0,0.0,0.0,120.0,126.0,150.0
+Misdrijven overige wetten,Limburg (PV),2010,1181004,1181004,530.0,0.0,0.4,390.0,209.6,410.0
+Misdrijven overige wetten,Limburg (PV),2011,1181007,1181007,525.0,0.0,0.4,360.0,205.8,420.0
+Misdrijven overige wetten,Limburg (PV),2012,1181010,1181010,610.0,0.0,0.6,450.0,149.3,540.0
+Misdrijven overige wetten,Limburg (PV),2013,1181013,1181013,665.0,0.0,0.6,430.0,228.6,495.0
+Misdrijven overige wetten,Limburg (PV),2014,1181016,1181016,540.0,0.0,0.4,310.0,214.6,380.0
+Misdrijven overige wetten,Limburg (PV),2015,1181019,1181019,610.0,0.0,0.6,340.0,111.4,390.0
+Misdrijven overige wetten,Limburg (PV),2016,1181022,1181022,490.0,0.0,0.4,260.0,104.4,315.0
+Misdrijven overige wetten,Limburg (PV),2017,1181025,1181025,540.0,0.0,0.4,310.0,114.0,350.0
+Misdrijven overige wetten,Limburg (PV),2018,1181028,1181028,480.0,0.0,0.4,300.0,125.4,330.0
+Misdrijven overige wetten,Limburg (PV),2019,1181031,1181031,500.0,0.0,0.4,320.0,129.0,440.0
+Misdrijven overige wetten,Limburg (PV),2020,1181034,1181034,400.0,0.0,0.4,210.0,107.0,280.0
+Misdrijven overige wetten,Niet in te delen (PV),2010,1181037,1181037,70.0,2.0,0.0,60.0,165.89999999999998,60.0
+Misdrijven overige wetten,Niet in te delen (PV),2011,1181040,1181040,30.0,2.0,0.0,20.0,141.2,20.0
+Misdrijven overige wetten,Niet in te delen (PV),2012,1181043,1181043,30.0,2.0,0.0,20.0,176.60000000000002,30.0
+Misdrijven overige wetten,Niet in te delen (PV),2013,1181046,1181046,40.0,2.0,0.0,30.0,217.60000000000002,30.0
+Misdrijven overige wetten,Niet in te delen (PV),2014,1181049,1181049,35.0,3.0,0.0,30.0,281.3,30.0
+Misdrijven overige wetten,Niet in te delen (PV),2015,1181052,1181052,45.0,3.0,0.0,30.0,220.10000000000002,35.0
+Misdrijven overige wetten,Niet in te delen (PV),2016,1181055,1181055,40.0,4.0,0.0,30.0,174.1,40.0
+Misdrijven overige wetten,Niet in te delen (PV),2017,1181058,1181058,60.0,4.0,0.0,45.0,221.7,70.0
+Misdrijven overige wetten,Niet in te delen (PV),2018,1181061,1181061,70.0,3.0,0.0,50.0,219.7,45.0
+Misdrijven overige wetten,Niet in te delen (PV),2019,1181064,1181064,30.0,1.0,0.0,30.0,258.9,30.0
+Misdrijven overige wetten,Niet in te delen (PV),2020,1181067,1181067,60.0,6.0,0.0,40.0,129.8,50.0
+Misdrijven overige wetten,Noord-Brabant (PV),2010,1180971,1180971,960.0,0.0,0.4,710.0,223.8,830.0
+Misdrijven overige wetten,Noord-Brabant (PV),2011,1180974,1180974,970.0,0.0,0.4,765.0,233.1,895.0
+Misdrijven overige wetten,Noord-Brabant (PV),2012,1180977,1180977,1240.0,0.0,0.5,1060.0,256.5,1180.0
+Misdrijven overige wetten,Noord-Brabant (PV),2013,1180980,1180980,1050.0,0.0,0.4,840.0,160.6,1030.0
+Misdrijven overige wetten,Noord-Brabant (PV),2014,1180983,1180983,1000.0,0.0,0.4,740.0,222.7,860.0
+Misdrijven overige wetten,Noord-Brabant (PV),2015,1180986,1180986,1020.0,0.0,0.4,690.0,136.0,750.0
+Misdrijven overige wetten,Noord-Brabant (PV),2016,1180989,1180989,990.0,0.0,0.4,610.0,222.2,640.0
+Misdrijven overige wetten,Noord-Brabant (PV),2017,1180992,1180992,990.0,0.0,0.4,605.0,122.8,695.0
+Misdrijven overige wetten,Noord-Brabant (PV),2018,1180995,1180995,1030.0,0.0,0.4,660.0,203.29999999999998,770.0
+Misdrijven overige wetten,Noord-Brabant (PV),2019,1180998,1180998,1045.0,0.0,0.4,685.0,230.8,780.0
+Misdrijven overige wetten,Noord-Brabant (PV),2020,1181001,1181001,895.0,0.0,0.4,540.0,120.30000000000001,770.0
+Misdrijven overige wetten,Noord-Holland (PV),2010,1180872,1180872,1470.0,0.0,0.6,1210.0,253.20000000000002,1590.0
+Misdrijven overige wetten,Noord-Holland (PV),2011,1180875,1180875,1380.0,0.0,0.6,1075.0,230.39999999999998,1535.0
+Misdrijven overige wetten,Noord-Holland (PV),2012,1180878,1180878,1380.0,0.0,0.6,1060.0,234.0,1360.0
+Misdrijven overige wetten,Noord-Holland (PV),2013,1180881,1180881,1210.0,0.0,0.4,960.0,258.2,1260.0
+Misdrijven overige wetten,Noord-Holland (PV),2014,1180884,1180884,1275.0,0.0,0.4,995.0,156.60000000000002,1120.0
+Misdrijven overige wetten,Noord-Holland (PV),2015,1180887,1180887,1095.0,0.0,0.4,840.0,154.0,1080.0
+Misdrijven overige wetten,Noord-Holland (PV),2016,1180890,1180890,1050.0,0.0,0.4,770.0,146.2,890.0
+Misdrijven overige wetten,Noord-Holland (PV),2017,1180893,1180893,970.0,0.0,0.4,760.0,156.6,930.0
+Misdrijven overige wetten,Noord-Holland (PV),2018,1180896,1180896,1190.0,0.0,0.4,900.0,151.4,1030.0
+Misdrijven overige wetten,Noord-Holland (PV),2019,1180899,1180899,1090.0,0.0,0.4,860.0,158.0,1040.0
+Misdrijven overige wetten,Noord-Holland (PV),2020,1180902,1180902,970.0,0.0,0.4,600.0,124.2,780.0
+Misdrijven overige wetten,Overijssel (PV),2010,1180740,1180740,850.0,2.0,0.8,700.0,224.9,820.0
+Misdrijven overige wetten,Overijssel (PV),2011,1180743,1180743,760.0,2.0,0.6,670.0,176.4,810.0
+Misdrijven overige wetten,Overijssel (PV),2012,1180746,1180746,645.0,2.0,0.6,565.0,174.6,650.0
+Misdrijven overige wetten,Overijssel (PV),2013,1180749,1180749,460.0,0.0,0.4,410.0,175.8,500.0
+Misdrijven overige wetten,Overijssel (PV),2014,1180752,1180752,300.0,0.0,0.2,250.0,232.9,320.0
+Misdrijven overige wetten,Overijssel (PV),2015,1180755,1180755,340.0,0.0,0.2,280.0,163.4,340.0
+Misdrijven overige wetten,Overijssel (PV),2016,1180758,1180758,385.0,0.0,0.4,325.0,168.9,440.0
+Misdrijven overige wetten,Overijssel (PV),2017,1180761,1180761,350.0,0.0,0.4,285.0,164.3,340.0
+Misdrijven overige wetten,Overijssel (PV),2018,1180764,1180764,440.0,2.0,0.4,380.0,173.5,425.0
+Misdrijven overige wetten,Overijssel (PV),2019,1180767,1180767,430.0,0.0,0.4,370.0,175.2,450.0
+Misdrijven overige wetten,Overijssel (PV),2020,1180770,1180770,280.0,0.0,0.2,200.0,145.2,240.0
+Misdrijven overige wetten,Utrecht (PV),2010,1180839,1180839,410.0,0.0,0.4,300.0,244.6,400.0
+Misdrijven overige wetten,Utrecht (PV),2011,1180842,1180842,490.0,0.0,0.4,350.0,143.10000000000002,440.0
+Misdrijven overige wetten,Utrecht (PV),2012,1180845,1180845,410.0,0.0,0.4,325.0,160.2,415.0
+Misdrijven overige wetten,Utrecht (PV),2013,1180848,1180848,365.0,0.0,0.2,270.0,148.5,315.0
+Misdrijven overige wetten,Utrecht (PV),2014,1180851,1180851,380.0,0.0,0.2,270.0,145.9,340.0
+Misdrijven overige wetten,Utrecht (PV),2015,1180854,1180854,290.0,0.0,0.2,215.0,147.8,330.0
+Misdrijven overige wetten,Utrecht (PV),2016,1180857,1180857,360.0,0.0,0.2,255.0,241.10000000000002,330.0
+Misdrijven overige wetten,Utrecht (PV),2017,1180860,1180860,410.0,0.0,0.4,270.0,131.60000000000002,350.0
+Misdrijven overige wetten,Utrecht (PV),2018,1180863,1180863,500.0,0.0,0.4,400.0,160.7,500.0
+Misdrijven overige wetten,Utrecht (PV),2019,1180866,1180866,460.0,0.0,0.4,330.0,145.5,415.0
+Misdrijven overige wetten,Utrecht (PV),2020,1180869,1180869,550.0,0.0,0.4,340.0,124.6,490.0
+Misdrijven overige wetten,Zeeland (PV),2010,1180938,1180938,180.0,0.0,0.0,120.0,135.6,130.0
+Misdrijven overige wetten,Zeeland (PV),2011,1180941,1180941,220.0,0.0,0.6,160.0,142.4,170.0
+Misdrijven overige wetten,Zeeland (PV),2012,1180944,1180944,360.0,2.0,1.0,320.0,177.6,390.0
+Misdrijven overige wetten,Zeeland (PV),2013,1180947,1180947,230.0,2.0,0.6,190.0,166.6,230.0
+Misdrijven overige wetten,Zeeland (PV),2014,1180950,1180950,270.0,2.0,0.6,210.0,156.4,250.0
+Misdrijven overige wetten,Zeeland (PV),2015,1180953,1180953,220.0,2.0,0.6,160.0,139.2,170.0
+Misdrijven overige wetten,Zeeland (PV),2016,1180956,1180956,200.0,2.0,0.6,140.0,139.4,180.0
+Misdrijven overige wetten,Zeeland (PV),2017,1180959,1180959,180.0,2.0,0.0,140.0,152.8,160.0
+Misdrijven overige wetten,Zeeland (PV),2018,1180962,1180962,200.0,2.0,0.6,160.0,161.6,190.0
+Misdrijven overige wetten,Zeeland (PV),2019,1180965,1180965,200.0,2.0,0.6,150.0,144.6,160.0
+Misdrijven overige wetten,Zeeland (PV),2020,1180968,1180968,140.0,2.0,0.0,100.0,146.4,120.0
+Misdrijven overige wetten,Zuid-Holland (PV),2010,1180905,1180905,1540.0,0.0,0.4,980.0,127.4,1360.0
+Misdrijven overige wetten,Zuid-Holland (PV),2011,1180908,1180908,1840.0,0.0,0.6,1340.0,145.4,1790.0
+Misdrijven overige wetten,Zuid-Holland (PV),2012,1180911,1180911,2090.0,0.0,0.6,1750.0,167.1,2280.0
+Misdrijven overige wetten,Zuid-Holland (PV),2013,1180914,1180914,2250.0,0.0,0.6,1930.0,171.8,2330.0
+Misdrijven overige wetten,Zuid-Holland (PV),2014,1180917,1180917,2110.0,0.0,0.6,1750.0,166.2,2120.0
+Misdrijven overige wetten,Zuid-Holland (PV),2015,1180920,1180920,1700.0,0.0,0.4,1420.0,168.0,1730.0
+Misdrijven overige wetten,Zuid-Holland (PV),2016,1180923,1180923,1630.0,0.0,0.4,1280.0,157.2,1570.0
+Misdrijven overige wetten,Zuid-Holland (PV),2017,1180926,1180926,1670.0,0.0,0.4,1410.0,168.8,1590.0
+Misdrijven overige wetten,Zuid-Holland (PV),2018,1180929,1180929,1720.0,0.0,0.4,1440.0,167.4,1650.0
+Misdrijven overige wetten,Zuid-Holland (PV),2019,1180932,1180932,1640.0,0.0,0.4,1300.0,159.2,1540.0
+Misdrijven overige wetten,Zuid-Holland (PV),2020,1180935,1180935,1430.0,0.0,0.4,910.0,127.4,1250.0
+Openbaar gezag misdrijf,Drenthe (PV),2010,1181004,1181004,120.0,0.0,0.0,120.0,489.20000000000005,130.0
+Openbaar gezag misdrijf,Drenthe (PV),2011,1181010,1181010,205.0,0.0,0.2,200.0,379.5,225.0
+Openbaar gezag misdrijf,Drenthe (PV),2012,1181016,1181016,155.0,0.0,0.0,145.0,457.4,155.0
+Openbaar gezag misdrijf,Drenthe (PV),2013,1181022,1181022,105.0,0.0,0.0,90.0,415.9,95.0
+Openbaar gezag misdrijf,Drenthe (PV),2014,1181028,1181028,190.0,0.0,0.0,170.0,419.70000000000005,190.0
+Openbaar gezag misdrijf,Drenthe (PV),2015,1181034,1181034,160.0,0.0,0.0,140.0,406.0,140.0
+Openbaar gezag misdrijf,Drenthe (PV),2016,1181040,1181040,125.0,0.0,0.0,115.0,407.7,120.0
+Openbaar gezag misdrijf,Drenthe (PV),2017,1181046,1181046,95.0,0.0,0.0,95.0,500.0,105.0
+Openbaar gezag misdrijf,Drenthe (PV),2018,1181052,1181052,110.0,0.0,0.0,95.0,327.0,95.0
+Openbaar gezag misdrijf,Drenthe (PV),2019,1181058,1181058,135.0,0.0,0.0,130.0,420.1,130.0
+Openbaar gezag misdrijf,Drenthe (PV),2020,1181064,1181064,100.0,0.0,0.0,85.0,349.8,130.0
+Openbaar gezag misdrijf,Flevoland (PV),2010,1181136,1181136,175.0,0.0,0.0,170.0,446.6,190.0
+Openbaar gezag misdrijf,Flevoland (PV),2011,1181142,1181142,125.0,0.0,0.0,125.0,477.6,140.0
+Openbaar gezag misdrijf,Flevoland (PV),2012,1181148,1181148,125.0,0.0,0.0,115.0,353.3,115.0
+Openbaar gezag misdrijf,Flevoland (PV),2013,1181154,1181154,145.0,0.0,0.0,130.0,427.59999999999997,130.0
+Openbaar gezag misdrijf,Flevoland (PV),2014,1181160,1181160,145.0,0.0,0.0,135.0,549.9,125.0
+Openbaar gezag misdrijf,Flevoland (PV),2015,1181166,1181166,145.0,0.0,0.0,135.0,558.2,145.0
+Openbaar gezag misdrijf,Flevoland (PV),2016,1181172,1181172,165.0,0.0,0.0,135.0,374.0,135.0
+Openbaar gezag misdrijf,Flevoland (PV),2017,1181178,1181178,115.0,0.0,0.0,90.0,380.5,95.0
+Openbaar gezag misdrijf,Flevoland (PV),2018,1181184,1181184,205.0,1.0,0.2,185.0,498.8,195.0
+Openbaar gezag misdrijf,Flevoland (PV),2019,1181190,1181190,410.0,1.0,0.5,370.0,399.4,380.0
+Openbaar gezag misdrijf,Flevoland (PV),2020,1181196,1181196,310.0,1.0,0.4,275.0,410.5,295.0
+Openbaar gezag misdrijf,Fryslân (PV),2010,1180938,1180938,290.0,0.0,0.2,280.0,479.0,280.0
+Openbaar gezag misdrijf,Fryslân (PV),2011,1180944,1180944,395.0,1.0,0.5,380.0,567.3,380.0
+Openbaar gezag misdrijf,Fryslân (PV),2012,1180950,1180950,370.0,1.0,0.5,365.0,572.7,370.0
+Openbaar gezag misdrijf,Fryslân (PV),2013,1180956,1180956,190.0,0.0,0.0,185.0,569.5,180.0
+Openbaar gezag misdrijf,Fryslân (PV),2014,1180962,1180962,195.0,0.0,0.2,180.0,521.1,195.0
+Openbaar gezag misdrijf,Fryslân (PV),2015,1180968,1180968,185.0,0.0,0.0,170.0,451.5,170.0
+Openbaar gezag misdrijf,Fryslân (PV),2016,1180974,1180974,205.0,0.0,0.2,185.0,412.59999999999997,190.0
+Openbaar gezag misdrijf,Fryslân (PV),2017,1180980,1180980,145.0,0.0,0.0,135.0,433.8,140.0
+Openbaar gezag misdrijf,Fryslân (PV),2018,1180986,1180986,280.0,1.0,0.2,240.0,340.1,250.0
+Openbaar gezag misdrijf,Fryslân (PV),2019,1180992,1180992,340.0,1.0,0.3,320.0,533.9,340.0
+Openbaar gezag misdrijf,Fryslân (PV),2020,1180998,1180998,360.0,1.0,0.5,345.0,415.8,360.0
+Openbaar gezag misdrijf,Gelderland (PV),2010,1181202,1181202,920.0,0.0,0.30000000000000004,880.0,554.1999999999999,950.0
+Openbaar gezag misdrijf,Gelderland (PV),2011,1181208,1181208,890.0,0.0,0.30000000000000004,850.0,543.0,910.0
+Openbaar gezag misdrijf,Gelderland (PV),2012,1181214,1181214,765.0,0.0,0.30000000000000004,725.0,539.5,745.0
+Openbaar gezag misdrijf,Gelderland (PV),2013,1181220,1181220,670.0,0.0,0.30000000000000004,630.0,560.4,660.0
+Openbaar gezag misdrijf,Gelderland (PV),2014,1181226,1181226,850.0,0.0,0.30000000000000004,780.0,523.8,790.0
+Openbaar gezag misdrijf,Gelderland (PV),2015,1181232,1181232,800.0,0.0,0.30000000000000004,760.0,548.4,780.0
+Openbaar gezag misdrijf,Gelderland (PV),2016,1181238,1181238,885.0,0.0,0.30000000000000004,830.0,538.8000000000001,845.0
+Openbaar gezag misdrijf,Gelderland (PV),2017,1181244,1181244,720.0,0.0,0.30000000000000004,680.0,531.1999999999999,710.0
+Openbaar gezag misdrijf,Gelderland (PV),2018,1181250,1181250,1115.0,1.0,0.5,1055.0,542.3,1065.0
+Openbaar gezag misdrijf,Gelderland (PV),2019,1181256,1181256,1290.0,1.0,0.5,1235.0,555.6,1300.0
+Openbaar gezag misdrijf,Gelderland (PV),2020,1181262,1181262,1205.0,1.0,0.5,1150.0,541.5,1175.0
+Openbaar gezag misdrijf,Groningen (PV),2010,1180872,1180872,280.0,0.0,0.2,260.0,564.5,270.0
+Openbaar gezag misdrijf,Groningen (PV),2011,1180878,1180878,375.0,0.0,0.5,340.0,554.5,385.0
+Openbaar gezag misdrijf,Groningen (PV),2012,1180884,1180884,385.0,1.0,0.5,365.0,561.0,425.0
+Openbaar gezag misdrijf,Groningen (PV),2013,1180890,1180890,240.0,0.0,0.2,225.0,544.9,245.0
+Openbaar gezag misdrijf,Groningen (PV),2014,1180896,1180896,210.0,0.0,0.2,190.0,436.2,220.0
+Openbaar gezag misdrijf,Groningen (PV),2015,1180902,1180902,220.0,0.0,0.2,190.0,343.0,200.0
+Openbaar gezag misdrijf,Groningen (PV),2016,1180908,1180908,175.0,0.0,0.0,160.0,434.5,170.0
+Openbaar gezag misdrijf,Groningen (PV),2017,1180914,1180914,145.0,0.0,0.0,115.0,453.90000000000003,120.0
+Openbaar gezag misdrijf,Groningen (PV),2018,1180920,1180920,195.0,0.0,0.2,175.0,414.09999999999997,185.0
+Openbaar gezag misdrijf,Groningen (PV),2019,1180926,1180926,175.0,0.0,0.0,150.0,332.7,160.0
+Openbaar gezag misdrijf,Groningen (PV),2020,1180932,1180932,195.0,0.0,0.2,175.0,346.0,190.0
+Openbaar gezag misdrijf,Limburg (PV),2010,1181598,1181598,700.0,0.0,0.5,680.0,584.3000000000001,740.0
+Openbaar gezag misdrijf,Limburg (PV),2011,1181604,1181604,470.0,0.0,0.30000000000000004,445.0,560.7,505.0
+Openbaar gezag misdrijf,Limburg (PV),2012,1181610,1181610,585.0,0.0,0.4,545.0,546.5999999999999,665.0
+Openbaar gezag misdrijf,Limburg (PV),2013,1181616,1181616,405.0,0.0,0.30000000000000004,380.0,542.1,390.0
+Openbaar gezag misdrijf,Limburg (PV),2014,1181622,1181622,420.0,0.0,0.30000000000000004,385.0,524.5,385.0
+Openbaar gezag misdrijf,Limburg (PV),2015,1181628,1181628,385.0,0.0,0.2,355.0,549.7,360.0
+Openbaar gezag misdrijf,Limburg (PV),2016,1181634,1181634,405.0,0.0,0.30000000000000004,365.0,530.4,365.0
+Openbaar gezag misdrijf,Limburg (PV),2017,1181640,1181640,410.0,0.0,0.2,370.0,520.9,380.0
+Openbaar gezag misdrijf,Limburg (PV),2018,1181646,1181646,440.0,0.0,0.2,410.0,513.9000000000001,455.0
+Openbaar gezag misdrijf,Limburg (PV),2019,1181652,1181652,590.0,1.0,0.5,545.0,539.4,560.0
+Openbaar gezag misdrijf,Limburg (PV),2020,1181658,1181658,585.0,1.0,0.5,555.0,531.1,560.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2010,1181664,1181664,15.0,0.0,0.0,15.0,200.0,15.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2011,1181670,1181670,10.0,0.0,0.0,10.0,185.7,10.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2012,1181676,1181676,10.0,0.0,0.0,5.0,83.3,5.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2013,1181682,1181682,10.0,0.0,0.0,0.0,0.0,0.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2014,1181688,1181688,10.0,0.0,0.0,10.0,183.3,10.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2015,1181694,1181694,10.0,0.0,0.0,5.0,75.0,5.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2016,1181700,1181700,5.0,0.0,0.0,0.0,0.0,0.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2017,1181706,1181706,0.0,0.0,0.0,0.0,0.0,0.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2018,1181712,1181712,5.0,0.0,0.0,5.0,100.0,5.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2019,1181718,1181718,10.0,0.0,0.0,10.0,160.0,10.0
+Openbaar gezag misdrijf,Niet in te delen (PV),2020,1181724,1181724,10.0,0.0,0.0,10.0,200.0,10.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2010,1181532,1181532,1640.0,0.0,0.6,1590.0,553.1999999999999,1720.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2011,1181538,1181538,1530.0,0.0,0.6,1480.0,550.1,1575.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2012,1181544,1181544,1390.0,0.0,0.6,1330.0,544.6999999999999,1380.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2013,1181550,1181550,1155.0,0.0,0.4,1120.0,557.3,1150.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2014,1181556,1181556,1170.0,0.0,0.4,1090.0,506.9,1135.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2015,1181562,1181562,1070.0,0.0,0.30000000000000004,990.0,532.4,1020.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2016,1181568,1181568,1220.0,0.0,0.4,1090.0,495.4,1110.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2017,1181574,1181574,1025.0,0.0,0.30000000000000004,900.0,489.9,895.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2018,1181580,1181580,1355.0,1.0,0.5,1230.0,480.29999999999995,1275.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2019,1181586,1181586,2670.0,2.0,1.0,2545.0,505.3999999999999,2595.0
+Openbaar gezag misdrijf,Noord-Brabant (PV),2020,1181592,1181592,2260.0,1.0,0.8,2185.0,525.1,2235.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2010,1181334,1181334,3315.0,1.0,1.2000000000000002,3240.0,553.7,3500.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2011,1181340,1181340,3320.0,1.0,1.2000000000000002,3250.0,554.3,3390.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2012,1181346,1181346,2725.0,1.0,0.9,2635.0,536.3,2830.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2013,1181352,1181352,2590.0,1.0,0.9,2505.0,536.4,2645.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2014,1181358,1181358,2730.0,1.0,1.0,2645.0,543.5,2800.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2015,1181364,1181364,2600.0,1.0,1.0,2510.0,529.9,2565.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2016,1181370,1181370,3055.0,2.0,1.1,2945.0,533.9,2950.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2017,1181376,1181376,3785.0,2.0,1.3,3645.0,519.2,3685.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2018,1181382,1181382,3420.0,2.0,1.1,3250.0,500.8,3280.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2019,1181388,1181388,3315.0,2.0,1.2000000000000002,3170.0,527.9,3300.0
+Openbaar gezag misdrijf,Noord-Holland (PV),2020,1181394,1181394,2455.0,1.0,0.7999999999999999,2315.0,524.1,2415.0
+Openbaar gezag misdrijf,Overijssel (PV),2010,1181070,1181070,560.0,0.0,0.4,550.0,566.2,625.0
+Openbaar gezag misdrijf,Overijssel (PV),2011,1181076,1181076,465.0,0.0,0.30000000000000004,450.0,472.50000000000006,480.0
+Openbaar gezag misdrijf,Overijssel (PV),2012,1181082,1181082,550.0,0.0,0.30000000000000004,540.0,490.6,570.0
+Openbaar gezag misdrijf,Overijssel (PV),2013,1181088,1181088,375.0,0.0,0.2,340.0,447.4,350.0
+Openbaar gezag misdrijf,Overijssel (PV),2014,1181094,1181094,390.0,0.0,0.30000000000000004,365.0,459.8,395.0
+Openbaar gezag misdrijf,Overijssel (PV),2015,1181100,1181100,400.0,0.0,0.2,365.0,535.9000000000001,380.0
+Openbaar gezag misdrijf,Overijssel (PV),2016,1181106,1181106,410.0,0.0,0.30000000000000004,395.0,580.1,390.0
+Openbaar gezag misdrijf,Overijssel (PV),2017,1181112,1181112,450.0,1.0,0.2,420.0,529.9,420.0
+Openbaar gezag misdrijf,Overijssel (PV),2018,1181118,1181118,430.0,1.0,0.2,410.0,559.8000000000001,420.0
+Openbaar gezag misdrijf,Overijssel (PV),2019,1181124,1181124,605.0,1.0,0.5,575.0,564.4,590.0
+Openbaar gezag misdrijf,Overijssel (PV),2020,1181130,1181130,840.0,1.0,0.7000000000000001,805.0,549.0,825.0
+Openbaar gezag misdrijf,Utrecht (PV),2010,1181268,1181268,685.0,0.0,0.5,660.0,469.7,695.0
+Openbaar gezag misdrijf,Utrecht (PV),2011,1181274,1181274,715.0,0.0,0.5,685.0,534.3000000000001,710.0
+Openbaar gezag misdrijf,Utrecht (PV),2012,1181280,1181280,535.0,0.0,0.30000000000000004,520.0,566.8,580.0
+Openbaar gezag misdrijf,Utrecht (PV),2013,1181286,1181286,510.0,0.0,0.30000000000000004,480.0,548.4000000000001,470.0
+Openbaar gezag misdrijf,Utrecht (PV),2014,1181292,1181292,640.0,0.0,0.5,610.0,539.1,640.0
+Openbaar gezag misdrijf,Utrecht (PV),2015,1181298,1181298,525.0,0.0,0.30000000000000004,500.0,532.7,495.0
+Openbaar gezag misdrijf,Utrecht (PV),2016,1181304,1181304,645.0,0.0,0.4,610.0,543.8,620.0
+Openbaar gezag misdrijf,Utrecht (PV),2017,1181310,1181310,520.0,0.0,0.30000000000000004,475.0,512.2,480.0
+Openbaar gezag misdrijf,Utrecht (PV),2018,1181316,1181316,680.0,1.0,0.4,625.0,512.0000000000001,670.0
+Openbaar gezag misdrijf,Utrecht (PV),2019,1181322,1181322,825.0,1.0,0.6,750.0,486.5,790.0
+Openbaar gezag misdrijf,Utrecht (PV),2020,1181328,1181328,755.0,1.0,0.5,700.0,497.7,800.0
+Openbaar gezag misdrijf,Zeeland (PV),2010,1181466,1181466,170.0,0.0,0.0,165.0,488.8,205.0
+Openbaar gezag misdrijf,Zeeland (PV),2011,1181472,1181472,185.0,0.0,0.0,175.0,459.3,265.0
+Openbaar gezag misdrijf,Zeeland (PV),2012,1181478,1181478,190.0,0.0,0.0,180.0,454.6,185.0
+Openbaar gezag misdrijf,Zeeland (PV),2013,1181484,1181484,175.0,0.0,0.0,175.0,574.4000000000001,185.0
+Openbaar gezag misdrijf,Zeeland (PV),2014,1181490,1181490,230.0,1.0,0.3,230.0,480.40000000000003,235.0
+Openbaar gezag misdrijf,Zeeland (PV),2015,1181496,1181496,205.0,1.0,0.3,200.0,464.8,210.0
+Openbaar gezag misdrijf,Zeeland (PV),2016,1181502,1181502,185.0,1.0,0.0,175.0,423.79999999999995,190.0
+Openbaar gezag misdrijf,Zeeland (PV),2017,1181508,1181508,160.0,1.0,0.0,150.0,466.4,145.0
+Openbaar gezag misdrijf,Zeeland (PV),2018,1181514,1181514,200.0,2.0,0.3,190.0,430.0,205.0
+Openbaar gezag misdrijf,Zeeland (PV),2019,1181520,1181520,220.0,2.0,0.3,215.0,479.70000000000005,220.0
+Openbaar gezag misdrijf,Zeeland (PV),2020,1181526,1181526,200.0,1.0,0.3,175.0,447.0,190.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2010,1181400,1181400,3270.0,1.0,0.9,3170.0,560.3,3465.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2011,1181406,1181406,2815.0,0.0,0.7000000000000001,2710.0,563.3,2950.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2012,1181412,1181412,2395.0,0.0,0.6,2320.0,566.7,2550.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2013,1181418,1181418,2200.0,0.0,0.5,2125.0,566.4,2265.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2014,1181424,1181424,2245.0,0.0,0.5,2150.0,565.5999999999999,2295.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2015,1181430,1181430,2130.0,0.0,0.5,2005.0,525.7,2110.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2016,1181436,1181436,2420.0,1.0,0.6,2215.0,517.3,2555.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2017,1181442,1181442,1800.0,0.0,0.4,1620.0,512.2,1610.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2018,1181448,1181448,1885.0,1.0,0.5,1680.0,479.3,1725.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2019,1181454,1181454,2540.0,1.0,0.5,2260.0,507.9,2320.0
+Openbaar gezag misdrijf,Zuid-Holland (PV),2020,1181460,1181460,3020.0,1.0,0.8,2790.0,509.4,3720.0
+Openbare orde misdrijf,Drenthe (PV),2010,1359171,1359171,815.0,2.0,1.2,655.0,704.9000000000001,1180.0
+Openbare orde misdrijf,Drenthe (PV),2011,1359180,1359180,805.0,2.0,1.2,630.0,616.5999999999999,1280.0
+Openbare orde misdrijf,Drenthe (PV),2012,1359189,1359189,970.0,4.0,1.7,535.0,575.8,1020.0
+Openbare orde misdrijf,Drenthe (PV),2013,1359198,1359198,695.0,1.0,0.6,440.0,640.1,925.0
+Openbare orde misdrijf,Drenthe (PV),2014,1359207,1359207,815.0,2.0,0.7,475.0,576.7,815.0
+Openbare orde misdrijf,Drenthe (PV),2015,1359216,1359216,625.0,1.0,0.5,415.0,656.2,825.0
+Openbare orde misdrijf,Drenthe (PV),2016,1359225,1359225,550.0,1.0,0.5,330.0,553.6,630.0
+Openbare orde misdrijf,Drenthe (PV),2017,1359234,1359234,485.0,1.0,0.4,270.0,503.40000000000003,455.0
+Openbare orde misdrijf,Drenthe (PV),2018,1359243,1359243,600.0,3.0,0.8,240.0,459.19999999999993,520.0
+Openbare orde misdrijf,Drenthe (PV),2019,1359252,1359252,890.0,3.0,1.3,355.0,578.4000000000001,720.0
+Openbare orde misdrijf,Drenthe (PV),2020,1359261,1359261,1200.0,5.0,1.9000000000000001,280.0,438.5,790.0
+Openbare orde misdrijf,Flevoland (PV),2010,1359369,1359369,1290.0,5.0,2.9,1075.0,669.5,1880.0
+Openbare orde misdrijf,Flevoland (PV),2011,1359378,1359378,1450.0,5.0,3.3,1150.0,639.4000000000001,1940.0
+Openbare orde misdrijf,Flevoland (PV),2012,1359387,1359387,1105.0,4.0,2.6,690.0,663.9,1420.0
+Openbare orde misdrijf,Flevoland (PV),2013,1359396,1359396,830.0,1.0,1.5,545.0,599.4,1045.0
+Openbare orde misdrijf,Flevoland (PV),2014,1359405,1359405,1670.0,6.0,3.5999999999999996,510.0,493.2,1030.0
+Openbare orde misdrijf,Flevoland (PV),2015,1359414,1359414,730.0,1.0,1.1,435.0,541.9000000000001,800.0
+Openbare orde misdrijf,Flevoland (PV),2016,1359423,1359423,790.0,3.0,1.3,510.0,584.5999999999999,980.0
+Openbare orde misdrijf,Flevoland (PV),2017,1359432,1359432,680.0,4.0,1.0,435.0,571.5999999999999,870.0
+Openbare orde misdrijf,Flevoland (PV),2018,1359441,1359441,665.0,3.0,0.8999999999999999,395.0,609.2,755.0
+Openbare orde misdrijf,Flevoland (PV),2019,1359450,1359450,910.0,4.0,1.7,385.0,553.5,730.0
+Openbare orde misdrijf,Flevoland (PV),2020,1359459,1359459,990.0,4.0,1.8,315.0,552.2,540.0
+Openbare orde misdrijf,Fryslân (PV),2010,1359072,1359072,1340.0,4.0,1.7999999999999998,1110.0,690.5999999999999,1950.0
+Openbare orde misdrijf,Fryslân (PV),2011,1359081,1359081,1425.0,4.0,1.7,1175.0,657.5,2125.0
+Openbare orde misdrijf,Fryslân (PV),2012,1359090,1359090,1310.0,3.0,1.9999999999999998,920.0,648.8,1755.0
+Openbare orde misdrijf,Fryslân (PV),2013,1359099,1359099,1105.0,3.0,1.0999999999999999,860.0,673.3999999999999,1580.0
+Openbare orde misdrijf,Fryslân (PV),2014,1359108,1359108,1135.0,2.0,1.4,795.0,640.6,1110.0
+Openbare orde misdrijf,Fryslân (PV),2015,1359117,1359117,915.0,2.0,0.8,665.0,647.9000000000001,1055.0
+Openbare orde misdrijf,Fryslân (PV),2016,1359126,1359126,920.0,2.0,1.2,655.0,600.3000000000001,1070.0
+Openbare orde misdrijf,Fryslân (PV),2017,1359135,1359135,860.0,3.0,1.0,565.0,610.1,845.0
+Openbare orde misdrijf,Fryslân (PV),2018,1359144,1359144,1250.0,6.0,1.8,735.0,586.1,1140.0
+Openbare orde misdrijf,Fryslân (PV),2019,1359153,1359153,1270.0,5.0,1.7000000000000002,685.0,621.4,1160.0
+Openbare orde misdrijf,Fryslân (PV),2020,1359162,1359162,1285.0,5.0,1.5,440.0,507.59999999999997,790.0
+Openbare orde misdrijf,Gelderland (PV),2010,1359468,1359468,4995.0,4.0,2.4,3800.0,625.3000000000001,7150.0
+Openbare orde misdrijf,Gelderland (PV),2011,1359477,1359477,4950.0,4.0,2.3,3430.0,606.4,6060.0
+Openbare orde misdrijf,Gelderland (PV),2012,1359486,1359486,4445.0,4.0,2.1,2390.0,550.8,4800.0
+Openbare orde misdrijf,Gelderland (PV),2013,1359495,1359495,3170.0,2.0,1.5000000000000002,1935.0,611.5999999999999,4375.0
+Openbare orde misdrijf,Gelderland (PV),2014,1359504,1359504,3060.0,2.0,1.5000000000000002,1840.0,555.6999999999999,3805.0
+Openbare orde misdrijf,Gelderland (PV),2015,1359513,1359513,2655.0,1.0,1.2,1640.0,592.9,4700.0
+Openbare orde misdrijf,Gelderland (PV),2016,1359522,1359522,2510.0,1.0,1.2,1675.0,610.2,3155.0
+Openbare orde misdrijf,Gelderland (PV),2017,1359531,1359531,2505.0,3.0,1.0999999999999999,1640.0,571.1,2970.0
+Openbare orde misdrijf,Gelderland (PV),2018,1359540,1359540,2435.0,2.0,1.0999999999999999,1555.0,598.0,2700.0
+Openbare orde misdrijf,Gelderland (PV),2019,1359549,1359549,2725.0,1.0,1.3,1675.0,589.4000000000001,2805.0
+Openbare orde misdrijf,Gelderland (PV),2020,1359558,1359558,3990.0,3.0,1.7000000000000002,1385.0,480.1000000000001,2635.0
+Openbare orde misdrijf,Groningen (PV),2010,1358973,1358973,1840.0,5.0,2.9999999999999996,1505.0,687.5999999999999,2980.0
+Openbare orde misdrijf,Groningen (PV),2011,1358982,1358982,1805.0,4.0,2.6999999999999997,1415.0,609.9,2640.0
+Openbare orde misdrijf,Groningen (PV),2012,1358991,1358991,1745.0,4.0,2.6,1180.0,636.2,2540.0
+Openbare orde misdrijf,Groningen (PV),2013,1359000,1359000,1120.0,2.0,1.6,800.0,631.5999999999999,1425.0
+Openbare orde misdrijf,Groningen (PV),2014,1359009,1359009,1170.0,2.0,1.7,680.0,572.5,1315.0
+Openbare orde misdrijf,Groningen (PV),2015,1359018,1359018,910.0,1.0,1.2999999999999998,585.0,565.1,1035.0
+Openbare orde misdrijf,Groningen (PV),2016,1359027,1359027,785.0,1.0,1.0,490.0,587.8000000000001,780.0
+Openbare orde misdrijf,Groningen (PV),2017,1359036,1359036,810.0,1.0,1.0,505.0,580.7,835.0
+Openbare orde misdrijf,Groningen (PV),2018,1359045,1359045,1060.0,4.0,1.5,530.0,533.9,945.0
+Openbare orde misdrijf,Groningen (PV),2019,1359054,1359054,1240.0,3.0,1.9,515.0,506.9,940.0
+Openbare orde misdrijf,Groningen (PV),2020,1359063,1359063,1800.0,6.0,2.6999999999999997,540.0,467.50000000000006,1195.0
+Openbare orde misdrijf,Limburg (PV),2010,1360062,1360062,2795.0,2.0,2.2,2225.0,654.9,3790.0
+Openbare orde misdrijf,Limburg (PV),2011,1360071,1360071,2770.0,2.0,2.3999999999999995,1955.0,613.8,3530.0
+Openbare orde misdrijf,Limburg (PV),2012,1360080,1360080,2120.0,1.0,1.8,1230.0,523.5999999999999,2280.0
+Openbare orde misdrijf,Limburg (PV),2013,1360089,1360089,1725.0,1.0,1.4000000000000001,1095.0,542.1,2020.0
+Openbare orde misdrijf,Limburg (PV),2014,1360098,1360098,1995.0,1.0,1.7000000000000002,1145.0,535.5,2035.0
+Openbare orde misdrijf,Limburg (PV),2015,1360107,1360107,1500.0,1.0,1.2000000000000002,860.0,545.3,1515.0
+Openbare orde misdrijf,Limburg (PV),2016,1360116,1360116,1440.0,1.0,0.9999999999999999,915.0,589.3,1450.0
+Openbare orde misdrijf,Limburg (PV),2017,1360125,1360125,1330.0,1.0,1.0999999999999999,790.0,571.9000000000001,1335.0
+Openbare orde misdrijf,Limburg (PV),2018,1360134,1360134,1385.0,1.0,1.0999999999999999,810.0,533.1000000000001,1355.0
+Openbare orde misdrijf,Limburg (PV),2019,1360143,1360143,1560.0,1.0,1.3,880.0,570.7,1520.0
+Openbare orde misdrijf,Limburg (PV),2020,1360152,1360152,2120.0,3.0,1.8,740.0,513.3,1565.0
+Openbare orde misdrijf,Niet in te delen (PV),2010,1360161,1360161,65.0,2.0,0.0,20.0,167.3,30.0
+Openbare orde misdrijf,Niet in te delen (PV),2011,1360170,1360170,85.0,3.0,0.0,15.0,123.1,25.0
+Openbare orde misdrijf,Niet in te delen (PV),2012,1360179,1360179,55.0,4.0,0.0,5.0,10.0,5.0
+Openbare orde misdrijf,Niet in te delen (PV),2013,1360188,1360188,35.0,2.0,0.0,5.0,33.3,15.0
+Openbare orde misdrijf,Niet in te delen (PV),2014,1360197,1360197,40.0,2.0,0.0,10.0,43.8,25.0
+Openbare orde misdrijf,Niet in te delen (PV),2015,1360206,1360206,35.0,2.0,0.0,5.0,16.7,20.0
+Openbare orde misdrijf,Niet in te delen (PV),2016,1360215,1360215,25.0,1.0,0.0,5.0,36.4,40.0
+Openbare orde misdrijf,Niet in te delen (PV),2017,1360224,1360224,45.0,1.0,0.0,20.0,182.4,35.0
+Openbare orde misdrijf,Niet in te delen (PV),2018,1360233,1360233,30.0,1.0,0.0,10.0,108.4,30.0
+Openbare orde misdrijf,Niet in te delen (PV),2019,1360242,1360242,40.0,2.0,0.0,10.0,105.0,35.0
+Openbare orde misdrijf,Niet in te delen (PV),2020,1360251,1360251,30.0,3.0,0.0,5.0,33.3,20.0
+Openbare orde misdrijf,Noord-Brabant (PV),2010,1359963,1359963,6455.0,3.0,2.6,4705.0,619.6,9725.0
+Openbare orde misdrijf,Noord-Brabant (PV),2011,1359972,1359972,6330.0,3.0,2.4000000000000004,4165.0,594.2,8255.0
+Openbare orde misdrijf,Noord-Brabant (PV),2012,1359981,1359981,6700.0,4.0,2.6,3695.0,585.8,7640.0
+Openbare orde misdrijf,Noord-Brabant (PV),2013,1359990,1359990,4745.0,2.0,1.9000000000000004,2825.0,547.3,5925.0
+Openbare orde misdrijf,Noord-Brabant (PV),2014,1359999,1359999,4615.0,2.0,1.8000000000000005,2800.0,553.4999999999999,5470.0
+Openbare orde misdrijf,Noord-Brabant (PV),2015,1360008,1360008,4115.0,1.0,1.7000000000000002,2670.0,575.3,4845.0
+Openbare orde misdrijf,Noord-Brabant (PV),2016,1360017,1360017,4195.0,3.0,1.7000000000000002,2560.0,552.9,4855.0
+Openbare orde misdrijf,Noord-Brabant (PV),2017,1360026,1360026,3905.0,3.0,1.5,2375.0,542.6,4235.0
+Openbare orde misdrijf,Noord-Brabant (PV),2018,1360035,1360035,3985.0,3.0,1.5,2420.0,562.3,4540.0
+Openbare orde misdrijf,Noord-Brabant (PV),2019,1360044,1360044,5140.0,4.0,1.8,2880.0,545.2,5100.0
+Openbare orde misdrijf,Noord-Brabant (PV),2020,1360053,1360053,6285.0,4.0,2.3,2315.0,497.4,4475.0
+Openbare orde misdrijf,Noord-Holland (PV),2010,1359666,1359666,11790.0,5.0,4.500000000000001,9530.0,627.8000000000001,16445.0
+Openbare orde misdrijf,Noord-Holland (PV),2011,1359675,1359675,10960.0,4.0,4.0,8705.0,628.3,14020.0
+Openbare orde misdrijf,Noord-Holland (PV),2012,1359684,1359684,7285.0,2.0,2.6,4605.0,607.9,9035.0
+Openbare orde misdrijf,Noord-Holland (PV),2013,1359693,1359693,5800.0,1.0,2.2,3845.0,611.0,7680.0
+Openbare orde misdrijf,Noord-Holland (PV),2014,1359702,1359702,6090.0,1.0,2.2,3575.0,559.2,6990.0
+Openbare orde misdrijf,Noord-Holland (PV),2015,1359711,1359711,5150.0,1.0,1.9000000000000001,3170.0,570.7,6710.0
+Openbare orde misdrijf,Noord-Holland (PV),2016,1359720,1359720,5645.0,1.0,2.0,3195.0,544.1,6090.0
+Openbare orde misdrijf,Noord-Holland (PV),2017,1359729,1359729,5485.0,1.0,1.9000000000000001,2710.0,511.4,5120.0
+Openbare orde misdrijf,Noord-Holland (PV),2018,1359738,1359738,5455.0,2.0,1.9000000000000001,2540.0,529.6000000000001,4400.0
+Openbare orde misdrijf,Noord-Holland (PV),2019,1359747,1359747,7390.0,3.0,2.6,2905.0,506.7,5145.0
+Openbare orde misdrijf,Noord-Holland (PV),2020,1359756,1359756,9330.0,5.0,3.2,2150.0,456.59999999999997,4110.0
+Openbare orde misdrijf,Overijssel (PV),2010,1359270,1359270,2975.0,4.0,2.4000000000000004,2535.0,719.1,4265.0
+Openbare orde misdrijf,Overijssel (PV),2011,1359279,1359279,3030.0,5.0,2.6,2285.0,661.1999999999999,3685.0
+Openbare orde misdrijf,Overijssel (PV),2012,1359288,1359288,2575.0,4.0,2.2,1500.0,595.3000000000001,3005.0
+Openbare orde misdrijf,Overijssel (PV),2013,1359297,1359297,1935.0,1.0,1.4999999999999998,1205.0,659.1999999999998,2290.0
+Openbare orde misdrijf,Overijssel (PV),2014,1359306,1359306,1860.0,2.0,1.4000000000000001,1125.0,596.1999999999999,2390.0
+Openbare orde misdrijf,Overijssel (PV),2015,1359315,1359315,1495.0,1.0,1.0999999999999999,1025.0,626.8000000000001,1775.0
+Openbare orde misdrijf,Overijssel (PV),2016,1359324,1359324,1150.0,1.0,0.8,865.0,662.6,1465.0
+Openbare orde misdrijf,Overijssel (PV),2017,1359333,1359333,1425.0,2.0,1.0999999999999999,905.0,588.5,1765.0
+Openbare orde misdrijf,Overijssel (PV),2018,1359342,1359342,1510.0,3.0,1.2,1010.0,597.7,1835.0
+Openbare orde misdrijf,Overijssel (PV),2019,1359351,1359351,1540.0,3.0,1.2000000000000002,870.0,537.0000000000001,1465.0
+Openbare orde misdrijf,Overijssel (PV),2020,1359360,1359360,2360.0,4.0,1.8,980.0,529.9999999999999,1750.0
+Openbare orde misdrijf,Utrecht (PV),2010,1359567,1359567,4230.0,5.0,3.3000000000000003,3260.0,633.3,5620.0
+Openbare orde misdrijf,Utrecht (PV),2011,1359576,1359576,3960.0,4.0,3.2,2810.0,598.8,5285.0
+Openbare orde misdrijf,Utrecht (PV),2012,1359585,1359585,3880.0,5.0,3.1000000000000005,2055.0,588.7,4255.0
+Openbare orde misdrijf,Utrecht (PV),2013,1359594,1359594,3120.0,4.0,2.5,1885.0,595.4,3805.0
+Openbare orde misdrijf,Utrecht (PV),2014,1359603,1359603,3045.0,3.0,2.4,1445.0,515.6,2840.0
+Openbare orde misdrijf,Utrecht (PV),2015,1359612,1359612,2570.0,3.0,1.9000000000000004,1525.0,566.8,3380.0
+Openbare orde misdrijf,Utrecht (PV),2016,1359621,1359621,2210.0,2.0,1.5999999999999999,1345.0,568.0,2690.0
+Openbare orde misdrijf,Utrecht (PV),2017,1359630,1359630,2170.0,2.0,1.5999999999999999,1280.0,562.4,2485.0
+Openbare orde misdrijf,Utrecht (PV),2018,1359639,1359639,2140.0,2.0,1.5,1245.0,535.5,2205.0
+Openbare orde misdrijf,Utrecht (PV),2019,1359648,1359648,2505.0,3.0,1.7,1310.0,539.3000000000001,2510.0
+Openbare orde misdrijf,Utrecht (PV),2020,1359657,1359657,3595.0,4.0,2.6,1105.0,480.3,1965.0
+Openbare orde misdrijf,Zeeland (PV),2010,1359864,1359864,835.0,4.0,1.9000000000000001,660.0,682.1,1345.0
+Openbare orde misdrijf,Zeeland (PV),2011,1359873,1359873,865.0,4.0,1.6,650.0,713.1,1285.0
+Openbare orde misdrijf,Zeeland (PV),2012,1359882,1359882,805.0,4.0,1.6,495.0,632.5999999999999,965.0
+Openbare orde misdrijf,Zeeland (PV),2013,1359891,1359891,610.0,2.0,1.0,410.0,620.0,855.0
+Openbare orde misdrijf,Zeeland (PV),2014,1359900,1359900,635.0,3.0,1.0,360.0,541.8,685.0
+Openbare orde misdrijf,Zeeland (PV),2015,1359909,1359909,550.0,2.0,0.6,330.0,595.8,715.0
+Openbare orde misdrijf,Zeeland (PV),2016,1359918,1359918,470.0,1.0,0.5,295.0,608.0999999999999,515.0
+Openbare orde misdrijf,Zeeland (PV),2017,1359927,1359927,475.0,2.0,0.5,330.0,618.6,575.0
+Openbare orde misdrijf,Zeeland (PV),2018,1359936,1359936,395.0,1.0,0.4,270.0,652.9999999999999,495.0
+Openbare orde misdrijf,Zeeland (PV),2019,1359945,1359945,575.0,4.0,0.7,315.0,613.8,625.0
+Openbare orde misdrijf,Zeeland (PV),2020,1359954,1359954,685.0,3.0,1.3,225.0,548.8,560.0
+Openbare orde misdrijf,Zuid-Holland (PV),2010,1359765,1359765,12955.0,5.0,3.7000000000000006,9760.0,643.1,19620.0
+Openbare orde misdrijf,Zuid-Holland (PV),2011,1359774,1359774,11590.0,5.0,3.2,8770.0,642.5,17390.0
+Openbare orde misdrijf,Zuid-Holland (PV),2012,1359783,1359783,9545.0,3.0,2.7000000000000006,6565.0,623.7,13795.0
+Openbare orde misdrijf,Zuid-Holland (PV),2013,1359792,1359792,8015.0,2.0,2.1,5495.0,607.6,10960.0
+Openbare orde misdrijf,Zuid-Holland (PV),2014,1359801,1359801,10505.0,5.0,2.8000000000000003,6120.0,574.6999999999999,12010.0
+Openbare orde misdrijf,Zuid-Holland (PV),2015,1359810,1359810,6940.0,2.0,1.9000000000000006,4270.0,564.0,8600.0
+Openbare orde misdrijf,Zuid-Holland (PV),2016,1359819,1359819,6295.0,2.0,1.7000000000000004,3725.0,538.1,7520.0
+Openbare orde misdrijf,Zuid-Holland (PV),2017,1359828,1359828,6620.0,3.0,1.8000000000000005,3840.0,546.8,6660.0
+Openbare orde misdrijf,Zuid-Holland (PV),2018,1359837,1359837,6385.0,3.0,1.6000000000000003,3590.0,536.6,6925.0
+Openbare orde misdrijf,Zuid-Holland (PV),2019,1359846,1359846,6835.0,3.0,1.9000000000000004,3490.0,519.6999999999999,6710.0
+Openbare orde misdrijf,Zuid-Holland (PV),2020,1359855,1359855,8270.0,4.0,2.1,2795.0,447.5999999999999,6080.0
+Valsheidsmisdrijven,Drenthe (PV),2010,226776,226776,380.0,2.0,0.7,180.0,149.2,250.0
+Valsheidsmisdrijven,Drenthe (PV),2011,226780,226780,340.0,2.0,0.6,175.0,165.89999999999998,230.0
+Valsheidsmisdrijven,Drenthe (PV),2012,226784,226784,380.0,2.0,0.7,150.0,113.69999999999999,180.0
+Valsheidsmisdrijven,Drenthe (PV),2013,226788,226788,325.0,2.0,0.6,125.0,125.60000000000001,170.0
+Valsheidsmisdrijven,Drenthe (PV),2014,226792,226792,275.0,2.0,0.5,130.0,230.2,140.0
+Valsheidsmisdrijven,Drenthe (PV),2015,226796,226796,885.0,4.0,1.6,295.0,108.1,480.0
+Valsheidsmisdrijven,Drenthe (PV),2016,226800,226800,1210.0,6.0,2.3,365.0,120.39999999999999,500.0
+Valsheidsmisdrijven,Drenthe (PV),2017,226804,226804,1270.0,8.0,2.5,300.0,73.3,380.0
+Valsheidsmisdrijven,Drenthe (PV),2018,226808,226808,1490.0,9.0,2.9,265.0,72.1,360.0
+Valsheidsmisdrijven,Drenthe (PV),2019,226812,226812,1960.0,11.0,3.9,250.0,65.7,425.0
+Valsheidsmisdrijven,Drenthe (PV),2020,226816,226816,4120.0,23.0,8.3,340.0,67.10000000000001,585.0
+Valsheidsmisdrijven,Flevoland (PV),2010,226864,226864,540.0,2.0,1.2999999999999998,170.0,118.30000000000001,305.0
+Valsheidsmisdrijven,Flevoland (PV),2011,226868,226868,740.0,2.0,1.8,200.0,105.9,280.0
+Valsheidsmisdrijven,Flevoland (PV),2012,226872,226872,790.0,3.0,1.9,180.0,86.1,270.0
+Valsheidsmisdrijven,Flevoland (PV),2013,226876,226876,645.0,2.0,1.5,160.0,99.6,195.0
+Valsheidsmisdrijven,Flevoland (PV),2014,226880,226880,700.0,3.0,1.6,220.0,115.2,285.0
+Valsheidsmisdrijven,Flevoland (PV),2015,226884,226884,1400.0,7.0,3.4,480.0,183.20000000000002,610.0
+Valsheidsmisdrijven,Flevoland (PV),2016,226888,226888,1455.0,6.0,3.4000000000000004,350.0,99.30000000000001,460.0
+Valsheidsmisdrijven,Flevoland (PV),2017,226892,226892,1410.0,7.0,3.3,315.0,96.0,445.0
+Valsheidsmisdrijven,Flevoland (PV),2018,226896,226896,1540.0,8.0,3.5999999999999996,405.0,97.4,530.0
+Valsheidsmisdrijven,Flevoland (PV),2019,226900,226900,1650.0,8.0,3.8,285.0,83.6,380.0
+Valsheidsmisdrijven,Flevoland (PV),2020,226904,226904,3250.0,18.0,7.6,330.0,70.0,590.0
+Valsheidsmisdrijven,Fryslân (PV),2010,226732,226732,325.0,1.0,0.5,180.0,175.9,210.0
+Valsheidsmisdrijven,Fryslân (PV),2011,226736,226736,410.0,2.0,0.6,220.0,236.0,235.0
+Valsheidsmisdrijven,Fryslân (PV),2012,226740,226740,410.0,2.0,0.6,150.0,98.5,170.0
+Valsheidsmisdrijven,Fryslân (PV),2013,226744,226744,445.0,2.0,0.6,175.0,208.70000000000002,230.0
+Valsheidsmisdrijven,Fryslân (PV),2014,226748,226748,460.0,2.0,0.7,190.0,122.70000000000002,215.0
+Valsheidsmisdrijven,Fryslân (PV),2015,226752,226752,1015.0,3.0,1.6,430.0,135.0,580.0
+Valsheidsmisdrijven,Fryslân (PV),2016,226756,226756,1465.0,6.0,2.1,530.0,128.0,710.0
+Valsheidsmisdrijven,Fryslân (PV),2017,226760,226760,1950.0,9.0,2.9,505.0,102.4,685.0
+Valsheidsmisdrijven,Fryslân (PV),2018,226764,226764,1970.0,8.0,3.0,495.0,163.10000000000002,600.0
+Valsheidsmisdrijven,Fryslân (PV),2019,226768,226768,2190.0,10.0,3.3,555.0,110.19999999999999,750.0
+Valsheidsmisdrijven,Fryslân (PV),2020,226772,226772,4320.0,20.0,6.5,605.0,70.8,1050.0
+Valsheidsmisdrijven,Gelderland (PV),2010,226908,226908,1400.0,1.0,0.8,665.0,225.79999999999998,810.0
+Valsheidsmisdrijven,Gelderland (PV),2011,226912,226912,1640.0,2.0,0.8,630.0,220.3,760.0
+Valsheidsmisdrijven,Gelderland (PV),2012,226916,226916,1790.0,2.0,0.9,540.0,190.7,740.0
+Valsheidsmisdrijven,Gelderland (PV),2013,226920,226920,1330.0,1.0,0.7,500.0,222.29999999999998,635.0
+Valsheidsmisdrijven,Gelderland (PV),2014,226924,226924,1630.0,2.0,0.8,685.0,221.1,1035.0
+Valsheidsmisdrijven,Gelderland (PV),2015,226928,226928,3410.0,4.0,1.6,1170.0,187.7,1470.0
+Valsheidsmisdrijven,Gelderland (PV),2016,226932,226932,5175.0,6.0,2.6,1505.0,155.9,1850.0
+Valsheidsmisdrijven,Gelderland (PV),2017,226936,226936,5670.0,6.0,2.8,1535.0,167.20000000000002,1860.0
+Valsheidsmisdrijven,Gelderland (PV),2018,226940,226940,5760.0,8.0,2.8,1510.0,169.5,1940.0
+Valsheidsmisdrijven,Gelderland (PV),2019,226944,226944,7600.0,9.0,3.7,1520.0,139.89999999999998,2070.0
+Valsheidsmisdrijven,Gelderland (PV),2020,226948,226948,16305.0,20.0,7.8,2145.0,116.39999999999999,3770.0
+Valsheidsmisdrijven,Groningen (PV),2010,226688,226688,530.0,2.0,0.9,245.0,143.7,310.0
+Valsheidsmisdrijven,Groningen (PV),2011,226692,226692,540.0,2.0,0.9,240.0,157.0,320.0
+Valsheidsmisdrijven,Groningen (PV),2012,226696,226696,700.0,2.0,1.1,250.0,117.9,295.0
+Valsheidsmisdrijven,Groningen (PV),2013,226700,226700,510.0,2.0,0.7,165.0,116.30000000000001,210.0
+Valsheidsmisdrijven,Groningen (PV),2014,226704,226704,610.0,2.0,0.9,185.0,106.8,230.0
+Valsheidsmisdrijven,Groningen (PV),2015,226708,226708,1175.0,4.0,1.8,370.0,97.20000000000002,485.0
+Valsheidsmisdrijven,Groningen (PV),2016,226712,226712,1655.0,6.0,2.7,470.0,94.6,610.0
+Valsheidsmisdrijven,Groningen (PV),2017,226716,226716,1810.0,7.0,3.1,390.0,81.9,500.0
+Valsheidsmisdrijven,Groningen (PV),2018,226720,226720,1815.0,8.0,3.0,370.0,71.1,510.0
+Valsheidsmisdrijven,Groningen (PV),2019,226724,226724,2160.0,8.0,3.5999999999999996,380.0,71.3,600.0
+Valsheidsmisdrijven,Groningen (PV),2020,226728,226728,4115.0,17.0,6.9,445.0,49.800000000000004,840.0
+Valsheidsmisdrijven,Limburg (PV),2010,227172,227172,840.0,0.0,0.7,400.0,204.5,505.0
+Valsheidsmisdrijven,Limburg (PV),2011,227176,227176,980.0,1.0,0.8,415.0,202.2,520.0
+Valsheidsmisdrijven,Limburg (PV),2012,227180,227180,995.0,2.0,0.8,390.0,222.2,450.0
+Valsheidsmisdrijven,Limburg (PV),2013,227184,227184,1015.0,1.0,1.0,325.0,173.6,390.0
+Valsheidsmisdrijven,Limburg (PV),2014,227188,227188,875.0,1.0,0.7,310.0,192.6,385.0
+Valsheidsmisdrijven,Limburg (PV),2015,227192,227192,1825.0,2.0,1.6,645.0,180.8,860.0
+Valsheidsmisdrijven,Limburg (PV),2016,227196,227196,2860.0,4.0,2.5,860.0,158.70000000000002,1050.0
+Valsheidsmisdrijven,Limburg (PV),2017,227200,227200,3060.0,6.0,2.8,750.0,137.4,910.0
+Valsheidsmisdrijven,Limburg (PV),2018,227204,227204,3285.0,6.0,2.9,690.0,183.0,865.0
+Valsheidsmisdrijven,Limburg (PV),2019,227208,227208,4325.0,8.0,3.8,750.0,176.6,995.0
+Valsheidsmisdrijven,Limburg (PV),2020,227212,227212,8720.0,17.0,7.699999999999999,715.0,111.0,1110.0
+Valsheidsmisdrijven,Niet in te delen (PV),2010,227216,227216,280.0,12.0,0.0,50.0,37.2,80.0
+Valsheidsmisdrijven,Niet in te delen (PV),2011,227220,227220,320.0,16.0,0.0,50.0,33.1,60.0
+Valsheidsmisdrijven,Niet in te delen (PV),2012,227224,227224,260.0,16.0,0.0,40.0,31.4,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2013,227228,227228,150.0,11.0,0.0,40.0,54.6,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2014,227232,227232,130.0,10.0,0.0,30.0,49.6,30.0
+Valsheidsmisdrijven,Niet in te delen (PV),2015,227236,227236,190.0,12.0,0.0,40.0,41.900000000000006,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2016,227240,227240,170.0,14.0,0.0,30.0,32.0,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2017,227244,227244,215.0,14.0,0.0,40.0,34.400000000000006,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2018,227248,227248,160.0,10.0,0.0,40.0,51.2,50.0
+Valsheidsmisdrijven,Niet in te delen (PV),2019,227252,227252,140.0,8.0,0.0,20.0,32.4,30.0
+Valsheidsmisdrijven,Niet in te delen (PV),2020,227256,227256,110.0,12.0,0.0,10.0,16.5,20.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2010,227128,227128,2265.0,2.0,1.0,1030.0,229.20000000000002,1230.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2011,227132,227132,2480.0,2.0,1.0,755.0,200.9,890.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2012,227136,227136,2950.0,2.0,1.2,975.0,208.70000000000002,1230.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2013,227140,227140,2710.0,2.0,1.0,1130.0,230.0,1380.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2014,227144,227144,2510.0,2.0,1.0,970.0,208.5,1215.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2015,227148,227148,4940.0,3.0,2.0,1625.0,171.4,2210.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2016,227152,227152,6665.0,4.0,2.6,1800.0,143.2,2370.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2017,227156,227156,7240.0,6.0,2.8,1600.0,149.10000000000002,1970.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2018,227160,227160,7615.0,6.0,3.0,1590.0,145.99999999999997,1975.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2019,227164,227164,11130.0,9.0,4.4,2380.0,173.99999999999997,3010.0
+Valsheidsmisdrijven,Noord-Brabant (PV),2020,227168,227168,22205.0,18.0,8.7,1925.0,127.6,3085.0
+Valsheidsmisdrijven,Noord-Holland (PV),2010,226996,226996,5125.0,2.0,2.0,1695.0,213.0,2220.0
+Valsheidsmisdrijven,Noord-Holland (PV),2011,227000,227000,6880.0,2.0,2.6,1735.0,194.60000000000002,2335.0
+Valsheidsmisdrijven,Noord-Holland (PV),2012,227004,227004,6785.0,3.0,2.6,1415.0,179.8,1945.0
+Valsheidsmisdrijven,Noord-Holland (PV),2013,227008,227008,4720.0,2.0,1.8,1320.0,196.89999999999998,1670.0
+Valsheidsmisdrijven,Noord-Holland (PV),2014,227012,227012,4640.0,2.0,1.6,1680.0,209.2,2185.0
+Valsheidsmisdrijven,Noord-Holland (PV),2015,227016,227016,7650.0,4.0,2.8,2315.0,169.8,3180.0
+Valsheidsmisdrijven,Noord-Holland (PV),2016,227020,227020,9580.0,5.0,3.4000000000000004,2330.0,146.79999999999998,3075.0
+Valsheidsmisdrijven,Noord-Holland (PV),2017,227024,227024,10635.0,6.0,3.8,2700.0,158.49999999999997,4120.0
+Valsheidsmisdrijven,Noord-Holland (PV),2018,227028,227028,10520.0,6.0,3.8,2190.0,131.8,3040.0
+Valsheidsmisdrijven,Noord-Holland (PV),2019,227032,227032,11975.0,7.0,4.2,1885.0,126.1,2720.0
+Valsheidsmisdrijven,Noord-Holland (PV),2020,227036,227036,22810.0,14.0,8.0,1545.0,104.60000000000001,2860.0
+Valsheidsmisdrijven,Overijssel (PV),2010,226820,226820,825.0,2.0,0.7,430.0,262.59999999999997,545.0
+Valsheidsmisdrijven,Overijssel (PV),2011,226824,226824,935.0,2.0,0.8,360.0,229.60000000000002,500.0
+Valsheidsmisdrijven,Overijssel (PV),2012,226828,226828,865.0,2.0,0.7,330.0,213.7,430.0
+Valsheidsmisdrijven,Overijssel (PV),2013,226832,226832,705.0,1.0,0.6,290.0,120.30000000000001,375.0
+Valsheidsmisdrijven,Overijssel (PV),2014,226836,226836,710.0,1.0,0.5,290.0,224.2,385.0
+Valsheidsmisdrijven,Overijssel (PV),2015,226840,226840,1840.0,4.0,1.6,735.0,198.8,945.0
+Valsheidsmisdrijven,Overijssel (PV),2016,226844,226844,2775.0,6.0,2.4000000000000004,950.0,185.1,1240.0
+Valsheidsmisdrijven,Overijssel (PV),2017,226848,226848,2990.0,6.0,2.6,870.0,187.60000000000002,1080.0
+Valsheidsmisdrijven,Overijssel (PV),2018,226852,226852,3070.0,7.0,2.6,670.0,157.3,950.0
+Valsheidsmisdrijven,Overijssel (PV),2019,226856,226856,4150.0,10.0,3.6,750.0,89.80000000000001,1065.0
+Valsheidsmisdrijven,Overijssel (PV),2020,226860,226860,8905.0,20.0,7.6,1285.0,130.7,2350.0
+Valsheidsmisdrijven,Utrecht (PV),2010,226952,226952,1310.0,2.0,1.0,580.0,230.1,670.0
+Valsheidsmisdrijven,Utrecht (PV),2011,226956,226956,1535.0,2.0,1.2,510.0,210.6,640.0
+Valsheidsmisdrijven,Utrecht (PV),2012,226960,226960,1670.0,2.0,1.2999999999999998,400.0,175.2,510.0
+Valsheidsmisdrijven,Utrecht (PV),2013,226964,226964,1380.0,2.0,1.1,465.0,198.8,615.0
+Valsheidsmisdrijven,Utrecht (PV),2014,226968,226968,1720.0,2.0,1.4,675.0,221.10000000000002,830.0
+Valsheidsmisdrijven,Utrecht (PV),2015,226972,226972,2780.0,4.0,2.2,900.0,172.0,1230.0
+Valsheidsmisdrijven,Utrecht (PV),2016,226976,226976,3910.0,5.0,3.0,1200.0,174.50000000000003,1455.0
+Valsheidsmisdrijven,Utrecht (PV),2017,226980,226980,4420.0,6.0,3.4000000000000004,1145.0,163.8,1490.0
+Valsheidsmisdrijven,Utrecht (PV),2018,226984,226984,4515.0,7.0,3.4000000000000004,910.0,156.2,1160.0
+Valsheidsmisdrijven,Utrecht (PV),2019,226988,226988,5425.0,8.0,4.0,810.0,72.6,1125.0
+Valsheidsmisdrijven,Utrecht (PV),2020,226992,226992,10660.0,16.0,7.8,545.0,91.50000000000001,970.0
+Valsheidsmisdrijven,Zeeland (PV),2010,227084,227084,255.0,1.0,0.3,120.0,179.70000000000002,135.0
+Valsheidsmisdrijven,Zeeland (PV),2011,227088,227088,315.0,2.0,0.8,120.0,122.7,155.0
+Valsheidsmisdrijven,Zeeland (PV),2012,227092,227092,320.0,2.0,0.8,80.0,93.0,95.0
+Valsheidsmisdrijven,Zeeland (PV),2013,227096,227096,250.0,2.0,0.6,90.0,124.79999999999998,105.0
+Valsheidsmisdrijven,Zeeland (PV),2014,227100,227100,290.0,2.0,0.7,160.0,156.5,190.0
+Valsheidsmisdrijven,Zeeland (PV),2015,227104,227104,715.0,4.0,1.7000000000000002,335.0,147.9,430.0
+Valsheidsmisdrijven,Zeeland (PV),2016,227108,227108,910.0,6.0,2.3,355.0,131.4,420.0
+Valsheidsmisdrijven,Zeeland (PV),2017,227112,227112,1035.0,7.0,2.5999999999999996,325.0,193.8,390.0
+Valsheidsmisdrijven,Zeeland (PV),2018,227116,227116,1060.0,8.0,2.7,300.0,229.1,430.0
+Valsheidsmisdrijven,Zeeland (PV),2019,227120,227120,1245.0,9.0,3.1,350.0,211.20000000000002,505.0
+Valsheidsmisdrijven,Zeeland (PV),2020,227124,227124,2860.0,20.0,7.300000000000001,355.0,73.9,650.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2010,227040,227040,5625.0,2.0,1.6,2130.0,214.60000000000002,2895.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2011,227044,227044,6305.0,2.0,1.8,2040.0,209.39999999999998,2600.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2012,227048,227048,6190.0,2.0,1.8,1765.0,207.2,2275.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2013,227052,227052,4960.0,2.0,1.4,1570.0,207.8,1970.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2014,227056,227056,5140.0,2.0,1.4,1750.0,213.29999999999998,2220.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2015,227060,227060,9000.0,4.0,2.5,2845.0,185.5,3710.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2016,227064,227064,11580.0,5.0,3.2,3110.0,162.00000000000003,4100.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2017,227068,227068,13060.0,6.0,3.6,2930.0,170.10000000000002,3710.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2018,227072,227072,12650.0,6.0,3.4000000000000004,2370.0,146.8,2925.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2019,227076,227076,18360.0,10.0,5.0,2760.0,150.79999999999998,3695.0
+Valsheidsmisdrijven,Zuid-Holland (PV),2020,227080,227080,32105.0,16.0,8.6,1995.0,100.89999999999999,3455.0
+Verkeersmisdrijven,Drenthe (PV),2010,3008511,3008511,5495.0,21.0,10.999999999999998,2030.0,535.2,2070.0
+Verkeersmisdrijven,Drenthe (PV),2011,3008520,3008520,5040.0,19.0,9.999999999999998,2030.0,555.0,2045.0
+Verkeersmisdrijven,Drenthe (PV),2012,3008529,3008529,4395.0,17.0,8.7,1765.0,579.3,1790.0
+Verkeersmisdrijven,Drenthe (PV),2013,3008538,3008538,4020.0,17.0,7.8,1560.0,587.2,1605.0
+Verkeersmisdrijven,Drenthe (PV),2014,3008547,3008547,4145.0,18.0,8.1,1595.0,573.5,1635.0
+Verkeersmisdrijven,Drenthe (PV),2015,3008556,3008556,4170.0,20.0,8.2,1530.0,559.1999999999999,1555.0
+Verkeersmisdrijven,Drenthe (PV),2016,3008565,3008565,4115.0,21.0,8.0,1430.0,497.9,1440.0
+Verkeersmisdrijven,Drenthe (PV),2017,3008574,3008574,4120.0,25.0,8.0,1550.0,552.9,1555.0
+Verkeersmisdrijven,Drenthe (PV),2018,3008583,3008583,4595.0,29.0,9.2,1715.0,574.4,1730.0
+Verkeersmisdrijven,Drenthe (PV),2019,3008592,3008592,4980.0,28.0,9.899999999999999,1970.0,560.1999999999999,1985.0
+Verkeersmisdrijven,Drenthe (PV),2020,3008601,3008601,4680.0,26.0,9.2,1675.0,564.6,1695.0
+Verkeersmisdrijven,Flevoland (PV),2010,3008709,3008709,6570.0,25.0,16.5,2625.0,480.1,2645.0
+Verkeersmisdrijven,Flevoland (PV),2011,3008718,3008718,5975.0,22.0,15.000000000000002,2540.0,607.5,2565.0
+Verkeersmisdrijven,Flevoland (PV),2012,3008727,3008727,5930.0,22.0,14.8,2610.0,429.29999999999995,2640.0
+Verkeersmisdrijven,Flevoland (PV),2013,3008736,3008736,5455.0,20.0,13.400000000000002,2165.0,481.20000000000005,2195.0
+Verkeersmisdrijven,Flevoland (PV),2014,3008745,3008745,5210.0,21.0,13.0,2125.0,508.9,2145.0
+Verkeersmisdrijven,Flevoland (PV),2015,3008754,3008754,5290.0,24.0,13.100000000000001,2150.0,632.0,2165.0
+Verkeersmisdrijven,Flevoland (PV),2016,3008763,3008763,5075.0,24.0,12.400000000000002,2240.0,687.7,2260.0
+Verkeersmisdrijven,Flevoland (PV),2017,3008772,3008772,4910.0,26.0,12.000000000000002,2030.0,547.5,2030.0
+Verkeersmisdrijven,Flevoland (PV),2018,3008781,3008781,5380.0,30.0,12.8,2230.0,591.6,2255.0
+Verkeersmisdrijven,Flevoland (PV),2019,3008790,3008790,5675.0,29.0,13.299999999999999,2405.0,615.4999999999999,2415.0
+Verkeersmisdrijven,Flevoland (PV),2020,3008799,3008799,4920.0,26.0,11.4,1875.0,585.0,1885.0
+Verkeersmisdrijven,Fryslân (PV),2010,3008412,3008412,8920.0,27.0,13.5,4340.0,690.6,4365.0
+Verkeersmisdrijven,Fryslân (PV),2011,3008421,3008421,8665.0,27.0,13.1,4130.0,588.6,4185.0
+Verkeersmisdrijven,Fryslân (PV),2012,3008430,3008430,7820.0,26.0,11.999999999999998,3695.0,711.3,3720.0
+Verkeersmisdrijven,Fryslân (PV),2013,3008439,3008439,6940.0,24.0,10.799999999999999,3000.0,602.2,3015.0
+Verkeersmisdrijven,Fryslân (PV),2014,3008448,3008448,6390.0,25.0,9.799999999999999,2960.0,622.7,3000.0
+Verkeersmisdrijven,Fryslân (PV),2015,3008457,3008457,6475.0,25.0,9.9,2985.0,654.5999999999999,3035.0
+Verkeersmisdrijven,Fryslân (PV),2016,3008466,3008466,6335.0,26.0,9.8,2985.0,562.2,3020.0
+Verkeersmisdrijven,Fryslân (PV),2017,3008475,3008475,5955.0,28.0,9.1,2745.0,610.6999999999999,2775.0
+Verkeersmisdrijven,Fryslân (PV),2018,3008484,3008484,6660.0,30.0,10.099999999999998,3225.0,676.4,3260.0
+Verkeersmisdrijven,Fryslân (PV),2019,3008493,3008493,7075.0,32.0,10.899999999999999,3775.0,659.3999999999999,3820.0
+Verkeersmisdrijven,Fryslân (PV),2020,3008502,3008502,6680.0,30.0,10.1,3490.0,664.0,3525.0
+Verkeersmisdrijven,Gelderland (PV),2010,3008808,3008808,28645.0,22.0,14.299999999999999,12525.0,690.6,12780.0
+Verkeersmisdrijven,Gelderland (PV),2011,3008817,3008817,27790.0,22.0,13.700000000000001,11840.0,672.9,11945.0
+Verkeersmisdrijven,Gelderland (PV),2012,3008826,3008826,25995.0,22.0,12.799999999999999,10520.0,659.2,10655.0
+Verkeersmisdrijven,Gelderland (PV),2013,3008835,3008835,24955.0,22.0,12.3,9895.0,654.4,10055.0
+Verkeersmisdrijven,Gelderland (PV),2014,3008844,3008844,23230.0,23.0,11.4,9075.0,655.5999999999999,9295.0
+Verkeersmisdrijven,Gelderland (PV),2015,3008853,3008853,21725.0,23.0,10.7,8195.0,656.1,8255.0
+Verkeersmisdrijven,Gelderland (PV),2016,3008862,3008862,21840.0,24.0,10.7,8185.0,635.1999999999999,8250.0
+Verkeersmisdrijven,Gelderland (PV),2017,3008871,3008871,21430.0,26.0,10.299999999999997,7815.0,649.1,7930.0
+Verkeersmisdrijven,Gelderland (PV),2018,3008880,3008880,22980.0,31.0,11.099999999999998,8845.0,653.1,8915.0
+Verkeersmisdrijven,Gelderland (PV),2019,3008889,3008889,25405.0,31.0,12.099999999999998,10395.0,663.4,10490.0
+Verkeersmisdrijven,Gelderland (PV),2020,3008898,3008898,23330.0,27.0,11.099999999999998,10075.0,665.5999999999999,10200.0
+Verkeersmisdrijven,Groningen (PV),2010,3008313,3008313,7630.0,20.0,13.0,3820.0,632.6999999999999,3835.0
+Verkeersmisdrijven,Groningen (PV),2011,3008322,3008322,7385.0,19.0,12.5,3605.0,588.3,3695.0
+Verkeersmisdrijven,Groningen (PV),2012,3008331,3008331,6535.0,17.0,10.999999999999998,3180.0,605.7,3220.0
+Verkeersmisdrijven,Groningen (PV),2013,3008340,3008340,5430.0,15.0,9.2,2280.0,694.2,2305.0
+Verkeersmisdrijven,Groningen (PV),2014,3008349,3008349,5665.0,17.0,9.7,2230.0,579.8,2260.0
+Verkeersmisdrijven,Groningen (PV),2015,3008358,3008358,5350.0,17.0,8.799999999999999,1995.0,574.8,2030.0
+Verkeersmisdrijven,Groningen (PV),2016,3008367,3008367,5450.0,18.0,9.2,2150.0,609.0,2190.0
+Verkeersmisdrijven,Groningen (PV),2017,3008376,3008376,5470.0,22.0,9.1,2360.0,570.3,2380.0
+Verkeersmisdrijven,Groningen (PV),2018,3008385,3008385,5975.0,24.0,10.199999999999998,2600.0,676.2,2640.0
+Verkeersmisdrijven,Groningen (PV),2019,3008394,3008394,6500.0,26.0,11.0,2940.0,683.1999999999999,2960.0
+Verkeersmisdrijven,Groningen (PV),2020,3008403,3008403,6450.0,28.0,11.0,2975.0,667.3,3000.0
+Verkeersmisdrijven,Limburg (PV),2010,3009402,3009402,20665.0,24.0,18.3,7335.0,673.8,7480.0
+Verkeersmisdrijven,Limburg (PV),2011,3009411,3009411,20780.0,24.0,18.500000000000004,7120.0,692.4000000000001,7260.0
+Verkeersmisdrijven,Limburg (PV),2012,3009420,3009420,18680.0,21.0,16.500000000000004,6220.0,668.6,6370.0
+Verkeersmisdrijven,Limburg (PV),2013,3009429,3009429,18580.0,23.0,16.500000000000004,5510.0,646.8,5535.0
+Verkeersmisdrijven,Limburg (PV),2014,3009438,3009438,17510.0,23.0,15.399999999999999,5135.0,556.4,5200.0
+Verkeersmisdrijven,Limburg (PV),2015,3009447,3009447,15795.0,22.0,14.099999999999998,4240.0,646.7,4280.0
+Verkeersmisdrijven,Limburg (PV),2016,3009456,3009456,15870.0,25.0,14.199999999999998,4270.0,545.1,4355.0
+Verkeersmisdrijven,Limburg (PV),2017,3009465,3009465,15805.0,27.0,13.999999999999998,4275.0,645.0000000000001,4335.0
+Verkeersmisdrijven,Limburg (PV),2018,3009474,3009474,15740.0,30.0,13.899999999999999,4610.0,550.1,4670.0
+Verkeersmisdrijven,Limburg (PV),2019,3009483,3009483,17065.0,30.0,15.199999999999998,5450.0,593.0,5520.0
+Verkeersmisdrijven,Limburg (PV),2020,3009492,3009492,15035.0,29.0,13.4,5035.0,636.0,5145.0
+Verkeersmisdrijven,Niet in te delen (PV),2010,3009501,3009501,555.0,23.0,0.0,185.0,302.8,170.0
+Verkeersmisdrijven,Niet in te delen (PV),2011,3009510,3009510,555.0,25.0,0.0,210.0,129.1,210.0
+Verkeersmisdrijven,Niet in te delen (PV),2012,3009519,3009519,560.0,31.0,0.0,225.0,285.1,230.0
+Verkeersmisdrijven,Niet in te delen (PV),2013,3009528,3009528,410.0,30.0,0.0,135.0,360.5,115.0
+Verkeersmisdrijven,Niet in te delen (PV),2014,3009537,3009537,375.0,26.0,0.0,135.0,306.4,145.0
+Verkeersmisdrijven,Niet in te delen (PV),2015,3009546,3009546,1325.0,79.0,0.0,960.0,497.1,1010.0
+Verkeersmisdrijven,Niet in te delen (PV),2016,3009555,3009555,460.0,41.0,0.0,160.0,322.2,160.0
+Verkeersmisdrijven,Niet in te delen (PV),2017,3009564,3009564,690.0,42.0,0.0,300.0,390.1,305.0
+Verkeersmisdrijven,Niet in te delen (PV),2018,3009573,3009573,655.0,38.0,0.0,195.0,257.2,195.0
+Verkeersmisdrijven,Niet in te delen (PV),2019,3009582,3009582,720.0,37.0,0.0,265.0,297.3,280.0
+Verkeersmisdrijven,Niet in te delen (PV),2020,3009591,3009591,460.0,50.0,0.0,195.0,298.8,195.0
+Verkeersmisdrijven,Noord-Brabant (PV),2010,3009303,3009303,43985.0,24.0,17.900000000000002,17230.0,680.4000000000001,17415.0
+Verkeersmisdrijven,Noord-Brabant (PV),2011,3009312,3009312,43140.0,24.0,17.600000000000005,15840.0,665.9,16035.0
+Verkeersmisdrijven,Noord-Brabant (PV),2012,3009321,3009321,41115.0,23.0,16.6,15210.0,665.6999999999999,15385.0
+Verkeersmisdrijven,Noord-Brabant (PV),2013,3009330,3009330,39815.0,24.0,16.2,13865.0,672.6,14010.0
+Verkeersmisdrijven,Noord-Brabant (PV),2014,3009339,3009339,36180.0,23.0,14.499999999999998,12130.0,665.6,12210.0
+Verkeersmisdrijven,Noord-Brabant (PV),2015,3009348,3009348,34670.0,23.0,13.899999999999999,10680.0,649.3000000000001,10725.0
+Verkeersmisdrijven,Noord-Brabant (PV),2016,3009357,3009357,35010.0,25.0,13.899999999999999,10455.0,634.8,10470.0
+Verkeersmisdrijven,Noord-Brabant (PV),2017,3009366,3009366,33475.0,27.0,13.299999999999999,10255.0,647.0,10305.0
+Verkeersmisdrijven,Noord-Brabant (PV),2018,3009375,3009375,34045.0,31.0,13.299999999999999,10495.0,661.0,10595.0
+Verkeersmisdrijven,Noord-Brabant (PV),2019,3009384,3009384,36300.0,30.0,14.2,11540.0,681.6,11670.0
+Verkeersmisdrijven,Noord-Brabant (PV),2020,3009393,3009393,32790.0,27.0,12.799999999999999,11160.0,654.8000000000001,11355.0
+Verkeersmisdrijven,Noord-Holland (PV),2010,3009006,3009006,47405.0,20.0,17.7,23855.0,689.0,23445.0
+Verkeersmisdrijven,Noord-Holland (PV),2011,3009015,3009015,48685.0,20.0,17.9,23905.0,678.8000000000001,24285.0
+Verkeersmisdrijven,Noord-Holland (PV),2012,3009024,3009024,45120.0,19.0,16.5,21470.0,643.3999999999999,21835.0
+Verkeersmisdrijven,Noord-Holland (PV),2013,3009033,3009033,42995.0,19.0,15.700000000000003,18960.0,652.2,19270.0
+Verkeersmisdrijven,Noord-Holland (PV),2014,3009042,3009042,40245.0,19.0,14.6,17705.0,655.5,17870.0
+Verkeersmisdrijven,Noord-Holland (PV),2015,3009051,3009051,38830.0,18.0,14.0,15270.0,643.8000000000001,15370.0
+Verkeersmisdrijven,Noord-Holland (PV),2016,3009060,3009060,39615.0,19.0,14.2,15115.0,639.4000000000001,15270.0
+Verkeersmisdrijven,Noord-Holland (PV),2017,3009069,3009069,38660.0,22.0,13.6,14270.0,645.0999999999999,14330.0
+Verkeersmisdrijven,Noord-Holland (PV),2018,3009078,3009078,40940.0,26.0,14.400000000000002,14845.0,626.5,15030.0
+Verkeersmisdrijven,Noord-Holland (PV),2019,3009087,3009087,42350.0,25.0,14.8,16110.0,637.8999999999999,16335.0
+Verkeersmisdrijven,Noord-Holland (PV),2020,3009096,3009096,38365.0,24.0,13.2,14555.0,629.8,14845.0
+Verkeersmisdrijven,Overijssel (PV),2010,3008610,3008610,14960.0,24.0,13.1,6265.0,709.4,6370.0
+Verkeersmisdrijven,Overijssel (PV),2011,3008619,3008619,15790.0,24.0,13.8,6455.0,701.8000000000001,6590.0
+Verkeersmisdrijven,Overijssel (PV),2012,3008628,3008628,14445.0,23.0,12.5,5255.0,692.1,5350.0
+Verkeersmisdrijven,Overijssel (PV),2013,3008637,3008637,13395.0,22.0,11.700000000000001,4380.0,528.1,4415.0
+Verkeersmisdrijven,Overijssel (PV),2014,3008646,3008646,13170.0,24.0,11.5,4090.0,637.3,4155.0
+Verkeersmisdrijven,Overijssel (PV),2015,3008655,3008655,12075.0,23.0,10.499999999999998,3680.0,549.8,3690.0
+Verkeersmisdrijven,Overijssel (PV),2016,3008664,3008664,12095.0,25.0,10.599999999999998,3990.0,679.1000000000001,4015.0
+Verkeersmisdrijven,Overijssel (PV),2017,3008673,3008673,12390.0,28.0,10.799999999999999,3895.0,668.4,3935.0
+Verkeersmisdrijven,Overijssel (PV),2018,3008682,3008682,13715.0,32.0,11.9,4625.0,550.3,4710.0
+Verkeersmisdrijven,Overijssel (PV),2019,3008691,3008691,14720.0,34.0,12.6,5510.0,691.1,5590.0
+Verkeersmisdrijven,Overijssel (PV),2020,3008700,3008700,14160.0,32.0,12.1,5425.0,690.9,5505.0
+Verkeersmisdrijven,Utrecht (PV),2010,3008907,3008907,17565.0,19.0,14.299999999999999,8300.0,716.0,8355.0
+Verkeersmisdrijven,Utrecht (PV),2011,3008916,3008916,17885.0,19.0,14.499999999999998,7960.0,698.0,8020.0
+Verkeersmisdrijven,Utrecht (PV),2012,3008925,3008925,16695.0,19.0,13.399999999999999,6960.0,677.4000000000001,6980.0
+Verkeersmisdrijven,Utrecht (PV),2013,3008934,3008934,17380.0,21.0,13.999999999999998,6790.0,675.5,6790.0
+Verkeersmisdrijven,Utrecht (PV),2014,3008943,3008943,16850.0,21.0,13.400000000000002,6345.0,643.1999999999999,6365.0
+Verkeersmisdrijven,Utrecht (PV),2015,3008952,3008952,16050.0,21.0,12.599999999999998,5740.0,605.2,5750.0
+Verkeersmisdrijven,Utrecht (PV),2016,3008961,3008961,15505.0,20.0,12.200000000000001,5335.0,640.6,5370.0
+Verkeersmisdrijven,Utrecht (PV),2017,3008970,3008970,14665.0,22.0,11.299999999999999,5100.0,555.6999999999999,5130.0
+Verkeersmisdrijven,Utrecht (PV),2018,3008979,3008979,16780.0,27.0,12.899999999999999,6220.0,614.1,6265.0
+Verkeersmisdrijven,Utrecht (PV),2019,3008988,3008988,18745.0,28.0,14.0,7415.0,656.4,7420.0
+Verkeersmisdrijven,Utrecht (PV),2020,3008997,3008997,15995.0,25.0,11.700000000000001,6115.0,610.1,6165.0
+Verkeersmisdrijven,Zeeland (PV),2010,3009204,3009204,6155.0,27.0,15.799999999999999,3695.0,597.7,3710.0
+Verkeersmisdrijven,Zeeland (PV),2011,3009213,3009213,6540.0,29.0,16.8,3485.0,692.4,3485.0
+Verkeersmisdrijven,Zeeland (PV),2012,3009222,3009222,6030.0,28.0,15.4,3085.0,611.6999999999999,3095.0
+Verkeersmisdrijven,Zeeland (PV),2013,3009231,3009231,5780.0,29.0,14.8,2920.0,614.4000000000001,2950.0
+Verkeersmisdrijven,Zeeland (PV),2014,3009240,3009240,5465.0,30.0,13.9,2785.0,570.6,2810.0
+Verkeersmisdrijven,Zeeland (PV),2015,3009249,3009249,4855.0,28.0,12.299999999999999,2210.0,675.5,2225.0
+Verkeersmisdrijven,Zeeland (PV),2016,3009258,3009258,4545.0,29.0,11.5,2020.0,524.9,2020.0
+Verkeersmisdrijven,Zeeland (PV),2017,3009267,3009267,4595.0,33.0,11.5,2085.0,602.6,2100.0
+Verkeersmisdrijven,Zeeland (PV),2018,3009276,3009276,4950.0,39.0,12.700000000000001,2680.0,624.0999999999999,2665.0
+Verkeersmisdrijven,Zeeland (PV),2019,3009285,3009285,5190.0,38.0,13.3,2860.0,627.7,2885.0
+Verkeersmisdrijven,Zeeland (PV),2020,3009294,3009294,4775.0,33.0,12.100000000000001,2540.0,609.0,2550.0
+Verkeersmisdrijven,Zuid-Holland (PV),2010,3009105,3009105,79290.0,27.0,22.500000000000004,41100.0,682.1999999999999,36800.0
+Verkeersmisdrijven,Zuid-Holland (PV),2011,3009114,3009114,85200.0,29.0,24.200000000000003,41895.0,701.1,37095.0
+Verkeersmisdrijven,Zuid-Holland (PV),2012,3009123,3009123,80550.0,30.0,22.599999999999998,39175.0,689.1999999999999,34785.0
+Verkeersmisdrijven,Zuid-Holland (PV),2013,3009132,3009132,77530.0,30.0,21.7,36660.0,684.9,31760.0
+Verkeersmisdrijven,Zuid-Holland (PV),2014,3009141,3009141,69850.0,29.0,19.5,31980.0,660.0999999999999,31640.0
+Verkeersmisdrijven,Zuid-Holland (PV),2015,3009150,3009150,62875.0,28.0,17.400000000000002,25725.0,678.4999999999999,25890.0
+Verkeersmisdrijven,Zuid-Holland (PV),2016,3009159,3009159,63735.0,30.0,17.400000000000002,25455.0,660.6999999999999,25610.0
+Verkeersmisdrijven,Zuid-Holland (PV),2017,3009168,3009168,61535.0,32.0,16.7,23125.0,658.4,23195.0
+Verkeersmisdrijven,Zuid-Holland (PV),2018,3009177,3009177,64160.0,35.0,17.4,24610.0,668.9,24710.0
+Verkeersmisdrijven,Zuid-Holland (PV),2019,3009186,3009186,65655.0,33.0,17.700000000000003,25025.0,680.4000000000001,24900.0
+Verkeersmisdrijven,Zuid-Holland (PV),2020,3009195,3009195,59850.0,31.0,16.2,22515.0,640.0000000000001,22060.0
+Vermogensmisdrijven,Drenthe (PV),2010,410234,410234,14440.0,55.0,29.2,2485.0,372.8,3295.0
+Vermogensmisdrijven,Drenthe (PV),2011,410240,410240,14805.0,56.0,29.9,2620.0,275.9,3465.0
+Vermogensmisdrijven,Drenthe (PV),2012,410246,410246,14305.0,56.0,28.9,2485.0,309.2,3360.0
+Vermogensmisdrijven,Drenthe (PV),2013,410252,410252,13530.0,58.0,27.3,2240.0,251.9,3070.0
+Vermogensmisdrijven,Drenthe (PV),2014,410258,410258,12090.0,56.0,24.599999999999998,2190.0,256.7,3245.0
+Vermogensmisdrijven,Drenthe (PV),2015,410264,410264,11840.0,59.0,24.099999999999998,2140.0,321.2,3140.0
+Vermogensmisdrijven,Drenthe (PV),2016,410270,410270,11095.0,59.0,22.5,1905.0,227.2,2820.0
+Vermogensmisdrijven,Drenthe (PV),2017,410276,410276,9415.0,56.0,18.9,1715.0,315.0,2305.0
+Vermogensmisdrijven,Drenthe (PV),2018,410282,410282,8615.0,55.0,17.4,1530.0,199.5,2245.0
+Vermogensmisdrijven,Drenthe (PV),2019,410288,410288,9665.0,56.0,19.6,1615.0,205.6,2265.0
+Vermogensmisdrijven,Drenthe (PV),2020,410294,410294,10340.0,58.0,20.8,1320.0,169.0,2080.0
+Vermogensmisdrijven,Flevoland (PV),2010,410366,410366,14260.0,55.0,36.699999999999996,2500.0,247.6,3620.0
+Vermogensmisdrijven,Flevoland (PV),2011,410372,410372,14965.0,57.0,38.099999999999994,2590.0,265.8,3590.0
+Vermogensmisdrijven,Flevoland (PV),2012,410378,410378,15295.0,59.0,38.599999999999994,2550.0,237.70000000000002,3535.0
+Vermogensmisdrijven,Flevoland (PV),2013,410384,410384,16290.0,62.0,40.8,2715.0,237.89999999999998,3745.0
+Vermogensmisdrijven,Flevoland (PV),2014,410390,410390,13515.0,58.0,33.5,2750.0,334.5,3705.0
+Vermogensmisdrijven,Flevoland (PV),2015,410396,410396,13035.0,61.0,32.3,2510.0,236.8,3265.0
+Vermogensmisdrijven,Flevoland (PV),2016,410402,410402,12145.0,58.0,29.900000000000002,2270.0,223.7,3010.0
+Vermogensmisdrijven,Flevoland (PV),2017,410408,410408,10585.0,56.0,25.6,2355.0,153.39999999999998,3085.0
+Vermogensmisdrijven,Flevoland (PV),2018,410414,410414,10320.0,57.0,24.900000000000002,2235.0,310.1,2935.0
+Vermogensmisdrijven,Flevoland (PV),2019,410420,410420,10805.0,56.0,25.799999999999997,2330.0,227.8,3175.0
+Vermogensmisdrijven,Flevoland (PV),2020,410426,410426,10770.0,57.0,25.2,1925.0,184.70000000000002,2800.0
+Vermogensmisdrijven,Fryslân (PV),2010,410168,410168,15960.0,50.0,24.7,3505.0,198.1,4345.0
+Vermogensmisdrijven,Fryslân (PV),2011,410174,410174,15970.0,50.0,24.599999999999998,3205.0,289.7,4020.0
+Vermogensmisdrijven,Fryslân (PV),2012,410180,410180,15555.0,52.0,24.0,3060.0,232.89999999999998,3825.0
+Vermogensmisdrijven,Fryslân (PV),2013,410186,410186,15750.0,54.0,24.2,2925.0,248.4,3780.0
+Vermogensmisdrijven,Fryslân (PV),2014,410192,410192,15535.0,56.0,24.0,3090.0,250.3,3930.0
+Vermogensmisdrijven,Fryslân (PV),2015,410198,410198,15305.0,57.0,23.599999999999998,3085.0,285.4,4160.0
+Vermogensmisdrijven,Fryslân (PV),2016,410204,410204,14000.0,56.0,21.5,2585.0,293.3,3365.0
+Vermogensmisdrijven,Fryslân (PV),2017,410210,410210,11345.0,53.0,17.3,2505.0,250.39999999999998,3260.0
+Vermogensmisdrijven,Fryslân (PV),2018,410216,410216,11635.0,53.0,17.8,2625.0,351.5,3415.0
+Vermogensmisdrijven,Fryslân (PV),2019,410222,410222,11465.0,52.0,17.599999999999998,2600.0,347.0,3475.0
+Vermogensmisdrijven,Fryslân (PV),2020,410228,410228,11530.0,53.0,17.599999999999998,2045.0,150.5,3110.0
+Vermogensmisdrijven,Gelderland (PV),2010,410432,410432,77655.0,60.0,38.8,10825.0,240.7,14565.0
+Vermogensmisdrijven,Gelderland (PV),2011,410438,410438,77455.0,61.0,38.599999999999994,10160.0,218.10000000000002,13480.0
+Vermogensmisdrijven,Gelderland (PV),2012,410444,410444,75305.0,63.0,37.5,10065.0,265.4,13575.0
+Vermogensmisdrijven,Gelderland (PV),2013,410450,410450,72755.0,65.0,36.2,10560.0,283.0,14375.0
+Vermogensmisdrijven,Gelderland (PV),2014,410456,410456,63825.0,63.0,31.6,10340.0,188.1,13730.0
+Vermogensmisdrijven,Gelderland (PV),2015,410462,410462,59610.0,63.0,29.400000000000002,9755.0,309.9,12945.0
+Vermogensmisdrijven,Gelderland (PV),2016,410468,410468,58060.0,63.0,28.500000000000004,9535.0,299.2,12270.0
+Vermogensmisdrijven,Gelderland (PV),2017,410474,410474,49480.0,61.0,24.200000000000003,8585.0,311.79999999999995,11105.0
+Vermogensmisdrijven,Gelderland (PV),2018,410480,410480,45210.0,59.0,21.900000000000002,8430.0,317.20000000000005,10835.0
+Vermogensmisdrijven,Gelderland (PV),2019,410486,410486,48285.0,58.0,23.200000000000003,8855.0,298.7,11560.0
+Vermogensmisdrijven,Gelderland (PV),2020,410492,410492,50000.0,60.0,24.000000000000004,7880.0,181.8,11445.0
+Vermogensmisdrijven,Groningen (PV),2010,410102,410102,21600.0,57.0,37.4,4575.0,266.7,6185.0
+Vermogensmisdrijven,Groningen (PV),2011,410108,410108,21200.0,57.0,36.6,4520.0,275.1,5925.0
+Vermogensmisdrijven,Groningen (PV),2012,410114,410114,20905.0,58.0,35.800000000000004,4085.0,283.1,5240.0
+Vermogensmisdrijven,Groningen (PV),2013,410120,410120,21365.0,62.0,36.599999999999994,4135.0,240.3,5360.0
+Vermogensmisdrijven,Groningen (PV),2014,410126,410126,18480.0,61.0,31.7,3490.0,218.2,4475.0
+Vermogensmisdrijven,Groningen (PV),2015,410132,410132,18890.0,62.0,32.2,3410.0,292.1,4465.0
+Vermogensmisdrijven,Groningen (PV),2016,410138,410138,18670.0,63.0,31.9,2975.0,179.3,3845.0
+Vermogensmisdrijven,Groningen (PV),2017,410144,410144,14300.0,56.0,24.4,2825.0,237.89999999999998,3690.0
+Vermogensmisdrijven,Groningen (PV),2018,410150,410150,13650.0,57.0,23.2,2915.0,298.8,3795.0
+Vermogensmisdrijven,Groningen (PV),2019,410156,410156,14115.0,56.0,24.0,2990.0,229.10000000000002,4010.0
+Vermogensmisdrijven,Groningen (PV),2020,410162,410162,13175.0,55.0,22.3,2070.0,157.0,3190.0
+Vermogensmisdrijven,Limburg (PV),2010,410828,410828,50235.0,58.0,44.699999999999996,6950.0,234.0,9575.0
+Vermogensmisdrijven,Limburg (PV),2011,410834,410834,54070.0,62.0,48.099999999999994,6820.0,232.79999999999998,9070.0
+Vermogensmisdrijven,Limburg (PV),2012,410840,410840,51675.0,62.0,45.9,6600.0,243.29999999999998,8845.0
+Vermogensmisdrijven,Limburg (PV),2013,410846,410846,48445.0,62.0,43.099999999999994,6205.0,241.9,8035.0
+Vermogensmisdrijven,Limburg (PV),2014,410852,410852,47140.0,63.0,42.0,5845.0,294.4,7520.0
+Vermogensmisdrijven,Limburg (PV),2015,410858,410858,44625.0,65.0,39.8,5820.0,247.3,7540.0
+Vermogensmisdrijven,Limburg (PV),2016,410864,410864,40295.0,64.0,36.0,5640.0,190.0,7290.0
+Vermogensmisdrijven,Limburg (PV),2017,410870,410870,35140.0,62.0,31.400000000000002,5045.0,297.0,6515.0
+Vermogensmisdrijven,Limburg (PV),2018,410876,410876,31510.0,60.0,28.0,5095.0,290.0,6610.0
+Vermogensmisdrijven,Limburg (PV),2019,410882,410882,31755.0,58.0,28.4,5245.0,232.7,6885.0
+Vermogensmisdrijven,Limburg (PV),2020,410888,410888,29935.0,59.0,26.800000000000004,4450.0,233.5,6350.0
+Vermogensmisdrijven,Niet in te delen (PV),2010,410894,410894,1575.0,65.0,0.0,245.0,85.6,325.0
+Vermogensmisdrijven,Niet in te delen (PV),2011,410900,410900,1240.0,58.0,0.0,155.0,112.0,190.0
+Vermogensmisdrijven,Niet in te delen (PV),2012,410906,410906,1000.0,58.0,0.0,140.0,112.8,190.0
+Vermogensmisdrijven,Niet in te delen (PV),2013,410912,410912,825.0,59.0,0.0,130.0,90.4,165.0
+Vermogensmisdrijven,Niet in te delen (PV),2014,410918,410918,905.0,64.0,0.0,145.0,179.6,190.0
+Vermogensmisdrijven,Niet in te delen (PV),2015,410924,410924,690.0,40.0,0.0,85.0,123.8,140.0
+Vermogensmisdrijven,Niet in te delen (PV),2016,410930,410930,580.0,52.0,0.0,70.0,182.0,110.0
+Vermogensmisdrijven,Niet in te delen (PV),2017,410936,410936,895.0,54.0,0.0,80.0,108.5,120.0
+Vermogensmisdrijven,Niet in te delen (PV),2018,410942,410942,885.0,51.0,0.0,65.0,131.0,105.0
+Vermogensmisdrijven,Niet in te delen (PV),2019,410948,410948,1060.0,55.0,0.0,65.0,172.0,95.0
+Vermogensmisdrijven,Niet in te delen (PV),2020,410954,410954,380.0,41.0,0.0,40.0,195.1,70.0
+Vermogensmisdrijven,Noord-Brabant (PV),2010,410762,410762,105830.0,61.0,43.3,14260.0,313.8,19065.0
+Vermogensmisdrijven,Noord-Brabant (PV),2011,410768,410768,106550.0,61.0,43.3,13340.0,263.1,17810.0
+Vermogensmisdrijven,Noord-Brabant (PV),2012,410774,410774,107125.0,63.0,43.5,13520.0,294.6,17780.0
+Vermogensmisdrijven,Noord-Brabant (PV),2013,410780,410780,105600.0,65.0,42.8,14165.0,307.8,18805.0
+Vermogensmisdrijven,Noord-Brabant (PV),2014,410786,410786,96620.0,64.0,39.0,13135.0,285.0,17165.0
+Vermogensmisdrijven,Noord-Brabant (PV),2015,410792,410792,92675.0,64.0,37.2,12510.0,281.1,16455.0
+Vermogensmisdrijven,Noord-Brabant (PV),2016,410798,410798,83435.0,62.0,33.4,11540.0,287.09999999999997,14720.0
+Vermogensmisdrijven,Noord-Brabant (PV),2017,410804,410804,71205.0,60.0,28.3,10545.0,272.6,13635.0
+Vermogensmisdrijven,Noord-Brabant (PV),2018,410810,410810,65775.0,58.0,26.000000000000004,10790.0,267.4,13805.0
+Vermogensmisdrijven,Noord-Brabant (PV),2019,410816,410816,68485.0,57.0,26.900000000000002,11685.0,311.1,15195.0
+Vermogensmisdrijven,Noord-Brabant (PV),2020,410822,410822,71550.0,59.0,27.9,9925.0,238.8,14140.0
+Vermogensmisdrijven,Noord-Holland (PV),2010,410564,410564,150920.0,64.0,56.6,22040.0,255.90000000000003,30315.0
+Vermogensmisdrijven,Noord-Holland (PV),2011,410570,410570,152830.0,65.0,56.7,23250.0,252.7,31480.0
+Vermogensmisdrijven,Noord-Holland (PV),2012,410576,410576,149325.0,66.0,55.0,22080.0,246.5,29385.0
+Vermogensmisdrijven,Noord-Holland (PV),2013,410582,410582,151540.0,68.0,55.6,21705.0,238.3,29435.0
+Vermogensmisdrijven,Noord-Holland (PV),2014,410588,410588,138635.0,67.0,50.5,21735.0,290.2,28580.0
+Vermogensmisdrijven,Noord-Holland (PV),2015,410594,410594,137665.0,68.0,49.800000000000004,20040.0,268.70000000000005,26450.0
+Vermogensmisdrijven,Noord-Holland (PV),2016,410600,410600,125750.0,66.0,45.1,18295.0,297.20000000000005,23585.0
+Vermogensmisdrijven,Noord-Holland (PV),2017,410606,410606,112165.0,65.0,39.9,16870.0,276.1,21930.0
+Vermogensmisdrijven,Noord-Holland (PV),2018,410612,410612,104480.0,64.0,37.0,16570.0,273.1,21630.0
+Vermogensmisdrijven,Noord-Holland (PV),2019,410618,410618,105955.0,63.0,37.1,17250.0,231.4,22910.0
+Vermogensmisdrijven,Noord-Holland (PV),2020,410624,410624,97055.0,62.0,33.800000000000004,13345.0,195.4,19120.0
+Vermogensmisdrijven,Overijssel (PV),2010,410300,410300,36855.0,57.0,32.6,6020.0,233.0,8000.0
+Vermogensmisdrijven,Overijssel (PV),2011,410306,410306,37430.0,57.0,32.900000000000006,6310.0,324.6,8135.0
+Vermogensmisdrijven,Overijssel (PV),2012,410312,410312,37375.0,59.0,32.800000000000004,6455.0,350.1,8435.0
+Vermogensmisdrijven,Overijssel (PV),2013,410318,410318,37990.0,62.0,33.300000000000004,6255.0,332.8,8015.0
+Vermogensmisdrijven,Overijssel (PV),2014,410324,410324,32900.0,61.0,28.8,5365.0,264.1,7065.0
+Vermogensmisdrijven,Overijssel (PV),2015,410330,410330,31345.0,62.0,27.400000000000002,5275.0,330.0,6725.0
+Vermogensmisdrijven,Overijssel (PV),2016,410336,410336,30090.0,62.0,26.3,4945.0,273.6,6230.0
+Vermogensmisdrijven,Overijssel (PV),2017,410342,410342,25570.0,59.0,22.2,4770.0,219.59999999999997,6115.0
+Vermogensmisdrijven,Overijssel (PV),2018,410348,410348,23990.0,57.0,20.7,4665.0,284.8,5905.0
+Vermogensmisdrijven,Overijssel (PV),2019,410354,410354,24320.0,56.0,20.900000000000002,4925.0,278.1,6455.0
+Vermogensmisdrijven,Overijssel (PV),2020,410360,410360,25720.0,58.0,22.000000000000004,4500.0,190.60000000000002,6540.0
+Vermogensmisdrijven,Utrecht (PV),2010,410498,410498,59615.0,66.0,48.8,8335.0,236.4,10830.0
+Vermogensmisdrijven,Utrecht (PV),2011,410504,410504,56565.0,66.0,46.0,7985.0,247.10000000000002,10225.0
+Vermogensmisdrijven,Utrecht (PV),2012,410510,410510,54635.0,67.0,44.1,8165.0,261.4,10730.0
+Vermogensmisdrijven,Utrecht (PV),2013,410516,410516,53475.0,67.0,42.8,7995.0,318.8,10450.0
+Vermogensmisdrijven,Utrecht (PV),2014,410522,410522,50515.0,67.0,40.2,7595.0,285.9,9915.0
+Vermogensmisdrijven,Utrecht (PV),2015,410528,410528,50290.0,68.0,39.800000000000004,6925.0,271.9,9185.0
+Vermogensmisdrijven,Utrecht (PV),2016,410534,410534,49190.0,68.0,38.6,6510.0,288.4,8435.0
+Vermogensmisdrijven,Utrecht (PV),2017,410540,410540,45365.0,68.0,35.3,6090.0,268.20000000000005,7870.0
+Vermogensmisdrijven,Utrecht (PV),2018,410546,410546,41515.0,65.0,32.0,5770.0,281.9,7675.0
+Vermogensmisdrijven,Utrecht (PV),2019,410552,410552,41790.0,64.0,31.200000000000003,5465.0,198.3,7235.0
+Vermogensmisdrijven,Utrecht (PV),2020,410558,410558,41830.0,65.0,30.8,4785.0,227.3,6680.0
+Vermogensmisdrijven,Zeeland (PV),2010,410696,410696,11490.0,52.0,30.0,1790.0,216.4,2440.0
+Vermogensmisdrijven,Zeeland (PV),2011,410702,410702,11450.0,50.0,29.8,1845.0,219.8,2470.0
+Vermogensmisdrijven,Zeeland (PV),2012,410708,410708,10700.0,51.0,27.8,1775.0,180.60000000000002,2320.0
+Vermogensmisdrijven,Zeeland (PV),2013,410714,410714,9935.0,51.0,25.8,1755.0,264.5,2315.0
+Vermogensmisdrijven,Zeeland (PV),2014,410720,410720,8740.0,50.0,22.6,1530.0,214.6,2060.0
+Vermogensmisdrijven,Zeeland (PV),2015,410726,410726,8750.0,51.0,22.7,1595.0,325.2,2215.0
+Vermogensmisdrijven,Zeeland (PV),2016,410732,410732,8320.0,53.0,21.6,1535.0,239.10000000000002,2010.0
+Vermogensmisdrijven,Zeeland (PV),2017,410738,410738,6760.0,49.0,17.4,1525.0,254.29999999999998,2030.0
+Vermogensmisdrijven,Zeeland (PV),2018,410744,410744,6020.0,47.0,15.4,1555.0,261.1,2195.0
+Vermogensmisdrijven,Zeeland (PV),2019,410750,410750,6465.0,48.0,16.5,1525.0,242.7,2070.0
+Vermogensmisdrijven,Zeeland (PV),2020,410756,410756,7315.0,51.0,18.6,1325.0,181.3,2055.0
+Vermogensmisdrijven,Zuid-Holland (PV),2010,410630,410630,162500.0,59.0,46.3,27570.0,288.0,37935.0
+Vermogensmisdrijven,Zuid-Holland (PV),2011,410636,410636,166490.0,58.0,47.2,28680.0,265.4,39730.0
+Vermogensmisdrijven,Zuid-Holland (PV),2012,410642,410642,159190.0,59.0,44.800000000000004,28195.0,306.1,38520.0
+Vermogensmisdrijven,Zuid-Holland (PV),2013,410648,410648,151520.0,60.0,42.5,27705.0,314.4,37960.0
+Vermogensmisdrijven,Zuid-Holland (PV),2014,410654,410654,141830.0,60.0,39.6,25820.0,334.8,34765.0
+Vermogensmisdrijven,Zuid-Holland (PV),2015,410660,410660,138440.0,62.0,38.4,24090.0,300.20000000000005,31960.0
+Vermogensmisdrijven,Zuid-Holland (PV),2016,410666,410666,133100.0,61.0,36.800000000000004,21820.0,316.4,28200.0
+Vermogensmisdrijven,Zuid-Holland (PV),2017,410672,410672,117870.0,60.0,32.300000000000004,20050.0,293.9,25630.0
+Vermogensmisdrijven,Zuid-Holland (PV),2018,410678,410678,102585.0,56.0,27.900000000000002,17995.0,274.4,23310.0
+Vermogensmisdrijven,Zuid-Holland (PV),2019,410684,410684,108510.0,57.0,29.400000000000002,18775.0,276.6,24790.0
+Vermogensmisdrijven,Zuid-Holland (PV),2020,410690,410690,111770.0,58.0,30.000000000000004,14690.0,186.89999999999998,20825.0
+Vernieling en beschadiging,Drenthe (PV),2010,663564,663564,13260.0,51.0,26.9,2000.0,83.1,2720.0
+Vernieling en beschadiging,Drenthe (PV),2011,663570,663570,13000.0,49.0,26.400000000000006,2020.0,92.2,2875.0
+Vernieling en beschadiging,Drenthe (PV),2012,663576,663576,13280.0,53.0,27.0,2970.0,130.89999999999998,3710.0
+Vernieling en beschadiging,Drenthe (PV),2013,663582,663582,10880.0,46.0,22.099999999999998,2105.0,91.00000000000001,2725.0
+Vernieling en beschadiging,Drenthe (PV),2014,663588,663588,10490.0,48.0,21.3,1725.0,128.5,2475.0
+Vernieling en beschadiging,Drenthe (PV),2015,663594,663594,8665.0,42.0,17.5,1230.0,135.4,1675.0
+Vernieling en beschadiging,Drenthe (PV),2016,663600,663600,7590.0,41.0,15.5,1105.0,115.39999999999999,1430.0
+Vernieling en beschadiging,Drenthe (PV),2017,663606,663606,6430.0,39.0,13.0,1040.0,94.7,1365.0
+Vernieling en beschadiging,Drenthe (PV),2018,663612,663612,5960.0,38.0,11.900000000000002,990.0,84.9,1510.0
+Vernieling en beschadiging,Drenthe (PV),2019,663618,663618,6540.0,38.0,13.2,1000.0,71.7,1295.0
+Vernieling en beschadiging,Drenthe (PV),2020,663624,663624,7155.0,40.0,14.399999999999999,890.0,74.5,1375.0
+Vernieling en beschadiging,Flevoland (PV),2010,663696,663696,13185.0,50.0,33.699999999999996,1605.0,63.8,2125.0
+Vernieling en beschadiging,Flevoland (PV),2011,663702,663702,12930.0,49.0,32.9,1570.0,51.60000000000001,2140.0
+Vernieling en beschadiging,Flevoland (PV),2012,663708,663708,10450.0,40.0,26.1,1395.0,59.800000000000004,1965.0
+Vernieling en beschadiging,Flevoland (PV),2013,663714,663714,9050.0,35.0,22.6,1335.0,81.1,1780.0
+Vernieling en beschadiging,Flevoland (PV),2014,663720,663720,9375.0,40.0,23.299999999999997,1260.0,102.0,1560.0
+Vernieling en beschadiging,Flevoland (PV),2015,663726,663726,7575.0,34.0,18.7,1050.0,113.0,1310.0
+Vernieling en beschadiging,Flevoland (PV),2016,663732,663732,7525.0,36.0,18.6,1230.0,98.19999999999999,1490.0
+Vernieling en beschadiging,Flevoland (PV),2017,663738,663738,6575.0,35.0,16.0,1095.0,84.9,1340.0
+Vernieling en beschadiging,Flevoland (PV),2018,663744,663744,6030.0,32.0,14.4,1255.0,119.49999999999999,1460.0
+Vernieling en beschadiging,Flevoland (PV),2019,663750,663750,6600.0,34.0,15.700000000000003,1470.0,178.0,1760.0
+Vernieling en beschadiging,Flevoland (PV),2020,663756,663756,6810.0,37.0,16.0,1225.0,86.1,1620.0
+Vernieling en beschadiging,Fryslân (PV),2010,663498,663498,17960.0,57.0,27.800000000000004,3030.0,87.0,3710.0
+Vernieling en beschadiging,Fryslân (PV),2011,663504,663504,18130.0,57.0,27.900000000000002,3225.0,96.4,4290.0
+Vernieling en beschadiging,Fryslân (PV),2012,663510,663510,16115.0,53.0,24.700000000000003,2610.0,125.4,3415.0
+Vernieling en beschadiging,Fryslân (PV),2013,663516,663516,13795.0,48.0,21.1,2485.0,137.70000000000002,3390.0
+Vernieling en beschadiging,Fryslân (PV),2014,663522,663522,12610.0,45.0,19.5,2185.0,90.2,2600.0
+Vernieling en beschadiging,Fryslân (PV),2015,663528,663528,11555.0,43.0,17.7,2140.0,118.5,2635.0
+Vernieling en beschadiging,Fryslân (PV),2016,663534,663534,10175.0,41.0,15.600000000000001,1910.0,98.4,2465.0
+Vernieling en beschadiging,Fryslân (PV),2017,663540,663540,9195.0,43.0,13.999999999999998,1850.0,162.1,2535.0
+Vernieling en beschadiging,Fryslân (PV),2018,663546,663546,8815.0,40.0,13.5,2170.0,146.70000000000002,2860.0
+Vernieling en beschadiging,Fryslân (PV),2019,663552,663552,9330.0,42.0,14.3,2155.0,154.20000000000002,2965.0
+Vernieling en beschadiging,Fryslân (PV),2020,663558,663558,9995.0,45.0,15.2,1570.0,99.20000000000002,2245.0
+Vernieling en beschadiging,Gelderland (PV),2010,663762,663762,56795.0,44.0,28.499999999999996,8495.0,73.8,11920.0
+Vernieling en beschadiging,Gelderland (PV),2011,663768,663768,52155.0,42.0,26.1,7545.0,72.9,10080.0
+Vernieling en beschadiging,Gelderland (PV),2012,663774,663774,47195.0,39.0,23.400000000000006,6555.0,86.89999999999999,8845.0
+Vernieling en beschadiging,Gelderland (PV),2013,663780,663780,40220.0,35.0,20.0,5635.0,95.0,7675.0
+Vernieling en beschadiging,Gelderland (PV),2014,663786,663786,37430.0,36.0,18.5,5785.0,94.30000000000001,7615.0
+Vernieling en beschadiging,Gelderland (PV),2015,663792,663792,34305.0,35.0,17.0,5695.0,104.4,8025.0
+Vernieling en beschadiging,Gelderland (PV),2016,663798,663798,33230.0,35.0,16.3,5460.0,97.4,7255.0
+Vernieling en beschadiging,Gelderland (PV),2017,663804,663804,27940.0,35.0,13.7,5090.0,91.7,6480.0
+Vernieling en beschadiging,Gelderland (PV),2018,663810,663810,24315.0,31.0,11.7,5245.0,118.9,6240.0
+Vernieling en beschadiging,Gelderland (PV),2019,663816,663816,27755.0,33.0,13.400000000000002,5905.0,115.69999999999999,7185.0
+Vernieling en beschadiging,Gelderland (PV),2020,663822,663822,28335.0,34.0,13.5,4980.0,105.80000000000001,6775.0
+Vernieling en beschadiging,Groningen (PV),2010,663432,663432,17650.0,46.0,30.5,3955.0,114.0,5890.0
+Vernieling en beschadiging,Groningen (PV),2011,663438,663438,17075.0,46.0,29.4,3735.0,111.9,5460.0
+Vernieling en beschadiging,Groningen (PV),2012,663444,663444,15965.0,44.0,27.4,3260.0,115.1,4495.0
+Vernieling en beschadiging,Groningen (PV),2013,663450,663450,13730.0,40.0,23.5,2485.0,143.0,3385.0
+Vernieling en beschadiging,Groningen (PV),2014,663456,663456,12285.0,39.0,21.0,1940.0,143.3,2615.0
+Vernieling en beschadiging,Groningen (PV),2015,663462,663462,10950.0,37.0,18.7,1790.0,120.29999999999998,2345.0
+Vernieling en beschadiging,Groningen (PV),2016,663468,663468,10585.0,35.0,18.0,1750.0,138.3,2120.0
+Vernieling en beschadiging,Groningen (PV),2017,663474,663474,10580.0,43.0,18.0,1830.0,138.4,2265.0
+Vernieling en beschadiging,Groningen (PV),2018,663480,663480,8930.0,36.0,15.3,1730.0,149.2,2300.0
+Vernieling en beschadiging,Groningen (PV),2019,663486,663486,9825.0,39.0,16.6,2030.0,151.4,2860.0
+Vernieling en beschadiging,Groningen (PV),2020,663492,663492,9710.0,41.0,16.5,1445.0,133.8,2105.0
+Vernieling en beschadiging,Limburg (PV),2010,664158,664158,36170.0,43.0,32.2,5355.0,86.89999999999999,7030.0
+Vernieling en beschadiging,Limburg (PV),2011,664164,664164,32145.0,37.0,28.600000000000005,4365.0,69.0,5675.0
+Vernieling en beschadiging,Limburg (PV),2012,664170,664170,29135.0,35.0,25.8,3980.0,79.1,5030.0
+Vernieling en beschadiging,Limburg (PV),2013,664176,664176,27205.0,35.0,24.200000000000003,3805.0,111.1,4825.0
+Vernieling en beschadiging,Limburg (PV),2014,664182,664182,25955.0,35.0,23.099999999999998,3265.0,92.80000000000001,3945.0
+Vernieling en beschadiging,Limburg (PV),2015,664188,664188,22925.0,32.0,20.5,3025.0,96.9,3640.0
+Vernieling en beschadiging,Limburg (PV),2016,664194,664194,20000.0,32.0,17.8,2820.0,98.5,3300.0
+Vernieling en beschadiging,Limburg (PV),2017,664200,664200,17570.0,31.0,15.600000000000001,2755.0,90.69999999999999,3210.0
+Vernieling en beschadiging,Limburg (PV),2018,664206,664206,15645.0,29.0,13.899999999999999,3045.0,113.5,3490.0
+Vernieling en beschadiging,Limburg (PV),2019,664212,664212,17390.0,32.0,15.500000000000002,3670.0,175.6,4315.0
+Vernieling en beschadiging,Limburg (PV),2020,664218,664218,16970.0,33.0,15.1,3140.0,131.1,4080.0
+Vernieling en beschadiging,Niet in te delen (PV),2010,664224,664224,235.0,10.0,0.0,65.0,88.4,95.0
+Vernieling en beschadiging,Niet in te delen (PV),2011,664230,664230,230.0,11.0,0.0,30.0,34.6,30.0
+Vernieling en beschadiging,Niet in te delen (PV),2012,664236,664236,150.0,8.0,0.0,20.0,25.200000000000003,25.0
+Vernieling en beschadiging,Niet in te delen (PV),2013,664242,664242,120.0,8.0,0.0,25.0,92.4,40.0
+Vernieling en beschadiging,Niet in te delen (PV),2014,664248,664248,110.0,8.0,0.0,20.0,33.1,30.0
+Vernieling en beschadiging,Niet in te delen (PV),2015,664254,664254,90.0,5.0,0.0,15.0,31.6,20.0
+Vernieling en beschadiging,Niet in te delen (PV),2016,664260,664260,115.0,10.0,0.0,25.0,81.5,40.0
+Vernieling en beschadiging,Niet in te delen (PV),2017,664266,664266,185.0,11.0,0.0,25.0,40.3,30.0
+Vernieling en beschadiging,Niet in te delen (PV),2018,664272,664272,125.0,7.0,0.0,40.0,99.9,55.0
+Vernieling en beschadiging,Niet in te delen (PV),2019,664278,664278,160.0,8.0,0.0,35.0,78.3,50.0
+Vernieling en beschadiging,Niet in te delen (PV),2020,664284,664284,110.0,14.0,0.0,40.0,104.6,45.0
+Vernieling en beschadiging,Noord-Brabant (PV),2010,664092,664092,72570.0,41.0,29.7,10180.0,74.2,14550.0
+Vernieling en beschadiging,Noord-Brabant (PV),2011,664098,664098,69115.0,38.0,28.1,8785.0,69.9,11860.0
+Vernieling en beschadiging,Noord-Brabant (PV),2012,664104,664104,63185.0,36.0,25.700000000000003,8075.0,81.1,10800.0
+Vernieling en beschadiging,Noord-Brabant (PV),2013,664110,664110,54055.0,32.0,22.0,6865.0,92.0,9240.0
+Vernieling en beschadiging,Noord-Brabant (PV),2014,664116,664116,51080.0,33.0,20.500000000000004,7345.0,96.7,9625.0
+Vernieling en beschadiging,Noord-Brabant (PV),2015,664122,664122,46965.0,32.0,18.900000000000002,6750.0,120.69999999999999,8325.0
+Vernieling en beschadiging,Noord-Brabant (PV),2016,664128,664128,44740.0,32.0,17.9,6695.0,116.5,8345.0
+Vernieling en beschadiging,Noord-Brabant (PV),2017,664134,664134,37415.0,32.0,14.8,6035.0,97.0,7410.0
+Vernieling en beschadiging,Noord-Brabant (PV),2018,664140,664140,33915.0,30.0,13.399999999999999,7045.0,123.6,8585.0
+Vernieling en beschadiging,Noord-Brabant (PV),2019,664146,664146,37545.0,31.0,14.7,8950.0,156.2,10870.0
+Vernieling en beschadiging,Noord-Brabant (PV),2020,664152,664152,38120.0,31.0,14.8,7730.0,129.70000000000002,9655.0
+Vernieling en beschadiging,Noord-Holland (PV),2010,663894,663894,83955.0,36.0,31.4,14800.0,82.69999999999999,19685.0
+Vernieling en beschadiging,Noord-Holland (PV),2011,663900,663900,80340.0,34.0,29.799999999999997,14110.0,82.5,18265.0
+Vernieling en beschadiging,Noord-Holland (PV),2012,663906,663906,70625.0,31.0,26.0,10760.0,87.4,14065.0
+Vernieling en beschadiging,Noord-Holland (PV),2013,663912,663912,64580.0,28.0,23.7,10095.0,98.69999999999999,13070.0
+Vernieling en beschadiging,Noord-Holland (PV),2014,663918,663918,63050.0,30.0,22.900000000000002,11205.0,104.49999999999999,14360.0
+Vernieling en beschadiging,Noord-Holland (PV),2015,663924,663924,58740.0,28.0,21.300000000000004,9710.0,105.0,13075.0
+Vernieling en beschadiging,Noord-Holland (PV),2016,663930,663930,55785.0,29.0,20.0,8925.0,101.0,11325.0
+Vernieling en beschadiging,Noord-Holland (PV),2017,663936,663936,49605.0,29.0,17.7,8710.0,102.8,10530.0
+Vernieling en beschadiging,Noord-Holland (PV),2018,663942,663942,43795.0,27.0,15.599999999999998,8445.0,118.69999999999999,10250.0
+Vernieling en beschadiging,Noord-Holland (PV),2019,663948,663948,45980.0,27.0,16.0,8930.0,118.20000000000002,11005.0
+Vernieling en beschadiging,Noord-Holland (PV),2020,663954,663954,49105.0,31.0,17.0,7835.0,106.1,10265.0
+Vernieling en beschadiging,Overijssel (PV),2010,663630,663630,28310.0,45.0,25.000000000000004,4780.0,90.80000000000001,6410.0
+Vernieling en beschadiging,Overijssel (PV),2011,663636,663636,28630.0,45.0,25.2,4540.0,80.7,5865.0
+Vernieling en beschadiging,Overijssel (PV),2012,663642,663642,27685.0,43.0,24.299999999999997,4115.0,88.89999999999999,5545.0
+Vernieling en beschadiging,Overijssel (PV),2013,663648,663648,23655.0,38.0,20.7,3350.0,105.9,4180.0
+Vernieling en beschadiging,Overijssel (PV),2014,663654,663654,20935.0,38.0,18.3,3095.0,112.7,4100.0
+Vernieling en beschadiging,Overijssel (PV),2015,663660,663660,18630.0,37.0,16.299999999999997,3280.0,108.39999999999999,3960.0
+Vernieling en beschadiging,Overijssel (PV),2016,663666,663666,16730.0,34.0,14.6,2765.0,109.5,3340.0
+Vernieling en beschadiging,Overijssel (PV),2017,663672,663672,15260.0,35.0,13.299999999999997,2920.0,126.69999999999999,3710.0
+Vernieling en beschadiging,Overijssel (PV),2018,663678,663678,13980.0,33.0,12.1,2910.0,144.5,3510.0
+Vernieling en beschadiging,Overijssel (PV),2019,663684,663684,13905.0,33.0,12.0,3000.0,173.79999999999998,3675.0
+Vernieling en beschadiging,Overijssel (PV),2020,663690,663690,14640.0,34.0,12.600000000000001,2990.0,137.1,3930.0
+Vernieling en beschadiging,Utrecht (PV),2010,663828,663828,34780.0,39.0,28.400000000000006,5015.0,80.60000000000001,6685.0
+Vernieling en beschadiging,Utrecht (PV),2011,663834,663834,31960.0,36.0,26.0,4425.0,68.7,6005.0
+Vernieling en beschadiging,Utrecht (PV),2012,663840,663840,28300.0,34.0,22.900000000000006,4105.0,83.70000000000002,5700.0
+Vernieling en beschadiging,Utrecht (PV),2013,663846,663846,25375.0,32.0,20.3,3705.0,106.60000000000001,5115.0
+Vernieling en beschadiging,Utrecht (PV),2014,663852,663852,24915.0,33.0,19.8,3405.0,86.2,4285.0
+Vernieling en beschadiging,Utrecht (PV),2015,663858,663858,24820.0,33.0,19.6,3110.0,96.69999999999999,4155.0
+Vernieling en beschadiging,Utrecht (PV),2016,663864,663864,22060.0,31.0,17.099999999999998,2940.0,110.5,3765.0
+Vernieling en beschadiging,Utrecht (PV),2017,663870,663870,19880.0,29.0,15.3,3060.0,99.3,3890.0
+Vernieling en beschadiging,Utrecht (PV),2018,663876,663876,17895.0,28.0,13.7,3080.0,131.3,3620.0
+Vernieling en beschadiging,Utrecht (PV),2019,663882,663882,19815.0,30.0,14.7,3380.0,142.8,4095.0
+Vernieling en beschadiging,Utrecht (PV),2020,663888,663888,18775.0,30.0,13.8,2970.0,129.4,3740.0
+Vernieling en beschadiging,Zeeland (PV),2010,664026,664026,12220.0,55.0,32.0,1710.0,74.80000000000001,2560.0
+Vernieling en beschadiging,Zeeland (PV),2011,664032,664032,11885.0,52.0,30.900000000000002,1705.0,68.2,2430.0
+Vernieling en beschadiging,Zeeland (PV),2012,664038,664038,10350.0,49.0,26.800000000000004,1530.0,73.4,1975.0
+Vernieling en beschadiging,Zeeland (PV),2013,664044,664044,8900.0,47.0,23.1,1390.0,73.2,1860.0
+Vernieling en beschadiging,Zeeland (PV),2014,664050,664050,7805.0,45.0,20.4,1270.0,80.69999999999999,1590.0
+Vernieling en beschadiging,Zeeland (PV),2015,664056,664056,8310.0,49.0,21.8,1285.0,96.50000000000001,1700.0
+Vernieling en beschadiging,Zeeland (PV),2016,664062,664062,6820.0,44.0,17.9,1165.0,83.3,1390.0
+Vernieling en beschadiging,Zeeland (PV),2017,664068,664068,5635.0,42.0,14.799999999999999,1090.0,73.0,1295.0
+Vernieling en beschadiging,Zeeland (PV),2018,664074,664074,4795.0,38.0,12.399999999999999,1150.0,121.2,1485.0
+Vernieling en beschadiging,Zeeland (PV),2019,664080,664080,5150.0,38.0,13.3,1325.0,166.40000000000003,1575.0
+Vernieling en beschadiging,Zeeland (PV),2020,664086,664086,5515.0,39.0,14.3,995.0,68.5,1505.0
+Vernieling en beschadiging,Zuid-Holland (PV),2010,663960,663960,101200.0,36.0,28.7,18930.0,112.39999999999999,27715.0
+Vernieling en beschadiging,Zuid-Holland (PV),2011,663966,663966,111720.0,40.0,31.700000000000003,17995.0,88.4,24965.0
+Vernieling en beschadiging,Zuid-Holland (PV),2012,663972,663972,96985.0,36.0,27.200000000000003,15175.0,109.1,20695.0
+Vernieling en beschadiging,Zuid-Holland (PV),2013,663978,663978,85390.0,33.0,24.0,13515.0,119.79999999999998,17890.0
+Vernieling en beschadiging,Zuid-Holland (PV),2014,663984,663984,79345.0,33.0,22.200000000000003,12340.0,117.8,16060.0
+Vernieling en beschadiging,Zuid-Holland (PV),2015,663990,663990,72975.0,32.0,20.1,11305.0,118.8,14485.0
+Vernieling en beschadiging,Zuid-Holland (PV),2016,663996,663996,69215.0,32.0,19.1,10800.0,109.89999999999999,13390.0
+Vernieling en beschadiging,Zuid-Holland (PV),2017,664002,664002,58890.0,29.0,16.2,9515.0,114.19999999999999,11525.0
+Vernieling en beschadiging,Zuid-Holland (PV),2018,664008,664008,53495.0,29.0,14.600000000000001,9655.0,121.4,11795.0
+Vernieling en beschadiging,Zuid-Holland (PV),2019,664014,664014,56080.0,30.0,15.299999999999999,10785.0,121.3,13345.0
+Vernieling en beschadiging,Zuid-Holland (PV),2020,664020,664020,59620.0,31.0,16.1,10315.0,117.69999999999999,13970.0
+Vuurwapenmisdrijven,Drenthe (PV),2010,382789,382789,190.0,1.0,0.4,190.0,99.0,195.0
+Vuurwapenmisdrijven,Drenthe (PV),2011,382790,382790,185.0,1.0,0.4,185.0,98.4,205.0
+Vuurwapenmisdrijven,Drenthe (PV),2012,382791,382791,170.0,1.0,0.3,165.0,97.6,190.0
+Vuurwapenmisdrijven,Drenthe (PV),2013,382792,382792,115.0,1.0,0.2,110.0,95.7,120.0
+Vuurwapenmisdrijven,Drenthe (PV),2014,382793,382793,90.0,0.0,0.0,85.0,97.8,100.0
+Vuurwapenmisdrijven,Drenthe (PV),2015,382794,382794,95.0,0.0,0.0,95.0,99.0,115.0
+Vuurwapenmisdrijven,Drenthe (PV),2016,382795,382795,95.0,1.0,0.0,95.0,100.0,100.0
+Vuurwapenmisdrijven,Drenthe (PV),2017,382796,382796,85.0,1.0,0.0,85.0,100.0,100.0
+Vuurwapenmisdrijven,Drenthe (PV),2018,382797,382797,90.0,1.0,0.0,85.0,93.5,95.0
+Vuurwapenmisdrijven,Drenthe (PV),2019,382798,382798,115.0,1.0,0.2,110.0,94.8,130.0
+Vuurwapenmisdrijven,Drenthe (PV),2020,382799,382799,95.0,1.0,0.0,80.0,83.2,110.0
+Vuurwapenmisdrijven,Flevoland (PV),2010,382811,382811,110.0,0.0,0.3,100.0,92.7,120.0
+Vuurwapenmisdrijven,Flevoland (PV),2011,382812,382812,125.0,0.0,0.3,125.0,98.4,150.0
+Vuurwapenmisdrijven,Flevoland (PV),2012,382813,382813,125.0,0.0,0.3,120.0,95.3,160.0
+Vuurwapenmisdrijven,Flevoland (PV),2013,382814,382814,150.0,1.0,0.4,140.0,94.6,175.0
+Vuurwapenmisdrijven,Flevoland (PV),2014,382815,382815,125.0,1.0,0.3,120.0,97.6,145.0
+Vuurwapenmisdrijven,Flevoland (PV),2015,382816,382816,115.0,1.0,0.3,115.0,97.4,135.0
+Vuurwapenmisdrijven,Flevoland (PV),2016,382817,382817,110.0,1.0,0.3,105.0,96.4,125.0
+Vuurwapenmisdrijven,Flevoland (PV),2017,382818,382818,110.0,1.0,0.3,105.0,95.5,140.0
+Vuurwapenmisdrijven,Flevoland (PV),2018,382819,382819,140.0,1.0,0.3,135.0,95.7,165.0
+Vuurwapenmisdrijven,Flevoland (PV),2019,382820,382820,160.0,1.0,0.4,155.0,96.9,180.0
+Vuurwapenmisdrijven,Flevoland (PV),2020,382821,382821,180.0,1.0,0.4,155.0,87.2,200.0
+Vuurwapenmisdrijven,Fryslân (PV),2010,382778,382778,140.0,0.0,0.2,130.0,95.7,145.0
+Vuurwapenmisdrijven,Fryslân (PV),2011,382779,382779,175.0,1.0,0.3,170.0,96.0,190.0
+Vuurwapenmisdrijven,Fryslân (PV),2012,382780,382780,130.0,0.0,0.2,125.0,97.7,150.0
+Vuurwapenmisdrijven,Fryslân (PV),2013,382781,382781,140.0,0.0,0.2,135.0,95.7,140.0
+Vuurwapenmisdrijven,Fryslân (PV),2014,382782,382782,100.0,0.0,0.2,100.0,99.0,110.0
+Vuurwapenmisdrijven,Fryslân (PV),2015,382783,382783,95.0,0.0,0.0,90.0,98.9,115.0
+Vuurwapenmisdrijven,Fryslân (PV),2016,382784,382784,85.0,0.0,0.0,85.0,97.7,95.0
+Vuurwapenmisdrijven,Fryslân (PV),2017,382785,382785,90.0,0.0,0.0,90.0,98.9,100.0
+Vuurwapenmisdrijven,Fryslân (PV),2018,382786,382786,95.0,0.0,0.1,95.0,95.9,105.0
+Vuurwapenmisdrijven,Fryslân (PV),2019,382787,382787,145.0,1.0,0.2,140.0,96.6,160.0
+Vuurwapenmisdrijven,Fryslân (PV),2020,382788,382788,160.0,1.0,0.2,120.0,73.9,190.0
+Vuurwapenmisdrijven,Gelderland (PV),2010,382822,382822,540.0,0.0,0.3,520.0,96.1,615.0
+Vuurwapenmisdrijven,Gelderland (PV),2011,382823,382823,585.0,0.0,0.3,575.0,97.6,655.0
+Vuurwapenmisdrijven,Gelderland (PV),2012,382824,382824,535.0,0.0,0.3,525.0,97.6,595.0
+Vuurwapenmisdrijven,Gelderland (PV),2013,382825,382825,550.0,0.0,0.3,530.0,96.5,625.0
+Vuurwapenmisdrijven,Gelderland (PV),2014,382826,382826,530.0,1.0,0.3,515.0,96.8,610.0
+Vuurwapenmisdrijven,Gelderland (PV),2015,382827,382827,460.0,0.0,0.2,445.0,96.7,520.0
+Vuurwapenmisdrijven,Gelderland (PV),2016,382828,382828,490.0,1.0,0.2,475.0,96.9,530.0
+Vuurwapenmisdrijven,Gelderland (PV),2017,382829,382829,430.0,1.0,0.2,420.0,97.4,475.0
+Vuurwapenmisdrijven,Gelderland (PV),2018,382830,382830,455.0,1.0,0.2,435.0,95.0,515.0
+Vuurwapenmisdrijven,Gelderland (PV),2019,382831,382831,675.0,1.0,0.3,655.0,96.9,790.0
+Vuurwapenmisdrijven,Gelderland (PV),2020,382832,382832,755.0,1.0,0.4,645.0,85.8,855.0
+Vuurwapenmisdrijven,Groningen (PV),2010,382767,382767,175.0,0.0,0.3,175.0,98.9,210.0
+Vuurwapenmisdrijven,Groningen (PV),2011,382768,382768,210.0,1.0,0.4,205.0,99.0,240.0
+Vuurwapenmisdrijven,Groningen (PV),2012,382769,382769,175.0,0.0,0.3,165.0,94.9,190.0
+Vuurwapenmisdrijven,Groningen (PV),2013,382770,382770,150.0,0.0,0.3,145.0,98.7,165.0
+Vuurwapenmisdrijven,Groningen (PV),2014,382771,382771,145.0,0.0,0.2,140.0,95.8,160.0
+Vuurwapenmisdrijven,Groningen (PV),2015,382772,382772,125.0,0.0,0.2,125.0,98.4,135.0
+Vuurwapenmisdrijven,Groningen (PV),2016,382773,382773,90.0,0.0,0.0,85.0,97.8,105.0
+Vuurwapenmisdrijven,Groningen (PV),2017,382774,382774,105.0,0.0,0.2,100.0,99.0,120.0
+Vuurwapenmisdrijven,Groningen (PV),2018,382775,382775,130.0,1.0,0.2,125.0,98.4,145.0
+Vuurwapenmisdrijven,Groningen (PV),2019,382776,382776,170.0,1.0,0.3,155.0,92.3,195.0
+Vuurwapenmisdrijven,Groningen (PV),2020,382777,382777,180.0,1.0,0.3,140.0,78.9,210.0
+Vuurwapenmisdrijven,Limburg (PV),2010,382888,382888,565.0,1.0,0.5,555.0,97.7,655.0
+Vuurwapenmisdrijven,Limburg (PV),2011,382889,382889,585.0,1.0,0.5,565.0,96.1,625.0
+Vuurwapenmisdrijven,Limburg (PV),2012,382890,382890,540.0,1.0,0.5,530.0,98.2,590.0
+Vuurwapenmisdrijven,Limburg (PV),2013,382891,382891,490.0,1.0,0.4,475.0,97.3,530.0
+Vuurwapenmisdrijven,Limburg (PV),2014,382892,382892,450.0,1.0,0.4,435.0,96.5,495.0
+Vuurwapenmisdrijven,Limburg (PV),2015,382893,382893,400.0,1.0,0.4,385.0,96.0,450.0
+Vuurwapenmisdrijven,Limburg (PV),2016,382894,382894,360.0,1.0,0.3,340.0,94.2,395.0
+Vuurwapenmisdrijven,Limburg (PV),2017,382895,382895,345.0,1.0,0.3,335.0,96.5,400.0
+Vuurwapenmisdrijven,Limburg (PV),2018,382896,382896,440.0,1.0,0.4,430.0,98.2,480.0
+Vuurwapenmisdrijven,Limburg (PV),2019,382897,382897,540.0,1.0,0.5,525.0,97.4,580.0
+Vuurwapenmisdrijven,Limburg (PV),2020,382898,382898,535.0,1.0,0.5,445.0,83.7,580.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2010,382899,382899,15.0,1.0,0.0,15.0,88.2,20.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2011,382900,382900,15.0,1.0,0.0,15.0,100.0,15.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2012,382901,382901,25.0,1.0,0.0,25.0,100.0,30.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2013,382902,382902,5.0,0.0,0.0,5.0,66.7,5.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2014,382903,382903,10.0,1.0,0.0,10.0,100.0,10.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2015,382904,382904,5.0,0.0,0.0,5.0,100.0,15.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2016,382905,382905,5.0,1.0,0.0,5.0,100.0,10.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2017,382906,382906,10.0,1.0,0.0,10.0,90.0,10.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2018,382907,382907,10.0,1.0,0.0,10.0,90.0,20.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2019,382908,382908,5.0,0.0,0.0,5.0,100.0,15.0
+Vuurwapenmisdrijven,Niet in te delen (PV),2020,382909,382909,10.0,1.0,0.0,5.0,75.0,10.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2010,382877,382877,915.0,1.0,0.4,885.0,96.8,1035.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2011,382878,382878,860.0,0.0,0.4,840.0,97.2,975.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2012,382879,382879,860.0,0.0,0.3,845.0,98.1,965.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2013,382880,382880,850.0,1.0,0.3,835.0,98.0,960.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2014,382881,382881,785.0,1.0,0.3,770.0,98.6,905.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2015,382882,382882,835.0,1.0,0.3,820.0,97.8,925.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2016,382883,382883,795.0,1.0,0.3,775.0,97.4,855.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2017,382884,382884,840.0,1.0,0.3,820.0,97.5,900.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2018,382885,382885,1055.0,1.0,0.4,1025.0,97.3,1135.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2019,382886,382886,1195.0,1.0,0.5,1165.0,97.4,1325.0
+Vuurwapenmisdrijven,Noord-Brabant (PV),2020,382887,382887,1140.0,1.0,0.4,1000.0,87.9,1285.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2010,382844,382844,1495.0,1.0,0.6,1450.0,97.1,1700.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2011,382845,382845,1910.0,1.0,0.7,1850.0,96.7,2145.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2012,382846,382846,1895.0,1.0,0.7,1830.0,96.6,2090.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2013,382847,382847,1555.0,1.0,0.6,1500.0,96.3,1755.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2014,382848,382848,1310.0,1.0,0.5,1270.0,97.2,1510.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2015,382849,382849,1295.0,1.0,0.5,1245.0,96.1,1460.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2016,382850,382850,1210.0,1.0,0.4,1160.0,96.1,1365.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2017,382851,382851,1005.0,1.0,0.4,955.0,95.3,1145.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2018,382852,382852,1055.0,1.0,0.4,965.0,91.3,1180.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2019,382853,382853,1135.0,1.0,0.4,1070.0,94.0,1325.0
+Vuurwapenmisdrijven,Noord-Holland (PV),2020,382854,382854,1135.0,1.0,0.4,960.0,84.7,1310.0
+Vuurwapenmisdrijven,Overijssel (PV),2010,382800,382800,360.0,1.0,0.3,355.0,97.8,440.0
+Vuurwapenmisdrijven,Overijssel (PV),2011,382801,382801,305.0,0.0,0.3,300.0,98.4,345.0
+Vuurwapenmisdrijven,Overijssel (PV),2012,382802,382802,325.0,1.0,0.3,315.0,96.6,350.0
+Vuurwapenmisdrijven,Overijssel (PV),2013,382803,382803,330.0,1.0,0.3,320.0,97.3,365.0
+Vuurwapenmisdrijven,Overijssel (PV),2014,382804,382804,295.0,1.0,0.3,285.0,96.3,350.0
+Vuurwapenmisdrijven,Overijssel (PV),2015,382805,382805,275.0,1.0,0.2,270.0,98.2,300.0
+Vuurwapenmisdrijven,Overijssel (PV),2016,382806,382806,320.0,1.0,0.3,310.0,96.9,350.0
+Vuurwapenmisdrijven,Overijssel (PV),2017,382807,382807,245.0,1.0,0.2,240.0,97.2,270.0
+Vuurwapenmisdrijven,Overijssel (PV),2018,382808,382808,330.0,1.0,0.3,320.0,97.0,385.0
+Vuurwapenmisdrijven,Overijssel (PV),2019,382809,382809,375.0,1.0,0.3,360.0,96.0,420.0
+Vuurwapenmisdrijven,Overijssel (PV),2020,382810,382810,420.0,1.0,0.4,355.0,84.4,475.0
+Vuurwapenmisdrijven,Utrecht (PV),2010,382833,382833,340.0,0.0,0.3,330.0,96.2,405.0
+Vuurwapenmisdrijven,Utrecht (PV),2011,382834,382834,435.0,1.0,0.4,410.0,94.7,515.0
+Vuurwapenmisdrijven,Utrecht (PV),2012,382835,382835,325.0,0.0,0.3,315.0,96.9,375.0
+Vuurwapenmisdrijven,Utrecht (PV),2013,382836,382836,345.0,0.0,0.3,340.0,98.0,380.0
+Vuurwapenmisdrijven,Utrecht (PV),2014,382837,382837,350.0,0.0,0.3,340.0,97.7,405.0
+Vuurwapenmisdrijven,Utrecht (PV),2015,382838,382838,335.0,0.0,0.3,320.0,96.4,375.0
+Vuurwapenmisdrijven,Utrecht (PV),2016,382839,382839,305.0,0.0,0.2,300.0,98.0,365.0
+Vuurwapenmisdrijven,Utrecht (PV),2017,382840,382840,265.0,0.0,0.2,255.0,97.7,305.0
+Vuurwapenmisdrijven,Utrecht (PV),2018,382841,382841,300.0,0.0,0.2,295.0,97.7,340.0
+Vuurwapenmisdrijven,Utrecht (PV),2019,382842,382842,350.0,1.0,0.3,340.0,98.3,390.0
+Vuurwapenmisdrijven,Utrecht (PV),2020,382843,382843,345.0,1.0,0.3,295.0,86.0,400.0
+Vuurwapenmisdrijven,Zeeland (PV),2010,382866,382866,115.0,1.0,0.3,115.0,96.6,135.0
+Vuurwapenmisdrijven,Zeeland (PV),2011,382867,382867,150.0,1.0,0.4,145.0,96.1,170.0
+Vuurwapenmisdrijven,Zeeland (PV),2012,382868,382868,160.0,1.0,0.4,155.0,96.2,190.0
+Vuurwapenmisdrijven,Zeeland (PV),2013,382869,382869,100.0,1.0,0.3,95.0,94.1,115.0
+Vuurwapenmisdrijven,Zeeland (PV),2014,382870,382870,120.0,1.0,0.3,115.0,96.7,140.0
+Vuurwapenmisdrijven,Zeeland (PV),2015,382871,382871,130.0,1.0,0.3,125.0,96.2,150.0
+Vuurwapenmisdrijven,Zeeland (PV),2016,382872,382872,85.0,1.0,0.0,85.0,100.0,100.0
+Vuurwapenmisdrijven,Zeeland (PV),2017,382873,382873,110.0,1.0,0.3,105.0,95.5,135.0
+Vuurwapenmisdrijven,Zeeland (PV),2018,382874,382874,115.0,1.0,0.3,110.0,95.7,130.0
+Vuurwapenmisdrijven,Zeeland (PV),2019,382875,382875,130.0,1.0,0.3,125.0,95.4,155.0
+Vuurwapenmisdrijven,Zeeland (PV),2020,382876,382876,180.0,1.0,0.5,155.0,87.2,200.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2010,382855,382855,1530.0,1.0,0.4,1480.0,96.6,1930.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2011,382856,382856,1860.0,1.0,0.5,1795.0,96.5,2385.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2012,382857,382857,1780.0,1.0,0.5,1735.0,97.6,2190.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2013,382858,382858,1740.0,1.0,0.5,1700.0,97.8,2145.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2014,382859,382859,1570.0,1.0,0.4,1540.0,98.2,1900.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2015,382860,382860,1375.0,1.0,0.4,1345.0,97.6,1695.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2016,382861,382861,1460.0,1.0,0.4,1420.0,97.1,1720.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2017,382862,382862,1095.0,1.0,0.3,1055.0,96.4,1265.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2018,382863,382863,1245.0,1.0,0.3,1190.0,95.3,1480.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2019,382864,382864,1585.0,1.0,0.4,1490.0,94.0,1830.0
+Vuurwapenmisdrijven,Zuid-Holland (PV),2020,382865,382865,1685.0,1.0,0.5,1455.0,86.4,1990.0
