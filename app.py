@@ -39,7 +39,10 @@ st.sidebar.subheader('Gemaakt Door:')
 st.sidebar.write('• Robin Pelders')
 st.sidebar.write('• Maarten Meeuwes')
 st.sidebar.write('• Mark Yonan')
-st.siderbar.write('Hulpbronnen:')
+st.sidebar.write('Hulpbronnen:')
+st.sidebar.write('https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=85068NED&_theme=299')
+st.sidebar.write('https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=83648NED&_theme=407')
+st.sidebar.write('https://www.politie.nl/algemeen/open-data.html')
 
 
 # ## Politie
