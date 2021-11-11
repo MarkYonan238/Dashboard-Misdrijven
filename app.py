@@ -39,7 +39,7 @@ st.sidebar.subheader('Gemaakt Door:')
 st.sidebar.write('• Robin Pelders')
 st.sidebar.write('• Maarten Meeuwes')
 st.sidebar.write('• Mark Yonan')
-st.siderbar.write('#')
+st.siderbar.write('Hulpbronnen:')
 
 
 # ## Politie
